@@ -7,7 +7,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 30, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 2, 2026</em></p>
 </div>
 
 <p align="center">
@@ -15,8 +15,8 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-13-1f6feb?style=flat-square" alt="13 clients">
-  <img src="https://img.shields.io/badge/2_active-2ea44f?style=flat-square" alt="2 active">
+  <img src="https://img.shields.io/badge/clients-14-1f6feb?style=flat-square" alt="14 clients">
+  <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
   <img src="https://img.shields.io/badge/1_maintenance-f0a000?style=flat-square" alt="1 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
   <img src="https://img.shields.io/badge/8_archived-6e7681?style=flat-square" alt="8 archived">
@@ -43,6 +43,7 @@
 - [Active Clients](#active-clients)
   - [Arc](#arc)
   - [Aeris - Kawata](#kawata-aeris)
+  - [OSU!RISE](#osu-rise)
 - [Under Maintenance](#under-maintenance)
   - [Maple](#maple)
 - [Under Development](#under-development)
@@ -141,6 +142,35 @@
 
 > [!TIP]
 > Add the install folder as an antivirus exclusion to prevent issues.
+
+<a name="osu-rise"></a>
+
+### OSU!RISE - Kernel Software
+
+<div align="left">
+  <a href="https://osurise.online/">
+    <img src="public/osu!rise.png" alt="OSU!RISE logo" width="320">
+  </a>
+</div>
+
+> _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
+
+- **Status:** Active · Paid
+- **Developer:** Kernel Software
+- **Website/Download:** [osurise.online](https://osurise.online/)
+- **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
+- **Cheats:**
+  - Aim Assist: cursor guidance with adjustable strength, smoothing, and FOV
+  - Tap Assist: corrects early clicks and mistimed taps
+  - Smart DKS (Dynamic Key Strokes): works with any keyboard, engages automatically when needed
+  - Relax: automated clicking with human-like randomization, configurable hold time and error margin
+  - Enlighten: visual customization, change AR, change skins, toggle HD/FL removal
+  - Replay Bot: replays any replay file 1:1
+  - Auto Bot: full map automation with human-like, configurable playstyles
+- **Notable tech:** Cloud-synced settings, stream-proof (hidden from OBS, Discord, and streaming software), advertised as zero FPS impact, and polymorphic per-user builds with encryption.
+
+> [!NOTE]
+> Access is subscription-based through their website (register, then download the loader). No static download link to mirror or virus-scan here since it is a live, paid loader service, not a free binary.
 
 <a name="under-maintenance"></a>
 
@@ -457,21 +487,22 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ## Feature comparison
 
-| Feature | Arc | Aeris | Maple |
-|---|:---:|:---:|:---:|
-| Aim Assist / Correction | ✅ | ✅ | ✅ |
-| Relax Hack | ✅ | ✅ | ✅ |
-| Timewarp | ✅ | ✅ | ✅ |
-| AR / CS Changer | ✅ | ✅ | ✅ |
-| HD / FL Remover | ✅ | ✅ | ✅ |
-| Cost | Free | Free | 💰 Paid |
-| Works on current osu!kawata | ✅ | ✅ | 🟠 |
+| Feature | Arc | Aeris | Maple | OSU!RISE |
+|---|:---:|:---:|:---:|:---:|
+| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
+| Relax Hack | ✅ | ✅ | ✅ | ✅ |
+| Timewarp | ✅ | ✅ | ✅ | ❌ |
+| AR / CS Changer | ✅ | ✅ | ✅ | ✅ |
+| HD / FL Remover | ✅ | ✅ | ✅ | ✅ |
+| Cost | Free | Free | 💰 Paid | 💰 Paid |
+| Works on current osu!/kawata | ✅ | ✅ | 🟠 | ✅ |
 
 
-| Client | Status | Cost | Type | Current osu!kawata | Download |
+| Client | Status | Cost | Type | Current osu/kawata | Download |
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
 | [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
+| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Standalone | ✅ | [osurise.online](https://osurise.online/) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
