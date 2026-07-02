@@ -148,7 +148,7 @@
 ### OSU!RISE - Kernel Software
 
 <div align="left">
-  <a href="https://osurise.online/">
+  <a href="https://osurise.online/?ref=QCXBQ3ZH">
     <img src="public/osu!rise.png" alt="OSU!RISE logo" width="320">
   </a>
 </div>
@@ -157,7 +157,7 @@
 
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
-- **Website/Download:** [osurise.online](https://osurise.online/)
+- **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
 - **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
 - **Cheats:**
   - Aim Assist: cursor guidance with adjustable strength, smoothing, and FOV
