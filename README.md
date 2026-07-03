@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
-  <p><strong>Prefer an online interactive version of this archive? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
+  <p><strong>Prefer an online interactive version of this archive with 11 translations? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
   </div>
   <h1>
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
