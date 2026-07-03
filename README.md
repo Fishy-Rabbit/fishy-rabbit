@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
-  <p><strong>Prefer an online interactive version of this archive? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
+  <p><strong>Prefer an online interactive version of this archive with 11 translations? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
   </div>
   <h1>
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
@@ -163,7 +163,7 @@ Per the Kawata Discord `help` channel: if excluding the install folder still doe
 ### OSU!RISE - Kernel Software
 
 <div align="left">
-  <a href="https://osurise.online/">
+  <a href="https://osurise.online/?ref=QCXBQ3ZH">
     <img src="public/osu!rise.png" alt="OSU!RISE logo" width="320">
   </a>
 </div>
@@ -172,7 +172,7 @@ Per the Kawata Discord `help` channel: if excluding the install folder still doe
 
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
-- **Website/Download:** [osurise.online](https://osurise.online/)
+- **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
 - **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
 - **Cheats:**
   - Aim Assist: cursor guidance with adjustable strength, smoothing, and FOV
@@ -520,7 +520,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
 | [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
-| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [osurise.online](https://osurise.online/) |
+| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [.online](https://osurise.online/?ref=QCXBQ3ZH) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
