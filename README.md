@@ -150,7 +150,7 @@
 
 <br>
 
-Per the Kawata Discord `help` channel: if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.link.dll`, `osu.deps.json`, `osu.dll`, `osu.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, and `osu.common.dll`/`osu.common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
+Per the Kawata Discord `help` channel: if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.Ink.dll`, `osu.deps.json`, `osu.dll`, `osu.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, and `osu.common.dll`/`osu.common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
 
 <div align="left">
   <img src="public/aeris/issue-evenAfter-antivirus-exclude-solution.png" alt="Kawata Discord help thread: fix for Aeris still failing after antivirus exclusion" width="600">
