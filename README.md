@@ -64,6 +64,7 @@
 - [Want to test your own cheat?](#test-your-cheat)
 - [Cheating Private Servers](#cheating-private-servers)
 - [Play legit?](#play-legit)
+- [osu! Mirrors](#osu-mirrors)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
@@ -150,7 +151,7 @@
 
 <br>
 
-Per the Kawata Discord `help` channel: if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.Ink.dll`, `osu!.deps.json`, `osu!.dll`, `osu!.dll.config`, `osu!.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, `osu!common.dll`, and `osu!common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
+Per the Kawata Discord `help` channel (fix documented by drown): if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.Ink.dll`, `osu!.deps.json`, `osu!.dll`, `osu!.dll.config`, `osu!.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, `osu!common.dll`, and `osu!common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
 
 <div align="left">
   <img src="public/aeris/issue-evenAfter-antivirus-exclude-solution.png" alt="Kawata Discord help thread: fix for Aeris still failing after antivirus exclusion" width="600">
@@ -170,8 +171,12 @@ Per the Kawata Discord `help` channel: if excluding the install folder still doe
 
 > _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
 
+> [!WARNING]
+> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), Kawata Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat OSU!RISE as use-at-your-own-risk: scan the loader yourself before you run it.
+
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
+- **Public release:** May 14, 2026
 - **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
 - **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
 - **Cheats:**
@@ -185,7 +190,7 @@ Per the Kawata Discord `help` channel: if excluding the install folder still doe
 - **Notable tech:** Cloud-synced settings, stream-proof (hidden from OBS, Discord, and streaming software), advertised as zero FPS impact, and polymorphic per-user builds with encryption.
 
 > [!NOTE]
-> Access is subscription-based through their website (register, then download the loader). No static download link to mirror or virus-scan here since it is a live, paid loader service, not a free binary.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. OSU!RISE is a paid, subscription-only loader. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
 
 > [!WARNING]
 > Confirmed directly with the OSU!RISE team: **Timewarp is not included**, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
@@ -450,6 +455,9 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > [!NOTE]
 > The **Catch (CTB) auto-bot was removed** before release (miracle couldn't fix its memory leaks), so the Catch tab is wiped despite still appearing in the mode menu. Two builds appear in the screenshots. All details and images are developer-provided; paw!cheats was never publicly downloadable.
 
+> [!IMPORTANT]
+> A compiled paw!cheats build was shared with fishy.moe, but we do not have the developer's permission to release it yet, so it stays archived (unreleased) for now while we wait on their final word.
+
 <details>
 <summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 paw!cheats UI screenshots"></summary>
 
@@ -605,6 +613,67 @@ The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai,
 
 No login required.
 
+<hr>
+
+<a name="osu-mirrors"></a>
+
+## osu! Mirrors
+
+Beatmap mirrors and open APIs for building osu! tools and services. These are the mirrors Hinai proudly stands alongside in the osu! community.
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://mirror.hinamizawa.ai/">
+        <img src="public/hinai.png" width="90" alt="Hinai"><br>
+        <sub><b>Hinai</b></sub>
+      </a>
+    </td>
+    <td>
+      Rust and DuckDB beatmap mirror and osu! data hub, powering hinamizawa.ai.<br>
+      <a href="https://mirror.hinamizawa.ai/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/CVz4PKayTm">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/alejandroatacho/hinai-beatmap-mirror">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://mirror.nekoha.moe/">
+        <img src="public/nekoha.png" width="90" alt="Nekoha"><br>
+        <sub><b>Nekoha</b></sub>
+      </a>
+    </td>
+    <td>
+      German mirror, open source, graveyard map specialist.<br>
+      <a href="https://mirror.nekoha.moe/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/QNCmZBqwBQ">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/mirror-nekoha-moe">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://osu.direct/browse">
+        <img src="public/osudirect.png" width="90" alt="osu.direct"><br>
+        <sub><b>osu.direct</b></sub>
+      </a>
+    </td>
+    <td>
+      German mirror, one of the top two mirrors.<br>
+      <a href="https://osu.direct/browse">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/zcneqapZ8g">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/HorizonCode">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://nerinyan.moe/main">
+        <img src="public/nerinyan.png" width="90" alt="NeriNyan"><br>
+        <sub><b>NeriNyan</b></sub>
+      </a>
+    </td>
+    <td>
+      South Korean mirror, hosted in South Korea and Japan.<br>
+      <a href="https://nerinyan.moe/main">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/StNbVPT7y7">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/Nerinyan">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+All of these mirrors are integrated in [kawata.pw](https://kawata.pw).
+
 ## Contributing
 
 <div align="center">
@@ -676,7 +745,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-       Co-Owner, Global Community Manager, Kawata Youtube Manager and Score Hunt Event Manager / Host / Planner at <a href="https://kawata.pw/u/13233">kawata.pw</a>.
+      Co-Owner and Global Community &amp; Media Manager at <a href="https://kawata.pw/u/13233">Kawata</a>.
     </td>
   </tr>
   <tr>
