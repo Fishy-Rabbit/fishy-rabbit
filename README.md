@@ -64,6 +64,7 @@
 - [Want to test your own cheat?](#test-your-cheat)
 - [Cheating Private Servers](#cheating-private-servers)
 - [Play legit?](#play-legit)
+- [osu! Mirrors](#osu-mirrors)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
@@ -172,6 +173,7 @@ Per the Kawata Discord `help` channel: if excluding the install folder still doe
 
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
+- **Public release:** May 14, 2026
 - **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
 - **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
 - **Cheats:**
@@ -604,6 +606,67 @@ The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai,
 - [**mirror.hinamizawa.ai**](https://mirror.hinamizawa.ai/): The API documentation site for the beatmap mirror backend that the Beatmap Mirror and PP Farm Maps above rely on. It is also used by other osu! mirrors and by GitHub tools built by other developers. It was a private mirror for about 2 months at first, then went partially public and later fully public with no rate limit, following requests from private servers. Officially launched publicly on March 2, 2026, built with Rust and DuckDB.
 
 No login required.
+
+<hr>
+
+<a name="osu-mirrors"></a>
+
+## osu! Mirrors
+
+Beatmap mirrors and open APIs for building osu! tools and services. These are the mirrors Hinai proudly stands alongside in the osu! community.
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://mirror.hinamizawa.ai/">
+        <img src="public/hinai.png" width="90" alt="Hinai"><br>
+        <sub><b>Hinai</b></sub>
+      </a>
+    </td>
+    <td>
+      Rust and DuckDB beatmap mirror and osu! data hub, powering hinamizawa.ai.<br>
+      <a href="https://mirror.hinamizawa.ai/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/CVz4PKayTm">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/alejandroatacho/hinai-beatmap-mirror">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://mirror.nekoha.moe/">
+        <img src="public/nekoha.png" width="90" alt="Nekoha"><br>
+        <sub><b>Nekoha</b></sub>
+      </a>
+    </td>
+    <td>
+      German mirror, open source, graveyard map specialist.<br>
+      <a href="https://mirror.nekoha.moe/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/QNCmZBqwBQ">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/mirror-nekoha-moe">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://osu.direct/browse">
+        <img src="public/osudirect.png" width="90" alt="osu.direct"><br>
+        <sub><b>osu.direct</b></sub>
+      </a>
+    </td>
+    <td>
+      German mirror, one of the top two mirrors.<br>
+      <a href="https://osu.direct/browse">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/zcneqapZ8g">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/HorizonCode">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://nerinyan.moe/main">
+        <img src="public/nerinyan.png" width="90" alt="NeriNyan"><br>
+        <sub><b>NeriNyan</b></sub>
+      </a>
+    </td>
+    <td>
+      South Korean mirror, hosted in South Korea and Japan.<br>
+      <a href="https://nerinyan.moe/main">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/StNbVPT7y7">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/Nerinyan">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+All of these mirrors are integrated in [kawata.pw](https://kawata.pw).
 
 ## Contributing
 
