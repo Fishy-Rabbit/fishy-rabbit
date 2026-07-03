@@ -62,6 +62,7 @@
   - [Patched osu! b20220424](#patched-osu)
 - [Feature comparison](#feature-comparison)
 - [Want to test your own cheat?](#test-your-cheat)
+- [Cheating Private Servers](#cheating-private-servers)
 - [Play legit?](#play-legit)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -125,6 +126,7 @@
 - **Download:**
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
   - **Fallback:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris)
+- **Discord:** [discord.gg/pu5zCBfMhZ](https://discord.gg/pu5zCBfMhZ)
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
   - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
@@ -142,6 +144,19 @@
 
 > [!TIP]
 > Add the install folder as an antivirus exclusion to prevent issues.
+
+<details>
+<summary><img src="https://img.shields.io/badge/Fix%3A_Still_Failing_After_Antivirus_Exclusion-8957e5?style=for-the-badge" alt="Fix for Aeris still failing after antivirus exclusion"></summary>
+
+<br>
+
+Per the Kawata Discord `help` channel: if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.Ink.dll`, `osu!.deps.json`, `osu!.dll`, `osu!.dll.config`, `osu!.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, `osu!common.dll`, and `osu!common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
+
+<div align="left">
+  <img src="public/aeris/issue-evenAfter-antivirus-exclude-solution.png" alt="Kawata Discord help thread: fix for Aeris still failing after antivirus exclusion" width="600">
+</div>
+
+</details>
 
 <a name="osu-rise"></a>
 
@@ -171,6 +186,9 @@
 
 > [!NOTE]
 > Access is subscription-based through their website (register, then download the loader). No static download link to mirror or virus-scan here since it is a live, paid loader service, not a free binary.
+
+> [!WARNING]
+> Confirmed directly with the OSU!RISE team: **Timewarp is not included**, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
 
 <a name="under-maintenance"></a>
 
@@ -539,6 +557,34 @@ Beyond testing, we can also host a download URL for your cheat on fishy.moe. If 
 
 <hr>
 
+<a name="cheating-private-servers"></a>
+
+## Cheating Private Servers
+
+<div align="center">
+  <a href="https://kawata.pw">
+    <img src="public/kawata.png" alt="Kawata" width="160">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fishy.moe/">
+    <img src="public/fishy.png" alt="fishy.moe" width="160">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://atoka.pw/">
+    <img src="public/osu!Atoka.png" alt="Atoka" width="160">
+  </a>
+</div>
+
+A directory of the osu! private servers known to allow the cheating clients listed in this archive:
+
+- [**kawata.pw**](https://kawata.pw)
+- [**fishy.moe**](https://fishy.moe/)
+- [**atoka.pw**](https://atoka.pw/)
+
+Every other private server, and Bancho itself, detects and bans these clients on score submission.
+
+<hr>
+
 <a name="play-legit"></a>
 
 ## Play legit?
@@ -555,6 +601,7 @@ The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai,
 - [**PP Farm Maps**](https://hinamizawa.ai/osu/pp-maps/): 144,000+ ranked beatmaps with pre-calculated PP for 14 mod combinations. Filter by PP range, star rating, BPM, mode.
 - [**Beatmap Packs**](https://hinamizawa.ai/osu/map-packs/): 3,750+ curated packs across 7 categories (Standard, Featured Artist, Tournament, Loved, Spotlights, Theme, Artist), 263,000+ difficulties with PP per difficulty.
 - [**Private Server List**](https://hinamizawa.ai/osu/servers/): A directory of every osu! private server found online, with live stats. All are strictly non-cheating servers and will ban on sight if you cheat on score submission.
+- [**mirror.hinamizawa.ai**](https://mirror.hinamizawa.ai/): The API documentation site for the beatmap mirror backend that the Beatmap Mirror and PP Farm Maps above rely on. It is also used by other osu! mirrors and by GitHub tools built by other developers. It was a private mirror for about 2 months at first, then went partially public and later fully public with no rate limit, following requests from private servers. Officially launched publicly on March 2, 2026, built with Rust and DuckDB.
 
 No login required.
 
@@ -585,7 +632,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>.
     </td>
   </tr>
   <tr>
@@ -608,7 +655,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Developer of <a href="#tuyosu">tuyosu</a>, Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
-    </td
+    </td>
   </tr>
   <tr>
     <td align="center" width="140">
