@@ -7,7 +7,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 3, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 4, 2026</em></p>
 </div>
 
 <p align="center">
@@ -378,15 +378,22 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/freedomMirrorImage.png" alt="freedom" width="160">
 </div>
 
-> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. GitHub repo offline; only the forum mirror remains._
+> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. The GitHub repo is offline; both builds are mirrored on fishy.moe._
 
 - **Status:** Archived · Unmaintained · GitHub offline
-- **Maintainer:** [Ciremun](https://github.com/Ciremun) (account/repo offline · unmaintained)
-- **Download:**
-  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(forum mirror)*
-  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(repo offline)*
+- **Version:** 0.94.3 (last release May 17, 2024)
+- **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · account/repo offline · unmaintained; contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio)
+- **Source (open source):** Ciremun's repo is offline, but the C source survives in community mirrors:
+  - [free-osu/free-osu](https://github.com/free-osu/free-osu) *(v0.94.3, matches the last release)*
+  - [hel1ngx/OSU-FREEDOM](https://github.com/hel1ngx/OSU-FREEDOM) *(later v0.98 fork)*
+- **Download (fishy.moe mirror, current):**
+  - [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) *(v0.98, newest, self-injecting exe)*
+  - [fishy.moe/download/freedom-0-94-3](https://fishy.moe/download/freedom-0-94-3) *(v0.94.3, legacy, DLL + injector)*
+- **Download (legacy):**
+  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(legacy forum mirror)*
+  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(original repo, offline)*
 - **Source thread:** [UnKnoWnCheaTs: osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
-- **Format:** DLL. Inject with any injector (Extreme Injector recommended)
+- **Format:** DLL. Ships with its own injector (v0.98 self-injects; v0.94.3 bundles `freedom_injector.exe`). Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) also works.
 - **Cheats:**
   - Aimbot
   - Relax Hack
@@ -394,9 +401,16 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Replay
   - Mods (Unmod Flashlight, Score Multiplier)
   - Misc
+- **How to use:**
+  - Run the bundled Launcher, or inject the DLL with any working injector
+  - **Right Click** the map title in-game to open Settings
+  - **F11** to hide or show the mod menu
+
+> [!NOTE]
+> freedom comes with its own injector, so you don't need a separate one. The newest v0.98 build is a single self-injecting `freedom.exe` (just run it); the older v0.94.3 ships `freedom_injector.exe` next to the DLL. Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) works too, as a fallback or for other DLL cheats.
 
 > [!WARNING]
-> The GitHub repo is offline. Only the UnKnoWnCheaTs attachment remains, and DLLs posted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+> Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
 
 <a name="tuyosu"></a>
 
@@ -507,7 +521,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archival snapshot
 - **Download1:** [fishy.moe snapshot (b20220424.zip)](https://fishy.moe/download/osu-b20220424)
 - **Download2:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
-- **Notes:** The alternate Discord CDN mirror was removed after going offline in 2025.
+- **Notes:** Now mirrored on fishy.moe storage as well, so the build survives if osekai goes down. The osu! binaries are untouched and ppy-signed; only a bundled repair shortcut that leaked the original packager's PC details was removed. The alternate Discord CDN mirror was taken down after going offline in 2025, leaving osekai.net as the canonical upstream source.
 
 <hr>
 
@@ -528,7 +542,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
 | [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
-| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [.online](https://osurise.online/?ref=QCXBQ3ZH) |
+| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [osurise.online](https://osurise.online/?ref=QCXBQ3ZH) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
@@ -536,7 +550,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**Abypass**](#abypass) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Updater mirror](https://abypass.fumo.lol/updater) |
 | [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Project site](https://skooter.shibe.lol/) |
 | [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Discord CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
-| [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
+| [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [fishy.moe](https://fishy.moe/download/freedom-0-98) |
 | [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu) |
 | [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
 | [**osu!rx**](#osu-rx) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | b20220424 | ❌ | _none found_ |
@@ -717,6 +731,17 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/Xyrohh">
+        <img src="https://github.com/Xyrohh.png" width="80" alt="Hugo (Xyrohh)"><br>
+        <sub><b>Hugo (Xyrohh)</b></sub>
+      </a>
+    </td>
+    <td>
+      Co-Owner and Global Community &amp; Media Manager at <a href="https://kawata.pw/u/13233">Kawata</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
       <a href="https://github.com/nyoemii">
         <img src="https://github.com/nyoemii.png" width="80" alt="noemi (nyoemii)"><br>
         <sub><b>noemi (nyoemii)</b></sub>
@@ -739,13 +764,11 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/Xyrohh">
-        <img src="https://github.com/Xyrohh.png" width="80" alt="Hugo (Xyrohh)"><br>
-        <sub><b>Hugo (Xyrohh)</b></sub>
-      </a>
+      <img src="public/drown.webp" width="80" alt="drown"><br>
+      <sub><b>drown</b></sub>
     </td>
     <td>
-      Co-Owner and Global Community &amp; Media Manager at <a href="https://kawata.pw/u/13233">Kawata</a>.
+      Bug hunter and reporter for <a href="https://kawata.pw">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client, and a member of the Support team.
     </td>
   </tr>
   <tr>
