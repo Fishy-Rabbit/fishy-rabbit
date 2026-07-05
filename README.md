@@ -117,9 +117,7 @@
 
 > [!IMPORTANT]
 > **Aeris is temporarily on hold.** The owner and maintainer, TheFantasticLoki, is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
->
 > **`storage.kawata.pw` has been down since June 2, 2026.**
->
 > **Fallback mirror added June 27, 2026:** while the official download is offline, Aeris is now mirrored at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
@@ -222,7 +220,6 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 > [!IMPORTANT]
 > Maple is currently going through updates and is **unavailable to purchase or use** right now. It is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
->
 > **Under development since December 13, 2024 following a source-code leak (per the official Discord announcement).**
 
 > _Paid hack with no built-in limits, actively maintained._
@@ -310,6 +307,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <a name="aqn"></a>
 
 ### AQN V0 + V1 + V2
+
 <img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
 <div align="left">
   <a href="https://github.com/rumoi/AQN_nologin">
