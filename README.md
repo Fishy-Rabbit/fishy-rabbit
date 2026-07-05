@@ -409,6 +409,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Unmaintained · GitHub offline
 - **Version:** 0.94.3 (last release May 17, 2024)
 - **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · account/repo offline · unmaintained; contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio)
+- **History Preview:** [fishy.moe/freedom-memorial](https://fishy.moe/client-cheating-archive#freedom)
 - **Source (open source):** Ciremun's repo is offline, but the C source survives in community mirrors:
   - [free-osu/free-osu](https://github.com/free-osu/free-osu) *(v0.94.3, matches the last release)*
   - [hel1ngx/OSU-FREEDOM](https://github.com/hel1ngx/OSU-FREEDOM) *(later v0.98 fork)*
@@ -882,7 +883,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors
+## Contributors: 8
 
 <table>
   <tr>
@@ -926,7 +927,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Developer of <a href="#tuyosu">tuyosu</a>, Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
+      Developer of <a href="#tuyosu">tuyosu</a> and co-developer of <a href="#shaymi">Shaymi</a> (with miracle), Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
     </td>
   </tr>
   <tr>
@@ -937,7 +938,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Developer of <a href="#paw-cheats">paw!cheats</a> and provided it, along with screenshots and information, for this archive, including the Ainu rumor note.
+      Developer of <a href="#paw-cheats">paw!cheats</a> and co-developer of <a href="#shaymi">Shaymi</a> (with noemi), and provided both, along with screenshots and information, for this archive, including the Ainu rumor note.
     </td>
   </tr>
   <tr>
