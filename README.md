@@ -7,7 +7,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 3, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 5, 2026</em></p>
 </div>
 
 <p align="center">
@@ -15,11 +15,11 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-14-1f6feb?style=flat-square" alt="14 clients">
+  <img src="https://img.shields.io/badge/clients-16-1f6feb?style=flat-square" alt="16 clients">
   <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
   <img src="https://img.shields.io/badge/1_maintenance-f0a000?style=flat-square" alt="1 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
-  <img src="https://img.shields.io/badge/8_archived-6e7681?style=flat-square" alt="8 archived">
+  <img src="https://img.shields.io/badge/10_archived-6e7681?style=flat-square" alt="10 archived">
 </p>
 
 > [!CAUTION]
@@ -50,13 +50,15 @@
   - [AQN Revived V3](#aqn-revived-v3)
   - [??????](#mystery-client)
 - [Legacy / Archive](#legacy-archive)
-  - [AQN V1 + V2](#aqn)
+  - [AQN V0 + V1 + V2](#aqn)
+  - [freedom](#freedom)
+  - [Ainu](#ainu)
+  - [Auto Assist Megumi](#megumi)
   - [Abypass](#abypass)
   - [Skooter](#skooter)
-  - [Ainu](#ainu)
-  - [freedom](#freedom)
   - [tuyosu](#tuyosu)
   - [paw!cheats](#paw-cheats)
+  - [Shaymi](#shaymi)
   - [osu!rx](#osu-rx)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
@@ -115,9 +117,7 @@
 
 > [!IMPORTANT]
 > **Aeris is temporarily on hold.** The owner and maintainer, TheFantasticLoki, is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
->
 > **`storage.kawata.pw` has been down since June 2, 2026.**
->
 > **Fallback mirror added June 27, 2026:** while the official download is offline, Aeris is now mirrored at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
@@ -172,13 +172,14 @@ Per the Kawata Discord `help` channel (fix documented by drown): if excluding th
 > _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
 
 > [!WARNING]
-> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), Kawata Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat OSU!RISE as use-at-your-own-risk: scan the loader yourself before you run it.
+> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), Kawata Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat OSU!RISE as **use-at-your-own-risk**: scan the loader yourself before you run it.
 
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
 - **Public release:** May 14, 2026
 - **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
 - **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
+- **Showcase videos:** [Kernel Software showcase](https://www.youtube.com/watch?v=_lqZbx6c-bo) · [OSU!RISE startup guide](https://www.youtube.com/watch?v=y1N91Ef3JyI)
 - **Cheats:**
   - Aim Assist: cursor guidance with adjustable strength, smoothing, and FOV
   - Tap Assist: corrects early clicks and mistimed taps
@@ -190,10 +191,10 @@ Per the Kawata Discord `help` channel (fix documented by drown): if excluding th
 - **Notable tech:** Cloud-synced settings, stream-proof (hidden from OBS, Discord, and streaming software), advertised as zero FPS impact, and polymorphic per-user builds with encryption.
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. OSU!RISE is a paid, subscription-only loader. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. OSU!RISE is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
 
 > [!WARNING]
-> Confirmed directly with the OSU!RISE team: **Timewarp is not included**, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
 
 <a name="under-maintenance"></a>
 
@@ -219,7 +220,6 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 > [!IMPORTANT]
 > Maple is currently going through updates and is **unavailable to purchase or use** right now. It is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
->
 > **Under development since December 13, 2024 following a source-code leak (per the official Discord announcement).**
 
 > _Paid hack with no built-in limits, actively maintained._
@@ -306,7 +306,8 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <a name="aqn"></a>
 
-### AQN V1 + V2
+### AQN V0 + V1 + V2
+
 <img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
 <div align="left">
   <a href="https://github.com/rumoi/AQN_nologin">
@@ -314,23 +315,239 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-> _AQN V1 was the original AQN by Kevin, later continued as V2 by Rumoi. Now free; crashes on the current osu! version._
+> _AQN began in 2011 under lead developer Kevin. V0 sold its cheats separately; V1 introduced the unified loader and in-game sidebar AQN became known for. Rumoi continued the line as V2, most likely 2016 to 2017. Now free; crashes on the current osu! version._
 
 - **Status:** Archived · Broken on current osu!
-- **Maintainer:** <img src="public/aqn.png" width="28" align="middle" alt="AQN (Kevin) icon"> Kevin (original developer, V1) and <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (V2). Both unmaintained.
+- **Maintainer:** <img src="public/aqnUI/v0-logo.webp" width="28" align="middle" alt="AQN V0 eagle logo, Kevin"> Kevin (original developer, V0/V1, 2011; later V2 server maintainer, website name owner, and update rollout) and <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (V2 lead developer). Both unmaintained.
 - **Download:**
-  - [theaquila.net](https://theaquila.net/) *(legacy site)*
+  - [theaquila.net](https://theaquila.net/) *(legacy site, "The Aquila Network" brand)*
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
+- **Cheats:**
+  - Relax *(V0; upgraded again in V2)*
+  - Auto Pilot *(V0)*
+  - Enlighten *(V0)*
+  - Timewarp *(V0; V2 adds an adjustable Play Speed slider, No Spectator Buffer, Show Approx Countdown, and an Indicator Scale option)*
+  - Auto Taiko *(V0)*
+  - CTB *(V0 beta)*: stable, no memory leaks, but discontinued once Relax and Timewarp became the top sellers
+  - Replay Editor *(V2)*
+  - Score Submission Preventor *(V2)*: a manual gate before a bot-played score submits, with configurable pass/accuracy/combo percentages, random spread, mod toggles, a randomized submit delay, and an auto-submit toggle
+  - Aim Assist *(V2)*: released in several successive versions as competition intensified, first against Kat's standalone Aim Assist, then against [Auto Assist Megumi](#megumi)
+  - VIP tier *(V2, by Rumoi)*: a paid tier with Free Supporter, Hide Button On Close, and Extra Skinables, plus a far deeper Enlighten rebuild (legacy AR/Hidden modes, quality, cursor size, circle and AR thickness sliders, and color pickers)
+
+> [!NOTE]
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The original team (2011):** Kevin was the solo lead developer. Ben made a minor but important contribution to V0's early stages, before unexpectedly passing away in real life. Hinamizawa and "Bikko" moderated the community (this Bikko is unrelated to the touchscreen-cheat "Bikko" and its 2012 to 2013 controversy; a different person who happens to share the handle, and nationality). V0 arrived in an era when cheats were sold and run separately; V1 unified them behind the loader and sidebar.
+
+> [!NOTE]
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The V2 team (start year unknown, most likely 2016 to 2017):** Rumoi took over as lead developer. Kevin stayed on as server maintainer and website name owner, handling update rollouts; Helsing moderated the Discord; Hinamizawa wrote guides and managed the forum. Rumoi released a replay editor, upgraded Relax, and pushed out several successive Aim Assist versions as the competition intensified, putting AQN in direct competition, first with Kat's standalone Aim Assist, then with [Auto Assist Megumi](#megumi) (Kat's upgraded version, built with other contributors).
+
+> [!NOTE]
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The Taiko/CTB bug:** During the transition from V1 to V2, an Enlighten update by Rumoi broke Taiko rendering. For reasons unknown, nearly every cheat client that followed inherited the same Taiko bug, and a similarly odd CTB bug, except Ainu. A later alternative fix attempt helped, but never fully resolved it.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_19_Preview_Images-8957e5?style=for-the-badge" alt="View 19 AQN preview images"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/aqnUI/v0-logo.webp" alt="AQN's original 2012 eagle logo" width="480">
+  <p><em>AQN's original 2012 eagle logo, matching the "Aquila" (Latin for eagle) name.</em></p>
+  <img src="public/aqnUI/v0-enlighten-cracked.webp" alt="AQN V0's standalone Enlighten tool, cracked by YouLikeMyAim" width="480">
+  <p><em>AQN V0's standalone Enlighten tool (Flashlight/Hidden patcher), cracked by YouLikeMyAim.</em></p>
+  <img src="public/aqnUI/v1-sidebar.webp" alt="AQN V1's in-game sidebar showing the Replay panel" width="480">
+  <p><em>AQN V1's in-game sidebar: the Replay panel (Load Replay, Hardrock, Edit Replay, Beta Replay Selector, Filter Score Submission), with beatmap covers along the left edge.</em></p>
+  <img src="public/aqnUI/transition-loader.webp" alt="The Aquila Network loader, mid-transition between V1 and V2" width="480">
+  <p><em>The Aquila Network loader, mid-transition between V1 and V2: module checkboxes for Relax, Replay Editor, Timewarp, Taiko, Mania, and Enlighten.</em></p>
+  <img src="public/aqnUI/v2-replay-editor-design.webp" alt="An early V2 Replay Editor design from October 2019" width="480">
+  <p><em>An early V2 Replay Editor design (October 2019): Load Replay, Hardrock, Beta Replay Selector, Filter Scores, Smoke Enabled, Ease in play, Disable ease in visual, and True Sight.</em></p>
+  <img src="public/aqnUI/early-replay-editor-video.png" alt="A frame from an early working demo of Rumoi's Replay Editor" width="480">
+  <p><em>A frame from an early working demo of Rumoi's Replay Editor, scrubbing frame by frame through a DoubleTime play.</em></p>
+  <img src="public/aqnUI/hwid-login.webp" alt="The Aquila Network's HWID rate-limit check" width="480">
+  <p><em>The Aquila Network's HWID rate-limit check ("HWID has changed too fast"), logging into Hinamizawa's own account.</em></p>
+  <img src="public/aqnUI/hwid-caught.webp" alt="The same HWID protection catching Hinamizawa's own login history" width="480">
+  <p><em>The same HWID protection catching Hinamizawa's own login history.</em></p>
+  <img src="public/aqnUI/win7-error.webp" alt="A Windows 7 connectivity error message in the Aquila Network loader" width="480">
+  <p><em>A Windows 7 connectivity error message, with the loader's built-in music player showing in the background.</em></p>
+  <img src="public/aqnUI/loader-map-skin.webp" alt="Another Aquila Network loader skin with a map-pin themed background" width="480">
+  <p><em>Another Aquila Network loader skin, with a map-pin themed background.</em></p>
+  <img src="public/aqnUI/forum-guides.webp" alt="Two of Hinamizawa's eleven AQN forum guides" width="480">
+  <p><em>Two of Hinamizawa's eleven AQN forum guides: "Timewarp: How it works & things to watch out for" and "Dejavu: How it works & what you need to know" (both 2019).</em></p>
+  <img src="public/aqnUI/top-contributors.webp" alt="The AQN forum's top contributors by reputation" width="480">
+  <p><em>The AQN forum's top contributors by reputation: rumoi, Hinamizawa, and others in the community.</em></p>
+  <img src="public/aqnUI/v2-score-submission.webp" alt="AQN V2's Score Submission panel" width="480">
+  <p><em>AQN V2's Score Submission panel: pass/accuracy/combo percentages, random spread, mod toggles, a randomized submit delay, and an auto-submit toggle.</em></p>
+  <img src="public/aqnUI/v2-timewarp.webp" alt="AQN V2's Timewarp panel" width="480">
+  <p><em>AQN V2's Timewarp panel: Enabled, Play Speed, No Spectator Buffer, Show Approx Countdown, and Indicator Scale.</em></p>
+  <img src="public/aqnUI/v2-taiko-bug.webp" alt="The Taiko rendering bug that followed Rumoi's Enlighten update" width="480">
+  <p><em>The Taiko rendering bug that followed Rumoi's Enlighten update, later inherited by nearly every future cheat client except Ainu.</em></p>
+  <img src="public/aqnUI/taiko-alt-fix.webp" alt="A later alternative fix attempt for the Taiko bug" width="480">
+  <p><em>A later alternative fix attempt for Enlighten's Taiko rendering. Not the fix everyone wanted, but it helped.</em></p>
+  <img src="public/aqnUI/vip-misc.webp" alt="The Rumoi-developed VIP tier's Misc panel" width="480">
+  <p><em>The Rumoi-developed VIP tier's Misc panel: Free Supporter, Hide Button On Close, and Extra Skinables.</em></p>
+  <img src="public/aqnUI/vip-enlighten.webp" alt="The VIP tier's rebuilt Enlighten" width="480">
+  <p><em>The VIP tier's rebuilt Enlighten (Dec 11): legacy AR/Hidden modes, quality, cursor size, circle and AR thickness, and color pickers for cursor, slider rim, and hit circle.</em></p>
+  <img src="public/aqnUI/lifetime-sale.webp" alt="A promotional GIF Hinamizawa made for a V2 lifetime subscription sale" width="480">
+  <p><em>A promotional GIF Hinamizawa made himself for a V2 lifetime-subscription sale.</em></p>
+</div>
+
+</details>
+
+<a name="freedom"></a>
+
+### freedom
+
+<div align="left">
+  <img src="public/freedom-badge.webp" alt="osu!freedom badge" width="160">
+</div>
+
+> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. The GitHub repo is offline; both builds are mirrored on fishy.moe._
+
+> [!NOTE]
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** One of the most widely shared free osu! cheats. It still circulates on cheat forums years after its repo went offline, and across the private servers I have moderated over the years it is the cheat I have seen come up the most in player reports and ban appeals. So I gave this abandoned, forgotten cheat its own logo and dedication here. Grab it only from a scanned source such as the fishy.moe mirrors below.
+
+- **Status:** Archived · Unmaintained · GitHub offline
+- **Version:** 0.94.3 (last release May 17, 2024)
+- **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · account/repo offline · unmaintained; contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio)
+- **History Preview:** [fishy.moe/freedom-memorial](https://fishy.moe/client-cheating-archive#freedom)
+- **Source (open source):** Ciremun's repo is offline, but the C source survives in community mirrors:
+  - [free-osu/free-osu](https://github.com/free-osu/free-osu) *(v0.94.3, matches the last release)*
+  - [hel1ngx/OSU-FREEDOM](https://github.com/hel1ngx/OSU-FREEDOM) *(later v0.98 fork)*
+- **Download (fishy.moe mirror, current):**
+  - [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) *(v0.98, newest, self-injecting exe)*
+  - [fishy.moe/download/freedom-0-94-3](https://fishy.moe/download/freedom-0-94-3) *(v0.94.3, legacy, DLL + injector)*
+- **Download (legacy):**
+  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(legacy forum mirror)*
+  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(original repo, offline)*
+- **Source thread:**
+  - [UnKnoWnCheaTs: osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
+  - [cheater.fun: osu freedom hack](https://cheater.fun/other-hacks-games/7886-osu-freedom-hack.html) *(legacy build listing)*
+- **Format:** DLL. Ships with its own injector (v0.98 self-injects; v0.94.3 bundles `freedom_injector.exe`). Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) also works.
+- **Cheats:**
+  - Aimbot
+  - Relax Hack
+  - Timewarp
+  - Replay
+  - Mods (Unmod Flashlight, Score Multiplier)
+  - Misc
+- **How to use:**
+  - Run the bundled Launcher, or inject the DLL with any working injector
+  - **Right Click** the map title in-game to open Settings
+  - **F11** to hide or show the mod menu
+
+> [!NOTE]
+> freedom comes with its own injector, so you don't need a separate one. The newest v0.98 build is a single self-injecting `freedom.exe` (just run it); the older v0.94.3 ships `freedom_injector.exe` next to the DLL. Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) works too, as a fallback or for other DLL cheats.
+
+> [!WARNING]
+> Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_4_freedom_Images-8957e5?style=for-the-badge" alt="View 4 freedom screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/freedom-showcase.webp" alt="freedom in-game overlay, Relax config tab" width="480">
+  <p><em>The in-game overlay: Relax config (SingleTap / Alternate, UR forced to 0).</em></p>
+  <img src="public/freedomMirrorImage.png" alt="freedom overlay, Difficulty tab with AR / CS / OD sliders" width="480">
+  <p><em>The Difficulty tab: live AR / CS / OD override sliders.</em></p>
+  <img src="public/freedom-about.webp" alt="freedom overlay, About tab crediting Ciremun, Maple Syrup and MrFlashStudio" width="480">
+  <p><em>The About tab: Ciremun's Freedom v0.8, thanks to Maple Syrup and MrFlashStudio.</em></p>
+  <img src="public/freedom-badge.webp" alt="osu!freedom circular badge logo" width="480">
+  <p><em>The osu!freedom badge, the first logo this abandoned cheat ever had.</em></p>
+</div>
+
+</details>
+
+<a name="ainu"></a>
+
+### Ainu
+
+> _Predecessor to Skooter and Abypass. No longer maintained._
+
+- **Status:** Archived · Unmaintained
+- **Maintainer:** Cherry/Aoba Suzukaze (edits by [Chewy/Pythr](https://github.com/Pytxhr); unmaintained)
+- **Download:** An original copy was found. It's currently being tested and verified, with a new design card in the works, before it releases back to the public on fishy.moe.
+- **Download (legacy):**
+  - [Main link](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) *(Discord CDN, dead)*
+  - [Alternate version](https://cdn.discordapp.com/attachments/837034085478039574/902318926980071434/ainu-cheat_1.exe) *(Discord CDN, dead)*
+- **Source thread:** [MPGH: osu! Ainu Cheat Client](https://www.mpgh.net/forum/thread/1484323-osu-ainu-cheat-client) *(official thread, closed January 1, 2020)*
+- **Cheats:**
+  - osu!direct
+  - Perfect ReplayCopy
+  - Timewarp
+  - Normal AR for EZ
+  - Fake Hidden
+  - Fake Flashlight
+  - AR Changer
+  - Disable Score Submission
+  - Prefer "original" osu! Discord RPC (Ainu client has its own RPC)
+  - Nameprotect (changes your name locally for the client and for the RPC)
+  - Custom Rank (same thing, for your rank)
+  - Relax
+  - Save Me
+  - Multiaccount Mode
+  - Spoof MAC Address
+  - Spoof Disk Signature
+  - Spoof Uninstall ID
+
+> [!NOTE]
+> <img src="https://github.com/nyoemii.png" width="20" align="middle" alt="noemi (nyoemii) avatar"> <img src="https://github.com/SimplyAe.png" width="20" align="middle" alt="miracle (SimplyAe) avatar"> **Rumors (provided by [noemi (nyoemii)](https://github.com/nyoemii) & [miracle (SimplyAe)](https://github.com/SimplyAe)):** Ainu builds are reportedly still circulating, with some claiming to hold the original source and allegedly using AI to produce new versions. This is unconfirmed rumor and speculation only: the source appears lost to time and/or kept private by Cherry/Aoba Suzukaze, and Chewy/Pythr has deleted his GitHub account.
+
+> [!NOTE]
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** We also picked up a very unique Ainu build of our own for the archive, with noticeably different design work compared to the copy above. It's different enough that it could mean a third person out there holds some version of Cherry's original source, though that's unconfirmed and purely a rumor for now. Call it Ainu Enhanced: currently kept internal while we verify and test it, so there's no download yet.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_6_UI_Screenshots-8957e5?style=for-the-badge" alt="View 6 Ainu UI screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/ainuCheatUI/cheats-menu.png" alt="Ainu: Cheats menu with Perfect ReplayCopy, Timewarp, AR Changer, RPC and Nameprotect options" width="480">
+  <p><em>Cheats menu: Perfect ReplayCopy, Timewarp, Normal AR for EZ, Fake Hidden/Flashlight, AR Changer, Disable Score Submission, the Discord RPC toggle, Nameprotect, and Custom Rank.</em></p>
+  <img src="public/ainuCheatUI/relax-settings.png" alt="Ainu: Relax Settings with key bindings and the Save Me failsafe" width="480">
+  <p><em>Relax Settings: primary/secondary key bindings, swap and double-delay offsets, hit radius scalar, and the Save Me auto-teleport failsafe.</em></p>
+  <img src="public/ainuCheatUI/relax-tuning.png" alt="Ainu: more Relax tuning options leading into Device Spoofer" width="480">
+  <p><em>More Relax tuning (miss radius, key-up delay, slider and spinner offsets) leading into the Device Spoofer section.</em></p>
+  <img src="public/ainuCheatUI/device-spoofer.png" alt="Ainu: Device Spoofer with MAC address, disk signature and uninstall ID fields" width="480">
+  <p><em>Device Spoofer: MAC address, disk signature, and uninstall ID fields, plus General maintenance tools.</em></p>
+  <img src="public/ainuCheatUI/cherry-stuff.png" alt="Ainu: the Cherry Stuff cheats menu with Auto, CTB Relax, SMLWR and a Replay Bot toggle" width="480">
+  <p><em>The "Cherry Stuff" cheats menu: Auto/Perfect/Bounce-off-border modes, CTB Relax, SMLWR, UnMod, HD/FL removers, Aim Correction, and a Replay Bot toggle.</em></p>
+  <img src="public/ainuCheatUI/main-menu.png" alt="Ainu: the Ainu! main menu running a custom holiday-themed skin" width="480">
+  <p><em>The Ainu! main menu, running a custom holiday-themed skin.</em></p>
+</div>
+
+</details>
+
+<a name="megumi"></a>
+
+### Auto Assist Megumi
+
+> _DLL-injected relax and aim assist cheat from the osu!rx era. Rivaled AQN V2, a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
+
+- **Status:** Archived · Free · DLL inject · Source lost
+- **Maintainer:** kat, eee, and Cherry (original developers)
+- **Download:** No working build survives. The original C++ source, downloads, and forum threads are all gone.
+- **Source thread:** [github.com/blobnom/megumi-python](https://github.com/blobnom/megumi-python) *(a later Python recreation, built without the original source; unverified, not viable)*
+- **Cheats:**
+  - Aim Assist: teleports the cursor near the circle, then teleports it back to its original position
+  - Timewarp: slows down the game
+  - HD and FL Remover: turns the HD and FL visual effects off without disabling the mod flag
+  - AR and OD Changer: changes the AR and OD values
+  - Replay Bot: mimics a given player's replay by loading that replay's `.osz` file
+  - Relax hack: automated clicking
+
+> [!NOTE]
+> Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed. The only known revival attempt is a [Python recreation on GitHub](https://github.com/blobnom/megumi-python), built without access to the original source. It does not faithfully reproduce the original and is not considered viable.
 
 <a name="abypass"></a>
 
 ### Abypass
 
-> _Successor to Skoot.er, mostly discontinued. Downloads have been lost._
+> _Successor to Skoot.er, mostly discontinued._
 
-- **Status:** Archived · Downloads lost
+- **Status:** Archived · Unmaintained
 - **Maintainer:** [Chewy/Pythr](https://github.com/Pytxhr) (previously <a href="https://github.com/7ez"><img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> Aochi</a>; unmaintained)
-- **Download:**
+- **Download:** An original copy was found. It's currently being tested and verified before it releases back to the public on fishy.moe.
+- **Download (legacy):**
   - [abypass.fumo.lol/updater](https://abypass.fumo.lol/updater) *(unverified)*
   - [cute.cat-girls.club mirror](https://cute.cat-girls.club/u/logytbz.zip)
 - **Discord:** [discord.gg/RFj2839kbw](https://discord.gg/RFj2839kbw)
@@ -350,53 +567,11 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 - **Status:** Archived · Unmaintained
 - **Maintainer:** Aoba Suzukaze, VacCat, [Chewy/Pythr](https://github.com/Pytxhr) (unmaintained)
-- **Download:**
-  - [skooter.shibe.lol](https://skooter.shibe.lol/) *(main link)*
+- **Download:** An original copy was found. It's currently being tested and verified before it releases back to the public on fishy.moe.
+- **Download (legacy):**
+  - [skooter.shibe.lol](https://skooter.shibe.lol/) *(main link, archival)*
   - [Patched build](https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe) *(Discord CDN, for increased Aim Correction)*
   - [skooter_new](https://cdn.discordapp.com/attachments/883824772021108736/1083581690284359841/skooternew.zip) *(Discord CDN, if Skooter won't open)*
-
-<a name="ainu"></a>
-
-### Ainu
-
-> _Predecessor to Skooter and Abypass. No longer maintained._
-
-- **Status:** Archived · Unmaintained
-- **Maintainer:** Aoba Suzukaze; edits by [Chewy/Pythr](https://github.com/Pytxhr) (unmaintained)
-- **Download:**
-  - [Main link](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) *(Discord CDN)*
-  - [Alternate version](https://cdn.discordapp.com/attachments/837034085478039574/902318926980071434/ainu-cheat_1.exe) *(Discord CDN)*
-
-> [!CAUTION]
-> Only download from trusted sources (MPGH, the Skoot.er Discord, or the Ainu Cheaters Discord). Copies from elsewhere are known to contain unsafe modifications.
-
-<a name="freedom"></a>
-
-### freedom
-
-<div align="left">
-  <img src="public/freedomMirrorImage.png" alt="freedom" width="160">
-</div>
-
-> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. GitHub repo offline; only the forum mirror remains._
-
-- **Status:** Archived · Unmaintained · GitHub offline
-- **Maintainer:** [Ciremun](https://github.com/Ciremun) (account/repo offline · unmaintained)
-- **Download:**
-  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(forum mirror)*
-  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(repo offline)*
-- **Source thread:** [UnKnoWnCheaTs: osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
-- **Format:** DLL. Inject with any injector (Extreme Injector recommended)
-- **Cheats:**
-  - Aimbot
-  - Relax Hack
-  - Timewarp
-  - Replay
-  - Mods (Unmod Flashlight, Score Multiplier)
-  - Misc
-
-> [!WARNING]
-> The GitHub repo is offline. Only the UnKnoWnCheaTs attachment remains, and DLLs posted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
 
 <a name="tuyosu"></a>
 
@@ -478,15 +653,29 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 </details>
 
+<a name="shaymi"></a>
+
+### Shaymi
+
+> _A short-lived 2024 collaboration between noemi and miracle, from back when the two first met. No logo was ever made for it._
+
+- **Status:** Archived · Unreleased · Free
+- **Maintainers:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> & <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a>
+- **Download:** Unavailable. A compiled build is being preserved by fishy.moe, but we do not have the developers' permission to release it yet.
+
+> [!IMPORTANT]
+> A compiled Shaymi build is being kept by fishy.moe, but we do not have the developers' permission to release it, so it stays archived (unreleased) here for now while we wait on their word.
+
 <a name="osu-rx"></a>
 
 ### osu!rx
 
 > _Relax and aim hack for the legacy osu! b20220424 build._
 
-- **Status:** Archived · Free · Requires a patched osu! b20220424 build · Download currently unavailable
+- **Status:** Archived · Free · Requires a patched osu! b20220424 build
 - **Maintainer:** Sasuke (originally mrflashstudio)
-- **Download:** No direct link found right now; try the [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) or the osu!rx Discord for a current source.
+- **Download:** An original copy was found. It's currently being tested and verified before it releases back to the public on fishy.moe.
+- **Download (legacy):** [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) *(no direct link found; try the thread or the osu!rx Discord for a current source)*
 - **Setup:**
   1. osu!rx does **not** run on the latest osu!. Download [b20220424](https://fishy.moe/download/osu-b20220424).
   2. Apply a TLS-patched `osu.exe` (see note below).
@@ -507,39 +696,41 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archival snapshot
 - **Download1:** [fishy.moe snapshot (b20220424.zip)](https://fishy.moe/download/osu-b20220424)
 - **Download2:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
-- **Notes:** The alternate Discord CDN mirror was removed after going offline in 2025.
+- **Notes:** Now mirrored on fishy.moe storage as well, so the build survives if osekai goes down. The osu! binaries are untouched and ppy-signed; only a bundled repair shortcut that leaked the original packager's PC details was removed. The alternate Discord CDN mirror was taken down after going offline in 2025, leaving osekai.net as the canonical upstream source.
 
 <hr>
 
 ## Feature comparison
 
-| Feature | Arc | Aeris | Maple | OSU!RISE |
+| Feature | Arc | Aeris | OSU!RISE | Maple |
 |---|:---:|:---:|:---:|:---:|
 | Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
 | Relax Hack | ✅ | ✅ | ✅ | ✅ |
-| Timewarp | ✅ | ✅ | ✅ | ❌ |
+| Timewarp | ✅ | ✅ | ❌ | ✅ |
 | AR / CS Changer | ✅ | ✅ | ✅ | ✅ |
 | HD / FL Remover | ✅ | ✅ | ✅ | ✅ |
 | Cost | Free | Free | 💰 Paid | 💰 Paid |
-| Works on current osu!/kawata | ✅ | ✅ | 🟠 | ✅ |
+| Works on current osu!/kawata | ✅ | ✅ | ✅ | 🟠 |
 
 
 | Client | Status | Cost | Type | Current osu/kawata | Download |
 |---|---|:---:|:---:|:---:|:---:|
-| [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
+| [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [m1.aochi.uk/r/osu!.exe](https://m1.aochi.uk/r/osu!.exe) |
 | [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
-| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [.online](https://osurise.online/?ref=QCXBQ3ZH) |
-| [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
+| [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [osurise.online](https://osurise.online/?ref=QCXBQ3ZH) |
+| [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _leak (archived)_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
-| [**AQN V1 + V2**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [GitHub repo](https://github.com/rumoi/AQN_nologin) |
-| [**Abypass**](#abypass) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Updater mirror](https://abypass.fumo.lol/updater) |
-| [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Project site](https://skooter.shibe.lol/) |
-| [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Discord CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
-| [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
+| [**AQN V0 + V1 + V2**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) |
+| [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) |
+| [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
+| [**Auto Assist Megumi**](#megumi) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | _source lost_ |
+| [**Abypass**](#abypass) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
+| [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
 | [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu) |
-| [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
-| [**osu!rx**](#osu-rx) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | b20220424 | ❌ | _none found_ |
+| [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _Archived (waiting approval)_ |
+| [**Shaymi**](#shaymi) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _Archived (waiting approval)_ |
+| [**osu!rx**](#osu-rx) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | b20220424 | ❌ | _in testing_ |
 
 <!-- 
 <sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance &nbsp;·&nbsp; ⚪ Legacy / archived</sub> -->
@@ -690,7 +881,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors
+## Contributors: 8
 
 <table>
   <tr>
@@ -701,7 +892,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V0 + V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>. Currently also hosting <a href="https://kawata.pw">kawata.pw</a> and the Aeris auto updater while Loki is away.
     </td>
   </tr>
   <tr>
@@ -717,13 +908,35 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/Xyrohh">
+        <img src="https://github.com/Xyrohh.png" width="80" alt="Hugo (Xyrohh)"><br>
+        <sub><b>Hugo (Xyrohh)</b></sub>
+      </a>
+    </td>
+    <td>
+      Co-Owner and Global Community &amp; Media Manager at <a href="https://kawata.pw/u/13233">Kawata</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
       <a href="https://github.com/nyoemii">
         <img src="https://github.com/nyoemii.png" width="80" alt="noemi (nyoemii)"><br>
         <sub><b>noemi (nyoemii)</b></sub>
       </a>
     </td>
     <td>
-      Developer of <a href="#tuyosu">tuyosu</a>, Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
+      Developer of <a href="#tuyosu">tuyosu</a> and co-developer of <a href="#shaymi">Shaymi</a> (with miracle), Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/SimplyAe">
+        <img src="https://github.com/SimplyAe.png" width="80" alt="miracle (SimplyAe)"><br>
+        <sub><b>miracle (SimplyAe)</b></sub>
+      </a>
+    </td>
+    <td>
+      Developer of <a href="#paw-cheats">paw!cheats</a> and co-developer of <a href="#shaymi">Shaymi</a> (with noemi), and provided both, along with screenshots and information, for this archive, including the Ainu rumor note.
     </td>
   </tr>
   <tr>
@@ -739,13 +952,11 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/Xyrohh">
-        <img src="https://github.com/Xyrohh.png" width="80" alt="Hugo (Xyrohh)"><br>
-        <sub><b>Hugo (Xyrohh)</b></sub>
-      </a>
+      <img src="public/drown.webp" width="80" alt="drown"><br>
+      <sub><b>drown</b></sub>
     </td>
     <td>
-      Co-Owner and Global Community &amp; Media Manager at <a href="https://kawata.pw/u/13233">Kawata</a>.
+      Bug hunter and reporter for <a href="https://kawata.pw">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client, and a member of the Support team.
     </td>
   </tr>
   <tr>
