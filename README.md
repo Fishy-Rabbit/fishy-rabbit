@@ -15,11 +15,11 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-15-1f6feb?style=flat-square" alt="15 clients">
+  <img src="https://img.shields.io/badge/clients-16-1f6feb?style=flat-square" alt="16 clients">
   <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
   <img src="https://img.shields.io/badge/1_maintenance-f0a000?style=flat-square" alt="1 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
-  <img src="https://img.shields.io/badge/9_archived-6e7681?style=flat-square" alt="9 archived">
+  <img src="https://img.shields.io/badge/10_archived-6e7681?style=flat-square" alt="10 archived">
 </p>
 
 > [!CAUTION]
@@ -58,6 +58,7 @@
   - [Skooter](#skooter)
   - [tuyosu](#tuyosu)
   - [paw!cheats](#paw-cheats)
+  - [Shaymi](#shaymi)
   - [osu!rx](#osu-rx)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
@@ -492,6 +493,9 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > [!NOTE]
 > <img src="https://github.com/nyoemii.png" width="20" align="middle" alt="noemi (nyoemii) avatar"> <img src="https://github.com/SimplyAe.png" width="20" align="middle" alt="miracle (SimplyAe) avatar"> **Rumors (provided by [noemi (nyoemii)](https://github.com/nyoemii) & [miracle (SimplyAe)](https://github.com/SimplyAe)):** Ainu builds are reportedly still circulating, with some claiming to hold the original source and allegedly using AI to produce new versions. This is unconfirmed rumor and speculation only: the source appears lost to time and/or kept private by Cherry/Aoba Suzukaze, and Chewy/Pythr has deleted his GitHub account.
 
+> [!NOTE]
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** We also picked up a very unique Ainu build of our own for the archive, with noticeably different design work compared to the copy above. It's different enough that it could mean a third person out there holds some version of Cherry's original source, though that's unconfirmed and purely a rumor for now. Call it Ainu Enhanced: currently kept internal while we verify and test it, so there's no download yet.
+
 <details>
 <summary><img src="https://img.shields.io/badge/View_6_UI_Screenshots-8957e5?style=for-the-badge" alt="View 6 Ainu UI screenshots"></summary>
 
@@ -650,6 +654,19 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 </details>
 
+<a name="shaymi"></a>
+
+### Shaymi
+
+> _A short-lived 2024 collaboration between noemi and miracle, from back when the two first met. No logo was ever made for it._
+
+- **Status:** Archived · Unreleased · Free
+- **Maintainers:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> & <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a>
+- **Download:** Unavailable. A compiled build is being preserved by fishy.moe, but we do not have the developers' permission to release it yet.
+
+> [!IMPORTANT]
+> A compiled Shaymi build is being kept by fishy.moe, but we do not have the developers' permission to release it, so it stays archived (unreleased) here for now while we wait on their word.
+
 <a name="osu-rx"></a>
 
 ### osu!rx
@@ -713,6 +730,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
 | [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu) |
 | [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _Archived (waiting approval)_ |
+| [**Shaymi**](#shaymi) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _Archived (waiting approval)_ |
 | [**osu!rx**](#osu-rx) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | b20220424 | ❌ | _in testing_ |
 
 <!-- 
