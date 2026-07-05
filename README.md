@@ -821,7 +821,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
       </a>
     </td>
     <td>
-      Rust and DuckDB beatmap mirror and osu! data hub, powering hinamizawa.ai.<br>
+      US Mirror (Rust + DuckDB) beatmap mirror + osu!data hub, powering hinamizawa.ai.<br>
       <a href="https://mirror.hinamizawa.ai/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/CVz4PKayTm">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/alejandroatacho/hinai-beatmap-mirror">GitHub</a>
     </td>
   </tr>
@@ -833,7 +833,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
       </a>
     </td>
     <td>
-      German mirror, open source, graveyard map specialist.<br>
+      German mirror (Js), open source, graveyard map specialist.<br>
       <a href="https://mirror.nekoha.moe/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/QNCmZBqwBQ">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/mirror-nekoha-moe">GitHub</a>
     </td>
   </tr>
@@ -845,7 +845,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
       </a>
     </td>
     <td>
-      German mirror, one of the top two mirrors.<br>
+      German mirror (likely Typescript & more), one of the top two mirrors.<br>
       <a href="https://osu.direct/browse">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/zcneqapZ8g">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/HorizonCode">GitHub</a>
     </td>
   </tr>
@@ -857,7 +857,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
       </a>
     </td>
     <td>
-      South Korean mirror, hosted in South Korea and Japan.<br>
+      South Korean mirror(Go+Python), hosted in South Korea and Japan.<br>
       <a href="https://nerinyan.moe/main">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/StNbVPT7y7">Discord</a> &nbsp;·&nbsp; <a href="https://github.com/Nerinyan">GitHub</a>
     </td>
   </tr>
