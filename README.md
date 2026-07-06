@@ -526,7 +526,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Free · DLL inject · Source lost
 - **Maintainer:** kat, eee, and Cherry (original developers)
 - **Download:** No working build survives. The original C++ source, downloads, and forum threads are all gone.
-- **Source thread:** [github.com/blobnom/megumi-python](https://github.com/blobnom/megumi-python) *(a later Python recreation, built without the original source; unverified, not viable)*
+- **Source thread:** @Hinamizawa, Need to do new research again.
 - **Cheats:**
   - Aim Assist: teleports the cursor near the circle, then teleports it back to its original position
   - Timewarp: slows down the game
