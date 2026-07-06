@@ -523,7 +523,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 > _DLL-injected relax and aim assist cheat from the osu!rx era. Rivaled AQN V2, a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
 
-- **Status:** Archived · Free · DLL inject · Source lost
+- **Status:** Archived · Free · DLL inject · Testing
 - **Maintainer:** kat, eee, and Cherry (original developers)
 - **Download:** No working build survives. The original C++ source, downloads, and forum threads are all gone.
 - **Cheats:**
@@ -537,8 +537,12 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > [!NOTE]
 > Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed.
 
+<!-- -->
+
 > [!CAUTION]
 > <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Flagged by [cbKocham (kird3333d)](https://github.com/kird3333d):** The only known revival attempt was a Python recreation on GitHub. It was reported to bundle a separate script that deletes the user's osu! install. We could not verify this ourselves, but out of caution we have removed the link and do not recommend running it. It never faithfully reproduced the original and was not considered viable.
+
+<!-- -->
 
 > [!NOTE]
 > <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Provided by [cbKocham (kird3333d)](https://github.com/kird3333d):** A final build from Kat's team has since been recovered and handed over for backup, archival, and testing purposes. It is kept privately for now, pending safety verification, and is not currently available for public download.
@@ -729,7 +733,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**AQN V0 + V1 + V2**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) |
 | [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) |
 | [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
-| [**Auto Assist Megumi**](#megumi) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | _source lost_ |
+| [**Auto Assist Megumi**](#megumi) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | _in testing_ |
 | [**Abypass**](#abypass) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
 | [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
 | [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu) |
