@@ -234,10 +234,17 @@ _Clients that are temporarily down for updates. Their information and cheats are
   - Timewarp
   - AR Changer · CS Changer · HD Remover · FL Remover
 
+<details>
+<summary><img src="https://img.shields.io/badge/View_1_Preview_Image-8957e5?style=for-the-badge" alt="View 1 Maple preview image"></summary>
+
+<br>
+
 <div align="center">
   <img src="public/maple/menu.webp" alt="Maple dev build menu: Relax panel with singletap playstyle, primary and secondary keys, max singletap BPM, and a prediction panel" width="480">
   <br><sub>The Maple dev build menu, shared by Risky.</sub>
 </div>
+
+</details>
 
 <a name="under-development"></a>
 
@@ -526,10 +533,6 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Auto Assist Megumi
 
-<div align="center">
-  <a href="https://megumi.dev/"><img src="public/megumi/logo.webp" alt="Auto Assist Megumi" width="140"></a>
-</div>
-
 > _DLL-injected relax and aim assist cheat from the osu!rx era. Rivaled AQN V2, a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
 
 - **Status:** Archived · Free · DLL inject · Testing
@@ -557,13 +560,21 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > [!NOTE]
 > <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Provided by [cbKocham (kird3333d)](https://github.com/kird3333d):** A final build from Kat's team has since been recovered and handed over for backup, archival, and testing purposes. It is kept privately for now, pending safety verification, and is not currently available for public download.
 
+<details>
+<summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 Auto Assist Megumi UI screenshots"></summary>
+
+<br>
+
 <div align="center">
+  <img src="public/megumi/logo.webp" alt="Megumi Kato character art, used as megumi.dev's own site image" width="480">
   <img src="public/megumi/site-hero.webp" alt="megumi.dev hero banner with the Megumi Kato art and MEGUMI wordmark" width="480">
   <img src="public/megumi/site-landing.webp" alt="megumi.dev landing: megumi is a private cheat for osu! with a registered user count and login/register" width="480">
   <img src="public/megumi/site-features.webp" alt="megumi.dev features and pricing: undetected, aim assist, relax, timewarp, visual settings, streamproof, monthly/quarterly/lifetime" width="480">
   <img src="public/megumi/menu.webp" alt="Auto Assist Megumi client menu: aim assist panel with slider assist, lock to center, and an assist power slider" width="480">
-  <br><sub>megumi.dev (hero, landing, features and pricing) and the client menu, shared by Risky.</sub>
+  <br><sub>megumi.dev's site image, hero, landing, features and pricing, and the client menu, shared by Risky.</sub>
 </div>
+
+</details>
 
 <a name="abypass"></a>
 
