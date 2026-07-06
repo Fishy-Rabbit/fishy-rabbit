@@ -234,6 +234,11 @@ _Clients that are temporarily down for updates. Their information and cheats are
   - Timewarp
   - AR Changer · CS Changer · HD Remover · FL Remover
 
+<div align="center">
+  <img src="public/maple/menu.webp" alt="Maple dev build menu: Relax panel with singletap playstyle, primary and secondary keys, max singletap BPM, and a prediction panel" width="480">
+  <br><sub>The Maple dev build menu, shared by Risky.</sub>
+</div>
+
 <a name="under-development"></a>
 
 ## <img src="https://img.shields.io/badge/🟣_UNDER_DEVELOPMENT-8957e5?style=for-the-badge" height="34" alt="Under Development">
@@ -521,11 +526,16 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Auto Assist Megumi
 
+<div align="center">
+  <a href="https://megumi.dev/"><img src="public/megumi/logo.webp" alt="Auto Assist Megumi" width="140"></a>
+</div>
+
 > _DLL-injected relax and aim assist cheat from the osu!rx era. Rivaled AQN V2, a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
 
 - **Status:** Archived · Free · DLL inject · Testing
 - **Maintainer:** kat, eee, and Cherry (original developers)
-- **Download:** No working build survives. The original C++ source, downloads, and forum threads are all gone.
+- **Website:** [megumi.dev](https://megumi.dev/) *(the real, still-active official site, owned and maintained by czapek)*
+- **Download:** No public build is distributed. The original C++ source and forum threads are gone; a recovered build is in private testing (see below).
 - **Cheats:**
   - Aim Assist: teleports the cursor near the circle, then teleports it back to its original position
   - Timewarp: slows down the game
@@ -546,6 +556,14 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 > [!NOTE]
 > <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Provided by [cbKocham (kird3333d)](https://github.com/kird3333d):** A final build from Kat's team has since been recovered and handed over for backup, archival, and testing purposes. It is kept privately for now, pending safety verification, and is not currently available for public download.
+
+<div align="center">
+  <img src="public/megumi/site-hero.webp" alt="megumi.dev hero banner with the Megumi Kato art and MEGUMI wordmark" width="480">
+  <img src="public/megumi/site-landing.webp" alt="megumi.dev landing: megumi is a private cheat for osu! with a registered user count and login/register" width="480">
+  <img src="public/megumi/site-features.webp" alt="megumi.dev features and pricing: undetected, aim assist, relax, timewarp, visual settings, streamproof, monthly/quarterly/lifetime" width="480">
+  <img src="public/megumi/menu.webp" alt="Auto Assist Megumi client menu: aim assist panel with slider assist, lock to center, and an assist power slider" width="480">
+  <br><sub>megumi.dev (hero, landing, features and pricing) and the client menu, shared by Risky.</sub>
+</div>
 
 <a name="abypass"></a>
 
@@ -691,7 +709,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   3. Create a `_STAGING` file in your osu! folder to block auto-updates.
 
 > [!NOTE]
-> The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
+> <img src="public/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
 
 ## Resources
 
@@ -769,25 +787,65 @@ Beyond testing, we can also host a download URL for your cheat on fishy.moe. If 
 
 ## Cheating Private Servers
 
-<div align="center">
-  <a href="https://kawata.pw">
-    <img src="public/kawata.png" alt="Kawata" width="160">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fishy.moe/">
-    <img src="public/fishy.png" alt="fishy.moe" width="160">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://atoka.pw/">
-    <img src="public/osu!Atoka.png" alt="Atoka" width="160">
-  </a>
-</div>
-
 A directory of the osu! private servers known to allow the cheating clients listed in this archive:
 
-- [**kawata.pw**](https://kawata.pw)
-- [**fishy.moe**](https://fishy.moe/)
-- [**atoka.pw**](https://atoka.pw/)
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://pawinput.xyz/">
+        <img src="public/pawtoka.png" width="90" alt="Pawtoka"><br>
+        <sub><b>Pawtoka</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://pawinput.xyz/">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://kawata.pw">
+        <img src="public/kawata.png" width="90" alt="Kawata"><br>
+        <sub><b>Kawata</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://kawata.pw">Website</a> &nbsp;·&nbsp; <a href="https://kawata.pw/discord">Discord</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://fishy.moe/">
+        <img src="public/fishy.png" width="90" alt="fishy.moe"><br>
+        <sub><b>fishy.moe</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://fishy.moe/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/p37MQAtFdX">Discord</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://halcyon.moe">
+        <img src="public/halcyon.png" width="90" alt="Halcyon"><br>
+        <sub><b>Halcyon</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://halcyon.moe">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/CS2yHM3B">Discord</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://osunolimits.dev">
+        <img src="public/nolimits.png" width="90" alt="NoLimits"><br>
+        <sub><b>NoLimits</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://osunolimits.dev">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/2Q4tFfy74Z">Discord</a>
+    </td>
+  </tr>
+</table>
 
 Every other private server, and Bancho itself, detects and bans these clients on score submission.
 
@@ -890,7 +948,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors: 9
+## Contributors: 10
 
 <table>
   <tr>
@@ -961,15 +1019,6 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="public/drown.webp" width="80" alt="drown"><br>
-      <sub><b>drown</b></sub>
-    </td>
-    <td>
-      Bug hunter and reporter for <a href="https://kawata.pw">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client, and a member of the Support team.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
       <a href="https://github.com/kird3333d">
         <img src="https://github.com/kird3333d.png" width="80" alt="cbKocham (kird3333d)"><br>
         <sub><b>cbKocham (kird3333d)</b></sub>
@@ -977,6 +1026,26 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Flagged the <a href="#megumi">Auto Assist Megumi</a> revival link as dead and dangerous during a community review, prompting its removal from this archive, and provided a final build from Kat's team for backup, archival, and testing purposes.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/ptrchain">
+        <img src="https://github.com/ptrchain.png" width="80" alt="Risky (ptrchain)"><br>
+        <sub><b>Risky (ptrchain)</b></sub>
+      </a>
+    </td>
+    <td>
+      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a> and <a href="#megumi">Auto Assist Megumi</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="public/drown.webp" width="80" alt="drown"><br>
+      <sub><b>drown</b></sub>
+    </td>
+    <td>
+      Bug hunter and reporter for <a href="https://kawata.pw">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client, and a member of the Support team.
     </td>
   </tr>
   <tr>
