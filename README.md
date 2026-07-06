@@ -526,7 +526,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Free · DLL inject · Source lost
 - **Maintainer:** kat, eee, and Cherry (original developers)
 - **Download:** No working build survives. The original C++ source, downloads, and forum threads are all gone.
-- **Source thread:** [github.com/blobnom/megumi-python](https://github.com/blobnom/megumi-python) *(a later Python recreation, built without the original source; unverified, not viable)*
+- **Source thread:** @Hinamizawa, Need to do new research again.
 - **Cheats:**
   - Aim Assist: teleports the cursor near the circle, then teleports it back to its original position
   - Timewarp: slows down the game
@@ -536,7 +536,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Relax hack: automated clicking
 
 > [!NOTE]
-> Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed. The only known revival attempt is a [Python recreation on GitHub](https://github.com/blobnom/megumi-python), built without access to the original source. It does not faithfully reproduce the original and is not considered viable.
+> Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed. The only known revival attempt is a Python recreation on GitHub which was considerd "if i remember this script download for u separate exe that delete ur osu", built without access to the original source. It does not faithfully reproduce the original and is not considered viable.
 
 <a name="abypass"></a>
 
