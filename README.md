@@ -7,7 +7,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 5, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 6, 2026</em></p>
 </div>
 
 <p align="center">
@@ -172,7 +172,7 @@ Per the Kawata Discord `help` channel (fix documented by drown): if excluding th
 > _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
 
 > [!WARNING]
-> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), Kawata Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat OSU!RISE as **use-at-your-own-risk**: scan the loader yourself before you run it.
+> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), Kawata Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) as **use-at-your-own-risk**: scan the loader yourself before you run it.
 
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
@@ -191,7 +191,7 @@ Per the Kawata Discord `help` channel (fix documented by drown): if excluding th
 - **Notable tech:** Cloud-synced settings, stream-proof (hidden from OBS, Discord, and streaming software), advertised as zero FPS impact, and polymorphic per-user builds with encryption.
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. OSU!RISE is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
 
 > [!WARNING]
 > <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
@@ -526,7 +526,6 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Free · DLL inject · Source lost
 - **Maintainer:** kat, eee, and Cherry (original developers)
 - **Download:** No working build survives. The original C++ source, downloads, and forum threads are all gone.
-- **Source thread:** @Hinamizawa, Need to do new research again.
 - **Cheats:**
   - Aim Assist: teleports the cursor near the circle, then teleports it back to its original position
   - Timewarp: slows down the game
@@ -536,7 +535,13 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Relax hack: automated clicking
 
 > [!NOTE]
-> Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed. The only known revival attempt is a Python recreation on GitHub which was considerd "if i remember this script download for u separate exe that delete ur osu", built without access to the original source. It does not faithfully reproduce the original and is not considered viable.
+> Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed.
+
+> [!CAUTION]
+> <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Flagged by [cbKocham (kird3333d)](https://github.com/kird3333d):** The only known revival attempt was a Python recreation on GitHub. It was reported to bundle a separate script that deletes the user's osu! install. We could not verify this ourselves, but out of caution we have removed the link and do not recommend running it. It never faithfully reproduced the original and was not considered viable.
+
+> [!NOTE]
+> <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Provided by [cbKocham (kird3333d)](https://github.com/kird3333d):** A final build from Kat's team has since been recovered and handed over for backup, archival, and testing purposes. It is kept privately for now, pending safety verification, and is not currently available for public download.
 
 <a name="abypass"></a>
 
@@ -881,7 +886,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors: 8
+## Contributors: 9
 
 <table>
   <tr>
@@ -957,6 +962,17 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Bug hunter and reporter for <a href="https://kawata.pw">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client, and a member of the Support team.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/kird3333d">
+        <img src="https://github.com/kird3333d.png" width="80" alt="cbKocham (kird3333d)"><br>
+        <sub><b>cbKocham (kird3333d)</b></sub>
+      </a>
+    </td>
+    <td>
+      Flagged the <a href="#megumi">Auto Assist Megumi</a> revival link as dead and dangerous during a community review, prompting its removal from this archive, and provided a final build from Kat's team for backup, archival, and testing purposes.
     </td>
   </tr>
   <tr>
