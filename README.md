@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
+  <!-- <img src="public/aqn/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
   <p><strong>Prefer an online interactive version of this archive with 11 translations? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
   </div>
   <h1>
-    <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
+    <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
   <p><em>Created May 24, 2023 · Updated July 6, 2026</em></p>
@@ -27,11 +27,11 @@
 
 <div align="center">
   <a href="https://kawata.pw">
-    <img src="public/kawata.png" alt="Kawata" width="180">
+    <img src="public/pserver/kawata.png" alt="Kawata" width="180">
   </a>
   &nbsp;&nbsp;
   <a href="https://fishy.moe">
-    <img src="public/fishy.png" alt="fishy.moe" width="180">
+    <img src="public/pserver/fishy.png" alt="fishy.moe" width="180">
   </a>
   <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://fishy.moe">fishy.moe</a>.</strong></p>
   <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
@@ -101,11 +101,11 @@
 
 <a name="kawata-aeris"></a>
 
-### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
+### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/pserver/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
 
 <div align="left">
   <a href="https://kawata.pw">
-    <img src="public/aeris.png" alt="Aeris client logo" width="160">
+    <img src="public/aeris/aeris.png" alt="Aeris client logo" width="160">
   </a>
 </div>
 
@@ -116,14 +116,14 @@
 </p>
 
 > [!IMPORTANT]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Aeris is temporarily on hold.** The owner and maintainer, [TheFantasticLoki](https://github.com/TheFantasticLoki), is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Aeris is temporarily on hold.** The owner and maintainer, [TheFantasticLoki](https://github.com/TheFantasticLoki), is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 > **`storage.kawata.pw` has been down since June 2, 2026.**
 > **Fallback mirror added June 27, 2026:** while the official download is offline, Aeris is now mirrored at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active (via fallback mirror) · Official download offline (maintainer relocating) · Public beta · Free
-- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
+- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
 - **Download:**
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
   - **Fallback:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris)
@@ -165,7 +165,7 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 
 <div align="left">
   <a href="https://osurise.online/?ref=QCXBQ3ZH">
-    <img src="public/osu!rise.png" alt="OSU!RISE logo" width="320">
+    <img src="public/osurise/osurise.png" alt="OSU!RISE logo" width="320">
   </a>
 </div>
 
@@ -191,10 +191,10 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 - **Notable tech:** Cloud-synced settings, stream-proof (hidden from OBS, Discord, and streaming software), advertised as zero FPS impact, and polymorphic per-user builds with encryption.
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
 
 > [!WARNING]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
 
 <a name="under-maintenance"></a>
 
@@ -209,7 +209,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 <div align="left">
   <a href="https://maple.software/">
-    <img src="public/maple.svg" alt="Maple" width="140">
+    <img src="public/maple/maple.svg" alt="Maple" width="140">
   </a>
 </div>
 
@@ -226,7 +226,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 - **Status:** Under maintenance · Temporarily unavailable · Paid
 - **Maintainer:** Maple Syrup
-- **Download:** <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> maple.software</a> *(temporarily unavailable)*
+- **Download:** <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> maple.software</a> *(temporarily unavailable)*
 - **Discord:** [discord.gg/P9Yn8FfC2v](https://discord.com/invite/P9Yn8FfC2v)
 - **Cheats:**
   - Aim Assist (3 versions)
@@ -261,7 +261,7 @@ _Upcoming clients that have been announced or previewed but are not released yet
 
 <div align="left">
   <a href="https://theaquila.network">
-    <img src="public/aqn.png" alt="AQN Revived V3 logo" width="140">
+    <img src="public/aqn/aqn.png" alt="AQN Revived V3 logo" width="140">
   </a>
 </div>
 
@@ -278,8 +278,8 @@ _Upcoming clients that have been announced or previewed but are not released yet
 <br>
 
 <div align="left">
-  <img src="public/AQN-Revive-v3/5smtm61.webp" alt="AQN Revived V3 preview screenshot 1" width="480">
-  <img src="public/AQN-Revive-v3/rv804m3.webp" alt="AQN Revived V3 preview screenshot 2" width="480">
+  <img src="public/aqn/revived-v3/5smtm61.webp" alt="AQN Revived V3 preview screenshot 1" width="480">
+  <img src="public/aqn/revived-v3/rv804m3.webp" alt="AQN Revived V3 preview screenshot 2" width="480">
 </div>
 
 </details>
@@ -300,9 +300,9 @@ _Upcoming clients that have been announced or previewed but are not released yet
 <br>
 
 <div align="left">
-  <img src="public/Rumors/rumors-1.png" alt="Unannounced client preview screenshot 1" width="480">
-  <img src="public/Rumors/rumors-2.png" alt="Unannounced client preview screenshot 2" width="480">
-  <img src="public/Rumors/rumors-3.png" alt="Unannounced client preview screenshot 3" width="480">
+  <img src="public/mystery-client/rumors-1.png" alt="Unannounced client preview screenshot 1" width="480">
+  <img src="public/mystery-client/rumors-2.png" alt="Unannounced client preview screenshot 2" width="480">
+  <img src="public/mystery-client/rumors-3.png" alt="Unannounced client preview screenshot 3" width="480">
 </div>
 
 </details>
@@ -314,23 +314,23 @@ _Upcoming clients that have been announced or previewed but are not released yet
 _Discontinued or no-longer-maintained clients, kept here for historical reference. Most downloads will be broken or unsafe by now._
 
 > [!WARNING]
-> <img src="public/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
+> <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
 
 <a name="aqn"></a>
 
 ### AQN V0 + V1 + V2
 
-<img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
+<img src="public/aqn/hero-banner.png" alt="osu! Cheat List" width="700">
 <div align="left">
   <a href="https://github.com/rumoi/AQN_nologin">
-    <img src="public/aqn.png" alt="AQN" width="140">
+    <img src="public/aqn/aqn.png" alt="AQN" width="140">
   </a>
 </div>
 
 > _AQN began in 2011 under lead developer Kevin. V0 sold its cheats separately; V1 introduced the unified loader and in-game sidebar AQN became known for. Rumoi continued the line as V2, most likely 2016 to 2017. Now free; crashes on the current osu! version._
 
 - **Status:** Archived · Broken on current osu!
-- **Maintainer:** <img src="public/aqnUI/v0-logo.webp" width="28" align="middle" alt="AQN V0 eagle logo, Kevin"> Kevin (original developer, V0/V1, 2011; later V2 server maintainer, website name owner, and update rollout) and <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (V2 lead developer). Both unmaintained.
+- **Maintainer:** <img src="public/aqn/ui/v0-logo.webp" width="28" align="middle" alt="AQN V0 eagle logo, Kevin"> Kevin (original developer, V0/V1, 2011; later V2 server maintainer, website name owner, and update rollout) and <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (V2 lead developer). Both unmaintained.
 - **Download:**
   - [theaquila.net](https://theaquila.net/) *(legacy site, "The Aquila Network" brand)*
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
@@ -347,13 +347,13 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - VIP tier *(V2, by Rumoi)*: a paid tier with Free Supporter, Hide Button On Close, and Extra Skinables, plus a far deeper Enlighten rebuild (legacy AR/Hidden modes, quality, cursor size, circle and AR thickness sliders, and color pickers)
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The original team (2011):** Kevin was the solo lead developer. Ben made a minor but important contribution to V0's early stages, before unexpectedly passing away in real life. Hinamizawa and "Bikko" moderated the community (this Bikko is unrelated to the touchscreen-cheat "Bikko" and its 2012 to 2013 controversy; a different person who happens to share the handle, and nationality). V0 arrived in an era when cheats were sold and run separately; V1 unified them behind the loader and sidebar.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The original team (2011):** Kevin was the solo lead developer. Ben made a minor but important contribution to V0's early stages, before unexpectedly passing away in real life. Hinamizawa and "Bikko" moderated the community (this Bikko is unrelated to the touchscreen-cheat "Bikko" and its 2012 to 2013 controversy; a different person who happens to share the handle, and nationality). V0 arrived in an era when cheats were sold and run separately; V1 unified them behind the loader and sidebar.
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The V2 team (start year unknown, most likely 2016 to 2017):** Rumoi took over as lead developer. Kevin stayed on as server maintainer and website name owner, handling update rollouts; Helsing moderated the Discord; Hinamizawa wrote guides and managed the forum. Rumoi released a replay editor, upgraded Relax, and pushed out several successive Aim Assist versions as the competition intensified, putting AQN in direct competition, first with Kat's standalone Aim Assist, then with [Auto Assist Megumi](#megumi) (Kat's upgraded version, built with other contributors).
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The V2 team (start year unknown, most likely 2016 to 2017):** Rumoi took over as lead developer. Kevin stayed on as server maintainer and website name owner, handling update rollouts; Helsing moderated the Discord; Hinamizawa wrote guides and managed the forum. Rumoi released a replay editor, upgraded Relax, and pushed out several successive Aim Assist versions as the competition intensified, putting AQN in direct competition, first with Kat's standalone Aim Assist, then with [Auto Assist Megumi](#megumi) (Kat's upgraded version, built with other contributors).
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The Taiko/CTB bug:** During the transition from V1 to V2, an Enlighten update by Rumoi broke Taiko rendering. For reasons unknown, nearly every cheat client that followed inherited the same Taiko bug, and a similarly odd CTB bug, except [Ainu](#ainu). A later alternative fix attempt helped, but never fully resolved it.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The Taiko/CTB bug:** During the transition from V1 to V2, an Enlighten update by Rumoi broke Taiko rendering. For reasons unknown, nearly every cheat client that followed inherited the same Taiko bug, and a similarly odd CTB bug, except [Ainu](#ainu). A later alternative fix attempt helped, but never fully resolved it.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_19_Preview_Images-8957e5?style=for-the-badge" alt="View 19 AQN preview images"></summary>
@@ -361,43 +361,43 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <br>
 
 <div align="left">
-  <img src="public/aqnUI/v0-logo.webp" alt="AQN's original 2012 eagle logo" width="480">
+  <img src="public/aqn/ui/v0-logo.webp" alt="AQN's original 2012 eagle logo" width="480">
   <p><em>AQN's original 2012 eagle logo, matching the "Aquila" (Latin for eagle) name.</em></p>
-  <img src="public/aqnUI/v0-enlighten-cracked.webp" alt="AQN V0's standalone Enlighten tool, cracked by YouLikeMyAim" width="480">
+  <img src="public/aqn/ui/v0-enlighten-cracked.webp" alt="AQN V0's standalone Enlighten tool, cracked by YouLikeMyAim" width="480">
   <p><em>AQN V0's standalone Enlighten tool (Flashlight/Hidden patcher), cracked by YouLikeMyAim.</em></p>
-  <img src="public/aqnUI/v1-sidebar.webp" alt="AQN V1's in-game sidebar showing the Replay panel" width="480">
+  <img src="public/aqn/ui/v1-sidebar.webp" alt="AQN V1's in-game sidebar showing the Replay panel" width="480">
   <p><em>AQN V1's in-game sidebar: the Replay panel (Load Replay, Hardrock, Edit Replay, Beta Replay Selector, Filter Score Submission), with beatmap covers along the left edge.</em></p>
-  <img src="public/aqnUI/transition-loader.webp" alt="The Aquila Network loader, mid-transition between V1 and V2" width="480">
+  <img src="public/aqn/ui/transition-loader.webp" alt="The Aquila Network loader, mid-transition between V1 and V2" width="480">
   <p><em>The Aquila Network loader, mid-transition between V1 and V2: module checkboxes for Relax, Replay Editor, Timewarp, Taiko, Mania, and Enlighten.</em></p>
-  <img src="public/aqnUI/v2-replay-editor-design.webp" alt="An early V2 Replay Editor design from October 2019" width="480">
+  <img src="public/aqn/ui/v2-replay-editor-design.webp" alt="An early V2 Replay Editor design from October 2019" width="480">
   <p><em>An early V2 Replay Editor design (October 2019): Load Replay, Hardrock, Beta Replay Selector, Filter Scores, Smoke Enabled, Ease in play, Disable ease in visual, and True Sight.</em></p>
-  <img src="public/aqnUI/early-replay-editor-video.png" alt="A frame from an early working demo of Rumoi's Replay Editor" width="480">
+  <img src="public/aqn/ui/early-replay-editor-video.png" alt="A frame from an early working demo of Rumoi's Replay Editor" width="480">
   <p><em>A frame from an early working demo of Rumoi's Replay Editor, scrubbing frame by frame through a DoubleTime play.</em></p>
-  <img src="public/aqnUI/hwid-login.webp" alt="The Aquila Network's HWID rate-limit check" width="480">
+  <img src="public/aqn/ui/hwid-login.webp" alt="The Aquila Network's HWID rate-limit check" width="480">
   <p><em>The Aquila Network's HWID rate-limit check ("HWID has changed too fast"), logging into Hinamizawa's own account.</em></p>
-  <img src="public/aqnUI/hwid-caught.webp" alt="The same HWID protection catching Hinamizawa's own login history" width="480">
+  <img src="public/aqn/ui/hwid-caught.webp" alt="The same HWID protection catching Hinamizawa's own login history" width="480">
   <p><em>The same HWID protection catching Hinamizawa's own login history.</em></p>
-  <img src="public/aqnUI/win7-error.webp" alt="A Windows 7 connectivity error message in the Aquila Network loader" width="480">
+  <img src="public/aqn/ui/win7-error.webp" alt="A Windows 7 connectivity error message in the Aquila Network loader" width="480">
   <p><em>A Windows 7 connectivity error message, with the loader's built-in music player showing in the background.</em></p>
-  <img src="public/aqnUI/loader-map-skin.webp" alt="Another Aquila Network loader skin with a map-pin themed background" width="480">
+  <img src="public/aqn/ui/loader-map-skin.webp" alt="Another Aquila Network loader skin with a map-pin themed background" width="480">
   <p><em>Another Aquila Network loader skin, with a map-pin themed background.</em></p>
-  <img src="public/aqnUI/forum-guides.webp" alt="Two of Hinamizawa's eleven AQN forum guides" width="480">
+  <img src="public/aqn/ui/forum-guides.webp" alt="Two of Hinamizawa's eleven AQN forum guides" width="480">
   <p><em>Two of Hinamizawa's eleven AQN forum guides: "Timewarp: How it works & things to watch out for" and "Dejavu: How it works & what you need to know" (both 2019).</em></p>
-  <img src="public/aqnUI/top-contributors.webp" alt="The AQN forum's top contributors by reputation" width="480">
+  <img src="public/aqn/ui/top-contributors.webp" alt="The AQN forum's top contributors by reputation" width="480">
   <p><em>The AQN forum's top contributors by reputation: rumoi, Hinamizawa, and others in the community.</em></p>
-  <img src="public/aqnUI/v2-score-submission.webp" alt="AQN V2's Score Submission panel" width="480">
+  <img src="public/aqn/ui/v2-score-submission.webp" alt="AQN V2's Score Submission panel" width="480">
   <p><em>AQN V2's Score Submission panel: pass/accuracy/combo percentages, random spread, mod toggles, a randomized submit delay, and an auto-submit toggle.</em></p>
-  <img src="public/aqnUI/v2-timewarp.webp" alt="AQN V2's Timewarp panel" width="480">
+  <img src="public/aqn/ui/v2-timewarp.webp" alt="AQN V2's Timewarp panel" width="480">
   <p><em>AQN V2's Timewarp panel: Enabled, Play Speed, No Spectator Buffer, Show Approx Countdown, and Indicator Scale.</em></p>
-  <img src="public/aqnUI/v2-taiko-bug.webp" alt="The Taiko rendering bug that followed Rumoi's Enlighten update" width="480">
+  <img src="public/aqn/ui/v2-taiko-bug.webp" alt="The Taiko rendering bug that followed Rumoi's Enlighten update" width="480">
   <p><em>The Taiko rendering bug that followed Rumoi's Enlighten update, later inherited by nearly every future cheat client except [Ainu](#ainu).</em></p>
-  <img src="public/aqnUI/taiko-alt-fix.webp" alt="A later alternative fix attempt for the Taiko bug" width="480">
+  <img src="public/aqn/ui/taiko-alt-fix.webp" alt="A later alternative fix attempt for the Taiko bug" width="480">
   <p><em>A later alternative fix attempt for Enlighten's Taiko rendering. Not the fix everyone wanted, but it helped.</em></p>
-  <img src="public/aqnUI/vip-misc.webp" alt="The Rumoi-developed VIP tier's Misc panel" width="480">
+  <img src="public/aqn/ui/vip-misc.webp" alt="The Rumoi-developed VIP tier's Misc panel" width="480">
   <p><em>The Rumoi-developed VIP tier's Misc panel: Free Supporter, Hide Button On Close, and Extra Skinables.</em></p>
-  <img src="public/aqnUI/vip-enlighten.webp" alt="The VIP tier's rebuilt Enlighten" width="480">
+  <img src="public/aqn/ui/vip-enlighten.webp" alt="The VIP tier's rebuilt Enlighten" width="480">
   <p><em>The VIP tier's rebuilt Enlighten (Dec 11): legacy AR/Hidden modes, quality, cursor size, circle and AR thickness, and color pickers for cursor, slider rim, and hit circle.</em></p>
-  <img src="public/aqnUI/lifetime-sale.webp" alt="A promotional GIF Hinamizawa made for a V2 lifetime subscription sale" width="480">
+  <img src="public/aqn/ui/lifetime-sale.webp" alt="A promotional GIF Hinamizawa made for a V2 lifetime subscription sale" width="480">
   <p><em>A promotional GIF Hinamizawa made himself for a V2 lifetime-subscription sale.</em></p>
 </div>
 
@@ -408,13 +408,13 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 ### freedom
 
 <div align="left">
-  <img src="public/freedom-badge.webp" alt="osu!freedom badge" width="160">
+  <img src="public/freedom/freedom-badge.webp" alt="osu!freedom badge" width="160">
 </div>
 
 > _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. The GitHub repo is offline; both builds are mirrored on fishy.moe._
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** One of the most widely shared free osu! cheats. It still circulates on cheat forums years after its repo went offline, and across the private servers I have moderated over the years it is the cheat I have seen come up the most in player reports and ban appeals. So I gave this abandoned, forgotten cheat its own logo and dedication here. Grab it only from a scanned source such as the fishy.moe mirrors below.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** One of the most widely shared free osu! cheats. It still circulates on cheat forums years after its repo went offline, and across the private servers I have moderated over the years it is the cheat I have seen come up the most in player reports and ban appeals. So I gave this abandoned, forgotten cheat its own logo and dedication here. Grab it only from a scanned source such as the fishy.moe mirrors below.
 
 - **Status:** Archived · Unmaintained · GitHub offline
 - **Version:** 0.94.3 (last release May 17, 2024)
@@ -449,7 +449,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > freedom comes with its own injector, so you don't need a separate one. The newest v0.98 build is a single self-injecting `freedom.exe` (just run it); the older v0.94.3 ships `freedom_injector.exe` next to the DLL. Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) works too, as a fallback or for other DLL cheats.
 
 > [!WARNING]
-> <img src="public/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+> <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_4_freedom_Images-8957e5?style=for-the-badge" alt="View 4 freedom screenshots"></summary>
@@ -457,13 +457,13 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <br>
 
 <div align="left">
-  <img src="public/freedom-showcase.webp" alt="freedom in-game overlay, Relax config tab" width="480">
+  <img src="public/freedom/freedom-showcase.webp" alt="freedom in-game overlay, Relax config tab" width="480">
   <p><em>The in-game overlay: Relax config (SingleTap / Alternate, UR forced to 0).</em></p>
-  <img src="public/freedomMirrorImage.png" alt="freedom overlay, Difficulty tab with AR / CS / OD sliders" width="480">
+  <img src="public/freedom/freedomMirrorImage.png" alt="freedom overlay, Difficulty tab with AR / CS / OD sliders" width="480">
   <p><em>The Difficulty tab: live AR / CS / OD override sliders.</em></p>
-  <img src="public/freedom-about.webp" alt="freedom overlay, About tab crediting Ciremun, Maple Syrup and MrFlashStudio" width="480">
+  <img src="public/freedom/freedom-about.webp" alt="freedom overlay, About tab crediting Ciremun, Maple Syrup and MrFlashStudio" width="480">
   <p><em>The About tab: Ciremun's Freedom v0.8, thanks to Maple Syrup and MrFlashStudio.</em></p>
-  <img src="public/freedom-badge.webp" alt="osu!freedom circular badge logo" width="480">
+  <img src="public/freedom/freedom-badge.webp" alt="osu!freedom circular badge logo" width="480">
   <p><em>The osu!freedom badge, the first logo this abandoned cheat ever had.</em></p>
 </div>
 
@@ -505,7 +505,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > <img src="https://github.com/nyoemii.png" width="20" align="middle" alt="noemi (nyoemii) avatar"> <img src="https://github.com/SimplyAe.png" width="20" align="middle" alt="miracle (SimplyAe) avatar"> **Rumors (provided by [noemi (nyoemii)](https://github.com/nyoemii) & [miracle (SimplyAe)](https://github.com/SimplyAe)):** Ainu builds are reportedly still circulating, with some claiming to hold the original source and allegedly using AI to produce new versions. This is unconfirmed rumor and speculation only: the source appears lost to time and/or kept private by Cherry/Aoba Suzukaze, and Chewy/Pythr has deleted his GitHub account.
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** We also picked up a very unique Ainu build of our own for the archive, with noticeably different design work compared to the copy above. It's different enough that it could mean a third person out there holds some version of Cherry's original source, though that's unconfirmed and purely a rumor for now. Call it Ainu Enhanced: currently kept internal while we verify and test it, so there's no download yet.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** We also picked up a very unique Ainu build of our own for the archive, with noticeably different design work compared to the copy above. It's different enough that it could mean a third person out there holds some version of Cherry's original source, though that's unconfirmed and purely a rumor for now. Call it Ainu Enhanced: currently kept internal while we verify and test it, so there's no download yet.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_6_UI_Screenshots-8957e5?style=for-the-badge" alt="View 6 Ainu UI screenshots"></summary>
@@ -513,17 +513,17 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <br>
 
 <div align="left">
-  <img src="public/ainuCheatUI/cheats-menu.png" alt="Ainu: Cheats menu with Perfect ReplayCopy, Timewarp, AR Changer, RPC and Nameprotect options" width="480">
+  <img src="public/ainu/cheats-menu.png" alt="Ainu: Cheats menu with Perfect ReplayCopy, Timewarp, AR Changer, RPC and Nameprotect options" width="480">
   <p><em>Cheats menu: Perfect ReplayCopy, Timewarp, Normal AR for EZ, Fake Hidden/Flashlight, AR Changer, Disable Score Submission, the Discord RPC toggle, Nameprotect, and Custom Rank.</em></p>
-  <img src="public/ainuCheatUI/relax-settings.png" alt="Ainu: Relax Settings with key bindings and the Save Me failsafe" width="480">
+  <img src="public/ainu/relax-settings.png" alt="Ainu: Relax Settings with key bindings and the Save Me failsafe" width="480">
   <p><em>Relax Settings: primary/secondary key bindings, swap and double-delay offsets, hit radius scalar, and the Save Me auto-teleport failsafe.</em></p>
-  <img src="public/ainuCheatUI/relax-tuning.png" alt="Ainu: more Relax tuning options leading into Device Spoofer" width="480">
+  <img src="public/ainu/relax-tuning.png" alt="Ainu: more Relax tuning options leading into Device Spoofer" width="480">
   <p><em>More Relax tuning (miss radius, key-up delay, slider and spinner offsets) leading into the Device Spoofer section.</em></p>
-  <img src="public/ainuCheatUI/device-spoofer.png" alt="Ainu: Device Spoofer with MAC address, disk signature and uninstall ID fields" width="480">
+  <img src="public/ainu/device-spoofer.png" alt="Ainu: Device Spoofer with MAC address, disk signature and uninstall ID fields" width="480">
   <p><em>Device Spoofer: MAC address, disk signature, and uninstall ID fields, plus General maintenance tools.</em></p>
-  <img src="public/ainuCheatUI/cherry-stuff.png" alt="Ainu: the Cherry Stuff cheats menu with Auto, CTB Relax, SMLWR and a Replay Bot toggle" width="480">
+  <img src="public/ainu/cherry-stuff.png" alt="Ainu: the Cherry Stuff cheats menu with Auto, CTB Relax, SMLWR and a Replay Bot toggle" width="480">
   <p><em>The "Cherry Stuff" cheats menu: Auto/Perfect/Bounce-off-border modes, CTB Relax, SMLWR, UnMod, HD/FL removers, Aim Correction, and a Replay Bot toggle.</em></p>
-  <img src="public/ainuCheatUI/main-menu.png" alt="Ainu: the Ainu! main menu running a custom holiday-themed skin" width="480">
+  <img src="public/ainu/main-menu.png" alt="Ainu: the Ainu! main menu running a custom holiday-themed skin" width="480">
   <p><em>The Ainu! main menu, running a custom holiday-themed skin.</em></p>
 </div>
 
@@ -548,7 +548,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Relax hack: automated clicking
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Kat was one of the era's best known and most communicative cheat developers, active in the [Kawata](https://kawata.pw) community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Kat was one of the era's best known and most communicative cheat developers, active in the [Kawata](https://kawata.pw) community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed.
 
 <!-- -->
 
@@ -616,7 +616,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 ### tuyosu
 
 <div align="left">
-  <img src="public/tuyosu-cheat.webp" alt="tuyosu cheat logo" width="140">
+  <img src="public/tuyosu/tuyosu-cheat.webp" alt="tuyosu cheat logo" width="140">
 </div>
 
 > _Short-lived standalone osu! cheat by [noemi](https://github.com/nyoemii); never affiliated with [Kawata](https://kawata.pw). Released July 26, 2025, shut down June 5, 2026._
@@ -669,7 +669,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > The **Catch (CTB) auto-bot was removed** before release ([miracle](https://github.com/SimplyAe) couldn't fix its memory leaks), so the Catch tab is wiped despite still appearing in the mode menu. Two builds appear in the screenshots. All details and images are developer-provided; paw!cheats was never publicly downloadable.
 
 > [!IMPORTANT]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A compiled paw!cheats build was shared with fishy.moe, but we do not have the developer's permission to release it yet, so it stays archived (unreleased) for now while we wait on their final word.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A compiled paw!cheats build was shared with fishy.moe, but we do not have the developer's permission to release it yet, so it stays archived (unreleased) for now while we wait on their final word.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 paw!cheats UI screenshots"></summary>
@@ -677,15 +677,15 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <br>
 
 <div align="left">
-  <img src="public/pawCheatUI/aimAssist.png" alt="paw!cheats: Aim Assist V5 menu (Strength, Base FOV, Humanization, Flow)" width="480">
+  <img src="public/paw-cheats/aimAssist.png" alt="paw!cheats: Aim Assist V5 menu (Strength, Base FOV, Humanization, Flow)" width="480">
   <p><em>Aim Assist V5: magnetic cursor pull, with Strength, Base FOV, Humanization and Flow.</em></p>
-  <img src="public/pawCheatUI/enlighten.png" alt="paw!cheats: Cheats menu showing Timewarp, HD Remover and the Human Autobot" width="480">
+  <img src="public/paw-cheats/enlighten.png" alt="paw!cheats: Cheats menu showing Timewarp, HD Remover and the Human Autobot" width="480">
   <p><em>Cheats menu: Timewarp, HD Remover, and the Human Autobot.</em></p>
-  <img src="public/pawCheatUI/misc.png" alt="paw!cheats: full Cheats menu with Identity profile, Click Assist, AR Changer and Miscellaneous" width="480">
+  <img src="public/paw-cheats/misc.png" alt="paw!cheats: full Cheats menu with Identity profile, Click Assist, AR Changer and Miscellaneous" width="480">
   <p><em>Identity (HWID) profiles, Click Assist / Relax, AR Changer, and Miscellaneous (lazer notelock, insta-fade, tube trail).</em></p>
-  <img src="public/pawCheatUI/maniaAuto.png" alt="paw!cheats: Mania auto-bot menu" width="480">
+  <img src="public/paw-cheats/maniaAuto.png" alt="paw!cheats: Mania auto-bot menu" width="480">
   <p><em>Mania bot: jack detection, fatigue, chord correlation and phantom releases.</em></p>
-  <img src="public/pawCheatUI/taikoBotAuto.png" alt="paw!cheats: Taiko auto-bot menu" width="480">
+  <img src="public/paw-cheats/taikoBotAuto.png" alt="paw!cheats: Taiko auto-bot menu" width="480">
   <p><em>Taiko bot: don/kat, drum rolls and spinners, with humanized timing.</em></p>
 </div>
 
@@ -702,7 +702,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Download:** Unavailable. A compiled build is being preserved by fishy.moe, but we do not have the developers' permission to release it yet.
 
 > [!IMPORTANT]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A compiled Shaymi build is being kept by fishy.moe, but we do not have the developers' permission to release it, so it stays archived (unreleased) here for now while we wait on their word.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A compiled Shaymi build is being kept by fishy.moe, but we do not have the developers' permission to release it, so it stays archived (unreleased) here for now while we wait on their word.
 
 <a name="osu-rx"></a>
 
@@ -720,7 +720,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   3. Create a `_STAGING` file in your osu! folder to block auto-updates.
 
 > [!NOTE]
-> <img src="public/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
+> <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
 
 ## Resources
 
@@ -780,7 +780,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <div align="center">
   <a href="https://dev.fishy.moe">
-    <img src="public/fishy-og.jpg" alt="dev.fishy.moe cheat testing playground" width="480">
+    <img src="public/pserver/fishy-og.jpg" alt="dev.fishy.moe cheat testing playground" width="480">
   </a>
 </div>
 
@@ -804,7 +804,7 @@ A directory of the osu! private servers known to allow the cheating clients list
   <tr>
     <td align="center" width="150">
       <a href="https://pawinput.xyz/">
-        <img src="public/pawtoka.png" width="90" alt="Pawtoka"><br>
+        <img src="public/pserver/pawtoka.png" width="90" alt="Pawtoka"><br>
         <sub><b>Pawtoka</b></sub>
       </a>
     </td>
@@ -815,7 +815,7 @@ A directory of the osu! private servers known to allow the cheating clients list
   <tr>
     <td align="center" width="150">
       <a href="https://kawata.pw">
-        <img src="public/kawata.png" width="90" alt="Kawata"><br>
+        <img src="public/pserver/kawata.png" width="90" alt="Kawata"><br>
         <sub><b>Kawata</b></sub>
       </a>
     </td>
@@ -826,7 +826,7 @@ A directory of the osu! private servers known to allow the cheating clients list
   <tr>
     <td align="center" width="150">
       <a href="https://fishy.moe/">
-        <img src="public/fishy.png" width="90" alt="fishy.moe"><br>
+        <img src="public/pserver/fishy.png" width="90" alt="fishy.moe"><br>
         <sub><b>fishy.moe</b></sub>
       </a>
     </td>
@@ -837,7 +837,7 @@ A directory of the osu! private servers known to allow the cheating clients list
   <tr>
     <td align="center" width="150">
       <a href="https://halcyon.moe">
-        <img src="public/halcyon.png" width="90" alt="Halcyon"><br>
+        <img src="public/pserver/halcyon.png" width="90" alt="Halcyon"><br>
         <sub><b>Halcyon</b></sub>
       </a>
     </td>
@@ -848,7 +848,7 @@ A directory of the osu! private servers known to allow the cheating clients list
   <tr>
     <td align="center" width="150">
       <a href="https://osunolimits.dev">
-        <img src="public/nolimits.png" width="90" alt="NoLimits"><br>
+        <img src="public/pserver/nolimits.png" width="90" alt="NoLimits"><br>
         <sub><b>NoLimits</b></sub>
       </a>
     </td>
@@ -868,7 +868,7 @@ Every other private server, and Bancho itself, detects and bans these clients on
 
 <div align="center">
   <a href="https://hinamizawa.ai">
-    <img src="public/hinai.png" alt="Hinamizawa" width="180">
+    <img src="public/mirror/hinai.png" alt="Hinamizawa" width="180">
   </a>
 </div>
 
@@ -894,7 +894,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
   <tr>
     <td align="center" width="150">
       <a href="https://mirror.hinamizawa.ai/">
-        <img src="public/hinai.png" width="90" alt="Hinai"><br>
+        <img src="public/mirror/hinai.png" width="90" alt="Hinai"><br>
         <sub><b>Hinai</b></sub>
       </a>
     </td>
@@ -906,7 +906,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
   <tr>
     <td align="center" width="150">
       <a href="https://mirror.nekoha.moe/">
-        <img src="public/nekoha.png" width="90" alt="Nekoha"><br>
+        <img src="public/mirror/nekoha.png" width="90" alt="Nekoha"><br>
         <sub><b>Nekoha</b></sub>
       </a>
     </td>
@@ -918,7 +918,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
   <tr>
     <td align="center" width="150">
       <a href="https://osu.direct/browse">
-        <img src="public/osudirect.png" width="90" alt="osu.direct"><br>
+        <img src="public/mirror/osudirect.png" width="90" alt="osu.direct"><br>
         <sub><b>osu.direct</b></sub>
       </a>
     </td>
@@ -930,7 +930,7 @@ Beatmap mirrors and open APIs for building osu! tools and services. These are th
   <tr>
     <td align="center" width="150">
       <a href="https://nerinyan.moe/main">
-        <img src="public/nerinyan.png" width="90" alt="NeriNyan"><br>
+        <img src="public/mirror/nerinyan.png" width="90" alt="NeriNyan"><br>
         <sub><b>NeriNyan</b></sub>
       </a>
     </td>
@@ -946,7 +946,7 @@ All of these mirrors are integrated in [kawata.pw](https://kawata.pw).
 ## Contributing
 
 <div align="center">
-  <img src="public/firedigger.png" alt="firedigger meme" width="240">
+  <img src="public/misc/firedigger.png" alt="firedigger meme" width="240">
 </div>
 
 This is a curated archive. PRs welcome for:
@@ -965,7 +965,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   <tr>
     <td align="center" width="140">
       <a href="https://github.com/alejandroatacho">
-        <img src="public/hina-og-aqn-v1-pfp.jpg" width="80" alt="hinamizawa"><br>
+        <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="80" alt="hinamizawa"><br>
         <sub><b>hinamizawa</b></sub>
       </a>
     </td>
@@ -1052,7 +1052,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="public/drown.webp" width="80" alt="drown"><br>
+      <img src="public/contributors/drown.webp" width="80" alt="drown"><br>
       <sub><b>drown</b></sub>
     </td>
     <td>
