@@ -33,7 +33,7 @@
   <a href="https://fishy.moe">
     <img src="public/pserver/fishy.png" alt="fishy.moe" width="180">
   </a>
-  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://fishy.moe">fishy.moe</a>.</strong></p>
+  <p><strong>The osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a></strong> (within their own cheat rules) <strong>and <a href="https://fishy.moe">fishy.moe</a></strong> (where we personally test them).</p>
   <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
   <!-- <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p> -->
 </div>
@@ -119,6 +119,8 @@
 > <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Aeris is temporarily on hold.** The owner and maintainer, [TheFantasticLoki](https://github.com/TheFantasticLoki), is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 > **`storage.kawata.pw` has been down since June 2, 2026.**
 > **Fallback mirror added June 27, 2026:** while the official download is offline, Aeris is now mirrored at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
+
+<!-- -->
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
