@@ -1,13 +1,13 @@
 <div align="center">
   <!-- <img src="public/aqn/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
-  <p><strong>Prefer an online interactive version of this archive with 11 translations? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
+  <p><strong>Prefer an online interactive version of this archive with 15 translations? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
   </div>
   <h1>
     <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 6, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 7, 2026</em></p>
 </div>
 
 <p align="center">
@@ -233,17 +233,23 @@ _Clients that are temporarily down for updates. Their information and cheats are
 - **Cheats:**
   - Aim Assist (3 versions)
   - Relax Hack
+  - Tap Assist
   - Timewarp
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 <details>
-<summary><img src="https://img.shields.io/badge/View_1_Preview_Image-8957e5?style=for-the-badge" alt="View 1 Maple preview image"></summary>
+<summary><img src="https://img.shields.io/badge/View_6_Preview_Images-8957e5?style=for-the-badge" alt="View 6 Maple preview images"></summary>
 
 <br>
 
 <div align="center">
   <img src="public/maple/menu.webp" alt="Maple dev build menu: Relax panel with singletap playstyle, primary and secondary keys, max singletap BPM, and a prediction panel" width="480">
-  <br><sub>The Maple dev build menu, shared by <a href="https://github.com/ptrchain">Risky</a>.</sub>
+  <img src="public/maple/ui-colors.png" alt="Maple User Interface panel: Snow toggle, a menu scale dropdown from 50 percent to 150 percent, a background dim slider, and Colors for accent, menu, control, and text" width="480">
+  <img src="public/maple/enlighten-ar-changer.png" alt="Maple Enlighten panel showing an AR Changer with an approach rate slider and a Respect Mods toggle, plus a Mods section with Disable Hidden and Disable Flashlight toggles" width="480">
+  <img src="public/maple/tap-assist.png" alt="Maple Tap Assist panel: an enabled toggle that corrects early inputs to land within the hit window, with buffer window, correction window, and passthrough chance sliders" width="480">
+  <img src="public/maple/visuals-liquid-glass.png" alt="Maple Visuals panel on a newer build with a Liquid Glass menu background effect, menu scale, background blur, background dim, and Colors" width="480">
+  <img src="public/maple/ui-collapsed-sidebar.png" alt="Maple User Interface panel on a collapsed, icon-only sidebar layout" width="480">
+  <br><sub>The Maple dev build menu, User Interface, Enlighten AR Changer, Tap Assist, Visuals, and collapsed-sidebar screenshots, shared by <a href="https://github.com/ptrchain">Rizky</a>.</sub>
 </div>
 
 </details>
@@ -562,6 +568,11 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > [!NOTE]
 > <img src="https://github.com/kird3333d.png" width="20" align="middle" alt="cbKocham (kird3333d) avatar"> **Provided by [cbKocham (kird3333d)](https://github.com/kird3333d):** A final build from Kat's team has since been recovered and handed over for backup, archival, and testing purposes. It is kept privately for now, pending safety verification, and is not currently available for public download.
 
+<!-- -->
+
+> [!NOTE]
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A second build, referred to as `megumi_osu.dll`, came up separately during outreach. Its holder described it as a Discord-only copy distinct from the archived `megumi_final.dll` above (which Kat's team released to a handful of forums), and shared two screenshots of its aim assist panel showing an `advanced mode` toggle and an `algorithm` control the archived build's menu doesn't have, in place of the archived build's `lock to center` option. The `algorithm` control isn't a single fixed option: the two captures show it switched between at least `controlled` and `gravity` modes, the latter swapping in its own assist speed and assist range sliders. Per the same holder, this aim assist panel is believed to be the only difference between the two builds; everything else (relax, difficulty, replays, scripts, config) is presumed identical. The file itself was never actually handed over, even for private archival and backup, out of a fear it might get shared further, so we can only take the holder's word for it. Anyone with a genuine copy who is willing to contribute it for archival and backup can DM hinamizawa on Discord, or reach out via the fishy.moe Discord.
+
 <details>
 <summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 Auto Assist Megumi UI screenshots"></summary>
 
@@ -573,7 +584,21 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/megumi/site-landing.webp" alt="megumi.dev landing: megumi is a private cheat for osu! with a registered user count and login/register" width="480">
   <img src="public/megumi/site-features.webp" alt="megumi.dev features and pricing: undetected, aim assist, relax, timewarp, visual settings, streamproof, monthly/quarterly/lifetime" width="480">
   <img src="public/megumi/menu.webp" alt="Auto Assist Megumi client menu: aim assist panel with slider assist, lock to center, and an assist power slider" width="480">
-  <br><sub>megumi.dev's site image, hero, landing, features and pricing, and the client menu, shared by <a href="https://github.com/ptrchain">Risky</a>.</sub>
+  <br><sub>megumi.dev's site image, hero, landing, features and pricing, and the client menu, shared by <a href="https://github.com/ptrchain">Rizky</a>.</sub>
+</div>
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_3_Discord--Sourced_Screenshots-8957e5?style=for-the-badge" alt="View 3 Discord-sourced Auto Assist Megumi screenshots"></summary>
+
+<br>
+
+<div align="center">
+  <img src="public/megumi/hash-proof.png" alt="SHA-256 hash comparison text listing two Auto Assist Megumi builds: megumi_final.dll and megumi_osu.dll" width="480">
+  <img src="public/megumi/discord-advanced-mode.png" alt="Auto Assist Megumi aim assist panel from the Discord-sourced build: enabled, slider assist, and advanced mode toggles, an assist power slider, and an algorithm slider set to controlled" width="480">
+  <img src="public/megumi/discord-advanced-mode-gravity.png" alt="The same Discord-sourced Auto Assist Megumi aim assist panel with the algorithm set to gravity, showing assist speed and assist range sliders" width="480">
+  <br><sub>A hash comparison naming both known builds, and the Discord-sourced build's aim assist panel with the algorithm set to <code>controlled</code> and then <code>gravity</code>. Its loader's status bar carries a farewell from the original team: "R.I.P megumi | kat, cherry &amp; eee (polish guy) | we had fun while it lasted &lt;3".</sub>
 </div>
 
 </details>
@@ -1044,12 +1069,12 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   <tr>
     <td align="center" width="140">
       <a href="https://github.com/ptrchain">
-        <img src="https://github.com/ptrchain.png" width="80" alt="Risky (ptrchain)"><br>
-        <sub><b>Risky (ptrchain)</b></sub>
+        <img src="https://github.com/ptrchain.png" width="80" alt="Rizky (ptrchain)"><br>
+        <sub><b>Rizky (ptrchain)</b></sub>
       </a>
     </td>
     <td>
-      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a> and <a href="#megumi">Auto Assist Megumi</a>.
+      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a> and <a href="#megumi">Auto Assist Megumi</a>, plus background history on maple.software not otherwise publicly documented, design lore behind the AQN and Megumi websites, and the megumi.dev ownership situation (owned and maintained by czapek, not kat).
     </td>
   </tr>
   <tr>
