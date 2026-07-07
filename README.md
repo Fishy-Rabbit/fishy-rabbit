@@ -97,7 +97,7 @@
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 > [!WARNING]
-> Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
+> <img src="https://github.com/TheFantasticLoki.png" width="20" align="middle" alt="TheFantasticLoki avatar"> **Noted by [TheFantasticLoki](https://github.com/TheFantasticLoki):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 
 <a name="kawata-aeris"></a>
 
@@ -116,7 +116,7 @@
 </p>
 
 > [!IMPORTANT]
-> **Aeris is temporarily on hold.** The owner and maintainer, TheFantasticLoki, is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Aeris is temporarily on hold.** The owner and maintainer, [TheFantasticLoki](https://github.com/TheFantasticLoki), is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 > **`storage.kawata.pw` has been down since June 2, 2026.**
 > **Fallback mirror added June 27, 2026:** while the official download is offline, Aeris is now mirrored at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
@@ -144,14 +144,14 @@
   - Very experimental; performance is not guaranteed and depends on the system.
 
 > [!TIP]
-> Add the install folder as an antivirus exclusion to prevent issues.
+> <img src="https://github.com/TheFantasticLoki.png" width="20" align="middle" alt="TheFantasticLoki avatar"> **Noted by [TheFantasticLoki](https://github.com/TheFantasticLoki):** Add the install folder as an antivirus exclusion to prevent issues.
 
 <details>
 <summary><img src="https://img.shields.io/badge/Fix%3A_Still_Failing_After_Antivirus_Exclusion-8957e5?style=for-the-badge" alt="Fix for Aeris still failing after antivirus exclusion"></summary>
 
 <br>
 
-Per the Kawata Discord `help` channel (fix documented by drown): if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.Ink.dll`, `osu!.deps.json`, `osu!.dll`, `osu!.dll.config`, `osu!.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, `osu!common.dll`, and `osu!common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
+Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by drown): if excluding the install folder still doesn't fix it, drag `libGLESv2.dll`, `Microsoft.Ink.dll`, `osu!.deps.json`, `osu!.dll`, `osu!.dll.config`, `osu!.exe`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!.runtimeconfig.json`, `osu!common.dll`, and `osu!common.dll.config` into `%LocalAppData%\osu!Aeris\`, and click **Skip** if it asks to replace 2 files.
 
 <div align="left">
   <img src="public/aeris/issue-evenAfter-antivirus-exclude-solution.png" alt="Kawata Discord help thread: fix for Aeris still failing after antivirus exclusion" width="600">
@@ -172,7 +172,7 @@ Per the Kawata Discord `help` channel (fix documented by drown): if excluding th
 > _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
 
 > [!WARNING]
-> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), Kawata Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) as **use-at-your-own-risk**: scan the loader yourself before you run it.
+> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), [Kawata](https://kawata.pw) Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) as **use-at-your-own-risk**: scan the loader yourself before you run it.
 
 - **Status:** Active · Paid
 - **Developer:** Kernel Software
@@ -241,7 +241,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 <div align="center">
   <img src="public/maple/menu.webp" alt="Maple dev build menu: Relax panel with singletap playstyle, primary and secondary keys, max singletap BPM, and a prediction panel" width="480">
-  <br><sub>The Maple dev build menu, shared by Risky.</sub>
+  <br><sub>The Maple dev build menu, shared by <a href="https://github.com/ptrchain">Risky</a>.</sub>
 </div>
 
 </details>
@@ -314,7 +314,7 @@ _Upcoming clients that have been announced or previewed but are not released yet
 _Discontinued or no-longer-maintained clients, kept here for historical reference. Most downloads will be broken or unsafe by now._
 
 > [!WARNING]
-> Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
+> <img src="public/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
 
 <a name="aqn"></a>
 
@@ -353,7 +353,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The V2 team (start year unknown, most likely 2016 to 2017):** Rumoi took over as lead developer. Kevin stayed on as server maintainer and website name owner, handling update rollouts; Helsing moderated the Discord; Hinamizawa wrote guides and managed the forum. Rumoi released a replay editor, upgraded Relax, and pushed out several successive Aim Assist versions as the competition intensified, putting AQN in direct competition, first with Kat's standalone Aim Assist, then with [Auto Assist Megumi](#megumi) (Kat's upgraded version, built with other contributors).
 
 > [!NOTE]
-> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The Taiko/CTB bug:** During the transition from V1 to V2, an Enlighten update by Rumoi broke Taiko rendering. For reasons unknown, nearly every cheat client that followed inherited the same Taiko bug, and a similarly odd CTB bug, except Ainu. A later alternative fix attempt helped, but never fully resolved it.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The Taiko/CTB bug:** During the transition from V1 to V2, an Enlighten update by Rumoi broke Taiko rendering. For reasons unknown, nearly every cheat client that followed inherited the same Taiko bug, and a similarly odd CTB bug, except [Ainu](#ainu). A later alternative fix attempt helped, but never fully resolved it.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_19_Preview_Images-8957e5?style=for-the-badge" alt="View 19 AQN preview images"></summary>
@@ -390,7 +390,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/aqnUI/v2-timewarp.webp" alt="AQN V2's Timewarp panel" width="480">
   <p><em>AQN V2's Timewarp panel: Enabled, Play Speed, No Spectator Buffer, Show Approx Countdown, and Indicator Scale.</em></p>
   <img src="public/aqnUI/v2-taiko-bug.webp" alt="The Taiko rendering bug that followed Rumoi's Enlighten update" width="480">
-  <p><em>The Taiko rendering bug that followed Rumoi's Enlighten update, later inherited by nearly every future cheat client except Ainu.</em></p>
+  <p><em>The Taiko rendering bug that followed Rumoi's Enlighten update, later inherited by nearly every future cheat client except [Ainu](#ainu).</em></p>
   <img src="public/aqnUI/taiko-alt-fix.webp" alt="A later alternative fix attempt for the Taiko bug" width="480">
   <p><em>A later alternative fix attempt for Enlighten's Taiko rendering. Not the fix everyone wanted, but it helped.</em></p>
   <img src="public/aqnUI/vip-misc.webp" alt="The Rumoi-developed VIP tier's Misc panel" width="480">
@@ -449,7 +449,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > freedom comes with its own injector, so you don't need a separate one. The newest v0.98 build is a single self-injecting `freedom.exe` (just run it); the older v0.94.3 ships `freedom_injector.exe` next to the DLL. Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) works too, as a fallback or for other DLL cheats.
 
 > [!WARNING]
-> Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+> <img src="public/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_4_freedom_Images-8957e5?style=for-the-badge" alt="View 4 freedom screenshots"></summary>
@@ -473,7 +473,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Ainu
 
-> _Predecessor to Skooter and Abypass. No longer maintained._
+> _Predecessor to [Skooter](#skooter) and [Abypass](#abypass). No longer maintained._
 
 - **Status:** Archived · Unmaintained
 - **Maintainer:** Cherry/Aoba Suzukaze (edits by [Chewy/Pythr](https://github.com/Pytxhr); unmaintained)
@@ -533,7 +533,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Auto Assist Megumi
 
-> _DLL-injected relax and aim assist cheat from the osu!rx era. Rivaled AQN V2, a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
+> _DLL-injected relax and aim assist cheat from the [osu!rx](#osu-rx) era. Rivaled [AQN V2](#aqn), a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
 
 - **Status:** Archived · Free · DLL inject · Testing
 - **Maintainer:** kat, eee, and Cherry (original developers)
@@ -548,7 +548,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Relax hack: automated clicking
 
 > [!NOTE]
-> Kat was one of the era's best known and most communicative cheat developers, active in the Kawata community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Kat was one of the era's best known and most communicative cheat developers, active in the [Kawata](https://kawata.pw) community alongside co-developers eee and Cherry. Auto Assist Megumi's original C++ codebase, its downloads, and its forum threads are all lost to time. As a DLL-injected tool from the same era as [osu!rx](#osu-rx), it likely also needed the patched b20220424 build to run, though this is unconfirmed.
 
 <!-- -->
 
@@ -571,7 +571,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/megumi/site-landing.webp" alt="megumi.dev landing: megumi is a private cheat for osu! with a registered user count and login/register" width="480">
   <img src="public/megumi/site-features.webp" alt="megumi.dev features and pricing: undetected, aim assist, relax, timewarp, visual settings, streamproof, monthly/quarterly/lifetime" width="480">
   <img src="public/megumi/menu.webp" alt="Auto Assist Megumi client menu: aim assist panel with slider assist, lock to center, and an assist power slider" width="480">
-  <br><sub>megumi.dev's site image, hero, landing, features and pricing, and the client menu, shared by Risky.</sub>
+  <br><sub>megumi.dev's site image, hero, landing, features and pricing, and the client menu, shared by <a href="https://github.com/ptrchain">Risky</a>.</sub>
 </div>
 
 </details>
@@ -580,7 +580,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Abypass
 
-> _Successor to Skoot.er, mostly discontinued._
+> _Successor to [Skoot.er](#skooter), mostly discontinued._
 
 - **Status:** Archived · Unmaintained
 - **Maintainer:** [Chewy/Pythr](https://github.com/Pytxhr) (previously <a href="https://github.com/7ez"><img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> Aochi</a>; unmaintained)
@@ -601,7 +601,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Skooter
 
-> _Predecessor to Abypass. No longer maintained._
+> _Predecessor to [Abypass](#abypass). No longer maintained._
 
 - **Status:** Archived · Unmaintained
 - **Maintainer:** Aoba Suzukaze, VacCat, [Chewy/Pythr](https://github.com/Pytxhr) (unmaintained)
@@ -619,7 +619,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/tuyosu-cheat.webp" alt="tuyosu cheat logo" width="140">
 </div>
 
-> _Short-lived standalone osu! cheat by noemi; never affiliated with Kawata. Released July 26, 2025, shut down June 5, 2026._
+> _Short-lived standalone osu! cheat by [noemi](https://github.com/nyoemii); never affiliated with [Kawata](https://kawata.pw). Released July 26, 2025, shut down June 5, 2026._
 
 - **Status:** Archived · Discontinued (shut down June 5, 2026) · Free
 - **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
@@ -633,7 +633,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - FL Remover
 
 > [!NOTE]
-> Listed for archival completeness. The logo above was contributed by tuyosu's developer, noemi, who reached out and gave permission to mirror the last worked-on version on fishy.moe, free to download and give away.
+> Listed for archival completeness. The logo above was contributed by tuyosu's developer, [noemi](https://github.com/nyoemii), who reached out and gave permission to mirror the last worked-on version on fishy.moe, free to download and give away.
 
 <a name="paw-cheats"></a>
 
@@ -645,7 +645,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-> _Short-lived, heavily-modified 2026 osu! client by miracle: a standalone, multi-mode cheat with humanized bots. Never publicly released but has pre-view images._
+> _Short-lived, heavily-modified 2026 osu! client by [miracle](https://github.com/SimplyAe): a standalone, multi-mode cheat with humanized bots. Never publicly released but has pre-view images._
 
 - **Status:** Archived · Discontinued · Standalone · Free
 - **Lifespan:** April 15 to May 18, 2026 (~1 month, per the developer's edit timestamps)
@@ -666,10 +666,10 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Circle fade-out timing · DT/NC playback on a selected song
 
 > [!NOTE]
-> The **Catch (CTB) auto-bot was removed** before release (miracle couldn't fix its memory leaks), so the Catch tab is wiped despite still appearing in the mode menu. Two builds appear in the screenshots. All details and images are developer-provided; paw!cheats was never publicly downloadable.
+> The **Catch (CTB) auto-bot was removed** before release ([miracle](https://github.com/SimplyAe) couldn't fix its memory leaks), so the Catch tab is wiped despite still appearing in the mode menu. Two builds appear in the screenshots. All details and images are developer-provided; paw!cheats was never publicly downloadable.
 
 > [!IMPORTANT]
-> A compiled paw!cheats build was shared with fishy.moe, but we do not have the developer's permission to release it yet, so it stays archived (unreleased) for now while we wait on their final word.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A compiled paw!cheats build was shared with fishy.moe, but we do not have the developer's permission to release it yet, so it stays archived (unreleased) for now while we wait on their final word.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 paw!cheats UI screenshots"></summary>
@@ -695,14 +695,14 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Shaymi
 
-> _A short-lived 2024 collaboration between noemi and miracle, from back when the two first met. No logo was ever made for it._
+> _A short-lived 2024 collaboration between [noemi](https://github.com/nyoemii) and [miracle](https://github.com/SimplyAe), from back when the two first met. No logo was ever made for it._
 
 - **Status:** Archived · Unreleased · Free
 - **Maintainers:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> & <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a>
 - **Download:** Unavailable. A compiled build is being preserved by fishy.moe, but we do not have the developers' permission to release it yet.
 
 > [!IMPORTANT]
-> A compiled Shaymi build is being kept by fishy.moe, but we do not have the developers' permission to release it, so it stays archived (unreleased) here for now while we wait on their word.
+> <img src="public/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A compiled Shaymi build is being kept by fishy.moe, but we do not have the developers' permission to release it, so it stays archived (unreleased) here for now while we wait on their word.
 
 <a name="osu-rx"></a>
 
@@ -729,7 +729,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Patched osu! b20220424
 
-> _Base client required by osu!rx and other legacy hacks._
+> _Base client required by [osu!rx](#osu-rx) and other legacy hacks._
 
 - **Status:** Archival snapshot
 - **Download1:** [fishy.moe snapshot (b20220424.zip)](https://fishy.moe/download/osu-b20220424)
@@ -970,7 +970,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN (V0 + V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>. Currently also hosting <a href="https://kawata.pw">kawata.pw</a> and the Aeris auto updater while Loki is away.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V0 + V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>. Currently also hosting <a href="https://kawata.pw">kawata.pw</a> and the <a href="#kawata-aeris">Aeris</a> auto updater while Loki is away.
     </td>
   </tr>
   <tr>
@@ -981,7 +981,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
+      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
     </td>
   </tr>
   <tr>
@@ -1003,7 +1003,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Developer of <a href="#tuyosu">tuyosu</a> and co-developer of <a href="#shaymi">Shaymi</a> (with miracle), Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
+      Developer of <a href="#tuyosu">tuyosu</a> and co-developer of <a href="#shaymi">Shaymi</a> (with <a href="https://github.com/SimplyAe">miracle</a>), Alumni of <a href="https://kawata.pw">Kawata</a> - <a href="#kawata-aeris">Aeris</a> Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
     </td>
   </tr>
   <tr>
@@ -1014,7 +1014,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Developer of <a href="#paw-cheats">paw!cheats</a> and co-developer of <a href="#shaymi">Shaymi</a> (with noemi), and provided both, along with screenshots and information, for this archive, including the Ainu rumor note.
+      Developer of <a href="#paw-cheats">paw!cheats</a> and co-developer of <a href="#shaymi">Shaymi</a> (with <a href="https://github.com/nyoemii">noemi</a>), and provided both, along with screenshots and information, for this archive, including the <a href="#ainu">Ainu</a> rumor note.
     </td>
   </tr>
   <tr>
