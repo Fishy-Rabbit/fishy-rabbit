@@ -844,7 +844,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A short-lived 2022 osu! cheating forum and Discord, clarity.moe. Long thought lost, until a screen recording surfaced the live site, its Discord, and a board trading injectors, configs, and repackaged cheats like [Rumoi's AQN aim assist](#aqn)._
 
 - **Status:** Archived · clarity.moe · Lost to time · Footage recovered
-- **Download:** Clarity had no client of its own: it was a hub that hosted and repackaged other people's tools. The forum and its Discord are long gone, and the clarity.moe domain now points at an unrelated cheat store. A recovered screen recording is the only substantial record left.
+- **Download:** Clarity had no client of its own: it was a hub that hosted and repackaged other people's tools. The forum and its Discord are long gone, and the clarity.moe domain now points at an unrelated cheat store (checked July 2026). A recovered screen recording is the only substantial record left.
 
 > [!NOTE]
 > The earliest surviving trace is one browser screenshot of a `clarity.moe` forum thread titled "rumoi's aqn aim assist aka spare cheat", posted July 23, 2022 by a user "Sentinel". It repackages [Rumoi's AQN aim assist](#aqn) disguised as a tablet driver process loaded through Discord Canary, to dodge detection. A reply from a user "Ichigo" confirms it undetected as of the same date.
@@ -857,7 +857,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <!-- -->
 
 > [!CAUTION]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Do not confuse this 2022 forum with the current `clarity.moe`: the domain today resolves to an unrelated commercial cheat store that has nothing to do with the osu! forum shown here. Treat the domain as repurposed, and assume different operators.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Do not confuse this 2022 forum with the current `clarity.moe`: the domain, as of July 2026, resolves to an unrelated commercial cheat store that has nothing to do with the osu! forum shown here. Treat the domain as repurposed, and assume different operators.
 
 <!-- -->
 
@@ -1034,15 +1034,15 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ## Feature comparison
 
-| Feature | Arc | Aeris | OSU!RISE | Maple |
-|---|:---:|:---:|:---:|:---:|
-| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
-| Relax Hack | ✅ | ✅ | ✅ | ✅ |
-| Timewarp | ✅ | ✅ | ❌ | ✅ |
-| AR / CS Changer | ✅ | ✅ | ✅ | ✅ |
-| HD / FL Remover | ✅ | ✅ | ✅ | ✅ |
-| Cost | Free | Free | 💰 Paid | 💰 Paid |
-| Works on current osu!/kawata | ✅ | ✅ | ✅ | 🟠 |
+| Feature | Arc | Aeris | pawclient | OSU!RISE | Maple |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Aim Assist / Correction | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Relax Hack | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Timewarp | ✅ | ✅ | ✅ | ❌ | ✅ |
+| AR / CS Changer | ✅ | ✅ | ✅ | ✅ | ✅ |
+| HD / FL Remover | ✅ | ✅ | 🟠 | ✅ | ✅ |
+| Cost | Free | Free | Free | 💰 Paid | 💰 Paid |
+| Works on current osu!/kawata | ✅ | ✅ | ❌ | ✅ | 🟠 |
 
 
 | Client | Status | Cost | Type | Current osu/kawata | Download |
