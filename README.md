@@ -7,7 +7,7 @@
     <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 8, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 10, 2026</em></p>
 </div>
 
 <p align="center">
@@ -15,8 +15,8 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-22-1f6feb?style=flat-square" alt="22 clients">
-  <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
+  <img src="https://img.shields.io/badge/clients-23-1f6feb?style=flat-square" alt="23 clients">
+  <img src="https://img.shields.io/badge/4_active-2ea44f?style=flat-square" alt="4 active">
   <img src="https://img.shields.io/badge/1_maintenance-f0a000?style=flat-square" alt="1 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
   <img src="https://img.shields.io/badge/15_archived-6e7681?style=flat-square" alt="15 archived">
@@ -44,6 +44,7 @@
 - [Active Clients](#active-clients)
   - [Arc](#arc)
   - [Aeris - Kawata](#kawata-aeris)
+  - [pawclient - pawinput](#pawclient)
   - [OSU!RISE](#osu-rise)
 - [Under Maintenance](#under-maintenance)
   - [Maple](#maple)
@@ -96,7 +97,7 @@
 
 - **Status:** Active · Free
 - **Maintainer:** [Aochi](https://github.com/7ez)
-- **Download:** [m1.aochi.uk/r/osu!.exe](https://m1.aochi.uk/r/osu!.exe)
+- **Download:** [fishy.moe/download/arc](https://fishy.moe/download/arc)
 - **Cheats:**
   - Maple Aim Assist (V1-V3)
   - Aim Correction
@@ -168,6 +169,28 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 </div>
 
 </details>
+
+<a name="pawclient"></a>
+
+### pawclient - [pawinput](https://pawinput.xyz/)
+
+<div align="left">
+  <a href="https://pawinput.xyz/">
+    <img src="public/pawclient/pawclient.webp" alt="pawclient mascot (Pawtoka)" width="140">
+  </a>
+</div>
+
+> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
+
+- **Status:** Active · Free · Standalone · Pawtoka client
+- **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle avatar"> miracle</a> (developer of [paw!cheats](#paw-cheats) and the Pawtoka server, working on an upcoming ?????? cheat)
+- **Download:** [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient)
+- **Cheats:**
+  - Timewarp
+  - Relax
+  - Enlighten (HD only)
+  - AR Changer
+  - Misc visuals shared with [paw!cheats](#paw-cheats): Lazer notelock, long / tube trail, and circle fade-out
 
 <a name="osu-rise"></a>
 
@@ -579,12 +602,17 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <!-- -->
 
 > [!NOTE]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** A second build, referred to as `megumi_osu.dll`, came up separately during outreach. Its holder described it as a Discord-only copy distinct from the archived `megumi_final.dll` above (which Kat's team released to a handful of forums), and shared two screenshots of its aim assist panel showing an `advanced mode` toggle and an `algorithm` control the archived build's menu doesn't have, in place of the archived build's `lock to center` option. The `algorithm` control isn't a single fixed option: the two captures show it switched between at least `controlled` and `gravity` modes, the latter swapping in its own assist speed and assist range sliders. Per the same holder, this aim assist panel is believed to be the only difference between the two builds; everything else (relax, difficulty, replays, scripts, config) is presumed identical. The file itself was never actually handed over, even for private archival and backup, out of a fear it might get shared further, so we can only take the holder's word for it. Anyone with a genuine copy who is willing to contribute it for archival and backup can DM hinamizawa on Discord, or reach out via the fishy.moe Discord.
+> <img src="public/contributors/kaury.webp" width="20" align="middle" alt="kaury avatar"> **Provided by kaury:** A second build, referred to as `megumi_osu.dll`, came up separately during outreach: its holder described it as a Discord-only copy distinct from the archived `megumi_final.dll` above (which Kat's team released to a handful of forums), and shared two screenshots of its aim assist panel showing an `advanced mode` toggle and an `algorithm` control the archived build's menu doesn't have, in place of the archived build's `lock to center` option. The `algorithm` control isn't a single fixed option: the two captures show it switched between at least `controlled` and `gravity` modes, the latter swapping in its own assist speed and assist range sliders. Per the same holder, this aim assist panel is believed to be the only difference between the two builds; everything else (relax, difficulty, replays, scripts, config) is presumed identical.
 
 <!-- -->
 
 > [!NOTE]
 > <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Update: both hash-verified builds, `megumi_final.dll` and `megumi_osu.dll`, have now been retrieved and archived. Both are secured for preservation before any re-release.
+
+<!-- -->
+
+> [!NOTE]
+> <img src="public/contributors/kaury.webp" width="20" align="middle" alt="kaury avatar"> **Provided by kaury:** A third menu capture has since surfaced, from a developer build of the client. Its title bar reads `megumi.dev`, its active user is "developer", and it is dated October 2022. It carries two tabs the earlier captures don't, "rewrite" and "misc", plus a "debug overlay" toggle in the aim assist panel, so it looks like an internal, developer-facing build distinct from the released menus above. See the "Developer build" gallery below.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 Auto Assist Megumi UI screenshots"></summary>
@@ -612,6 +640,18 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/megumi/discord-advanced-mode.png" alt="Auto Assist Megumi aim assist panel from the Discord-sourced build: enabled, slider assist, and advanced mode toggles, an assist power slider, and an algorithm slider set to controlled" width="480">
   <img src="public/megumi/discord-advanced-mode-gravity.png" alt="The same Discord-sourced Auto Assist Megumi aim assist panel with the algorithm set to gravity, showing assist speed and assist range sliders" width="480">
   <br><sub>A hash comparison naming both known builds, and the Discord-sourced build's aim assist panel with the algorithm set to <code>controlled</code> and then <code>gravity</code>. Its loader's status bar carries a farewell from the original team: "R.I.P megumi | kat, cherry &amp; eee (polish guy) | we had fun while it lasted &lt;3".</sub>
+</div>
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_1_Developer_Build_Screenshot-8957e5?style=for-the-badge" alt="View 1 developer-build Auto Assist Megumi screenshot"></summary>
+
+<br>
+
+<div align="center">
+  <img src="public/megumi/menu-dev.webp" alt="An Auto Assist Megumi developer build menu titled megumi.dev, active user developer, with tabs aim assist, relax, difficulty, rewrite, replays, scripts, misc, and config, and an aim assist panel showing enabled, slider assist, advanced mode, debug overlay, and assist power" width="480">
+  <br><sub>A developer build of the megumi.dev client (active user "developer", dated 16 October 2022). Its tab bar adds "rewrite" and "misc" tabs the other captures don't show, and the aim assist panel carries a "debug overlay" toggle. Shared by kaury.</sub>
 </div>
 
 </details>
@@ -801,25 +841,43 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Clarity
 
-> _A cheating forum, remembered mostly by name. Almost all of its history is lost; the one surviving trace is a thread repackaging [Rumoi's AQN aim assist](#aqn)._
+> _A short-lived 2022 osu! cheating forum and Discord, clarity.moe. Long thought lost, until a screen recording surfaced the live site, its Discord, and a board trading injectors, configs, and repackaged cheats like [Rumoi's AQN aim assist](#aqn)._
 
-- **Status:** Archived · Lost to time · Website preview only
-- **Download:** Nothing survives beyond a single forum-thread screenshot. No known download, client, or maintainer identity for the site itself.
-
-> [!NOTE]
-> All we have is one browser screenshot of a `clarity.moe` forum thread titled "rumoi's aqn aim assist aka spare cheat", posted July 23, 2022 by a user "Sentinel". It repackages [Rumoi's AQN aim assist](#aqn) disguised as a tablet driver process loaded through Discord Canary, to dodge detection. A reply from a user "Ichigo" confirms it undetected as of the same date. Beyond that single thread, everything else about Clarity itself, who ran it, what else it hosted, is lost.
+- **Status:** Archived · clarity.moe · Lost to time · Footage recovered
+- **Download:** Clarity had no client of its own: it was a hub that hosted and repackaged other people's tools. The forum and its Discord are long gone, and the clarity.moe domain now points at an unrelated cheat store (checked July 2026). A recovered screen recording is the only substantial record left.
 
 > [!NOTE]
-> Any screenshots, information, or media about this one are actively being sought out. If you have anything, please reach out.
+> The earliest surviving trace is one browser screenshot of a `clarity.moe` forum thread titled "rumoi's aqn aim assist aka spare cheat", posted July 23, 2022 by a user "Sentinel". It repackages [Rumoi's AQN aim assist](#aqn) disguised as a tablet driver process loaded through Discord Canary, to dodge detection. A reply from a user "Ichigo" confirms it undetected as of the same date.
+
+<!-- -->
+
+> [!NOTE]
+> <img src="public/contributors/kaury.webp" width="20" align="middle" alt="kaury avatar"> **Provided by kaury:** A short screen recording has since recovered far more of Clarity than that single thread. The site lived at `clarity.moe`: a minimal black starfield splash with the wordmark "clarity" and two links, forum and discord. The forum ran on XenForo.
+
+<!-- -->
+
+> [!CAUTION]
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** Do not confuse this 2022 forum with the current `clarity.moe`: the domain, as of July 2026, resolves to an unrelated commercial cheat store that has nothing to do with the osu! forum shown here. Treat the domain as repurposed, and assume different operators.
+
+<!-- -->
+
+> [!NOTE]
+> We are still after anything more on this one: forum archives, saved threads, the Discord, or further screenshots. If you have any of it, please reach out.
 
 <details>
-<summary><img src="https://img.shields.io/badge/View_1_Screenshot-8957e5?style=for-the-badge" alt="View 1 Clarity screenshot"></summary>
+<summary><img src="https://img.shields.io/badge/View_4_Screenshots-8957e5?style=for-the-badge" alt="View 4 Clarity screenshots"></summary>
 
 <br>
 
 <div align="left">
+  <img src="public/clarity/site-landing.webp" alt="The clarity.moe landing page: a black starfield with the lowercase wordmark clarity and two links, forum and discord" width="480">
+  <p><em>The clarity.moe landing page: a minimal black starfield with the "clarity" wordmark and two links, forum and discord. Shared by kaury.</em></p>
+  <img src="public/clarity/discord-invite.webp" alt="A Discord invite modal reading You've been invited to join Clarity, 46 Online and 107 Members, with an Accept Invite button" width="480">
+  <p><em>The Clarity Discord invite (discord.gg/aqn): 107 members, 46 online at capture. Shared by kaury.</em></p>
+  <img src="public/clarity/forum-home.webp" alt="The clarity.moe XenForo forum home browsed by an admin account Sky, showing News, General discussion, Off topic, Suggestions, and a Cheats Showcase, with a Latest posts sidebar" width="480">
+  <p><em>The clarity.moe forum home, browsed from a staff account (Sky). Categories About Clarity, Main, and Cheats, with a "Latest posts" panel listing a dll injector, an osu!Auth reader, and a Maple config. Shared by kaury.</em></p>
   <img src="public/clarity/forum-thread.png" alt="A browser screenshot of a clarity.moe forum thread titled rumoi's aqn aim assist aka spare cheat, posted by Sentinel on July 23, 2022, with a reply from Ichigo confirming it undetected" width="480">
-  <p><em>The one surviving trace of Clarity: a forum thread repackaging Rumoi's AQN aim assist, disguised as a tablet driver process via Discord Canary.</em></p>
+  <p><em>The clarity.moe thread that first surfaced this cheat: it repackages Rumoi's AQN aim assist, disguised as a tablet driver process via Discord Canary.</em></p>
 </div>
 
 </details>
@@ -844,7 +902,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > <img src="https://github.com/ptrchain.png" width="20" align="middle" alt="Rizky (ptrchain) avatar"> **Provided by [Rizky (ptrchain)](https://github.com/ptrchain):** Owned and maintained by **ichigo**, who ran it at `saturncheat.xyz`. A showcase of the client is still up on YouTube: [youtu.be/xjw2O06m9JE](https://youtu.be/xjw2O06m9JE). Ichigo has offered to share the material he still has, so more screenshots and history should follow.
 
 <details>
-<summary><img src="https://img.shields.io/badge/View_2_UI_Screenshots-8957e5?style=for-the-badge" alt="View 2 Saturn UI screenshots"></summary>
+<summary><img src="https://img.shields.io/badge/View_3_UI_Screenshots-8957e5?style=for-the-badge" alt="View 3 Saturn UI screenshots"></summary>
 
 <br>
 
@@ -853,6 +911,8 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <p><em>The old saturncheat.xyz website, with the client's menu overlaid. Panel, Discord, and Terms of service links sat beneath the Saturn wordmark.</em></p>
   <img src="public/saturn/menu-aim-assist.png" alt="Saturn's Aim assist panel: Assistance (enable toggle, Kinetic assist type, Power 1.0), Advanced (transition speed 0.3, pickup radius 3.5, adaptive power 1.0), and a Continue assisting on circle toggle" width="480">
   <p><em>Saturn's Aim assist panel: assist type Kinetic, adjustable power, and an Advanced section with transition speed, pickup radius, and adaptive power sliders.</em></p>
+  <img src="public/saturn/menu-live-sky.webp" alt="A live in-client capture of the Saturn beta: the Aim assist options panel labelled Saturn beta - Sky, open over the osu! main menu, with Timewarp, Enlighten, Replays, and Settings tabs" width="480">
+  <p><em>A live in-client capture of the Saturn beta (menu labelled "Saturn beta - Sky"): the Aim assist panel open over the osu! main menu, alongside Timewarp, Enlighten, Replays, and Settings tabs. Shared by kaury.</em></p>
 </div>
 
 </details>
@@ -974,21 +1034,22 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ## Feature comparison
 
-| Feature | Arc | Aeris | OSU!RISE | Maple |
-|---|:---:|:---:|:---:|:---:|
-| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
-| Relax Hack | ✅ | ✅ | ✅ | ✅ |
-| Timewarp | ✅ | ✅ | ❌ | ✅ |
-| AR / CS Changer | ✅ | ✅ | ✅ | ✅ |
-| HD / FL Remover | ✅ | ✅ | ✅ | ✅ |
-| Cost | Free | Free | 💰 Paid | 💰 Paid |
-| Works on current osu!/kawata | ✅ | ✅ | ✅ | 🟠 |
+| Feature | Arc | Aeris | pawclient | OSU!RISE | Maple |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Aim Assist / Correction | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Relax Hack | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Timewarp | ✅ | ✅ | ✅ | ❌ | ✅ |
+| AR / CS Changer | ✅ | ✅ | ✅ | ✅ | ✅ |
+| HD / FL Remover | ✅ | ✅ | 🟠 | ✅ | ✅ |
+| Cost | Free | Free | Free | 💰 Paid | 💰 Paid |
+| Works on current osu!/kawata | ✅ | ✅ | ❌ | ✅ | 🟠 |
 
 
 | Client | Status | Cost | Type | Current osu/kawata | Download |
 |---|---|:---:|:---:|:---:|:---:|
-| [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [m1.aochi.uk/r/osu!.exe](https://m1.aochi.uk/r/osu!.exe) |
+| [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/arc](https://fishy.moe/download/arc) |
 | [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) |
+| [**pawclient**](#pawclient) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient) |
 | [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [osurise.online](https://osurise.online/?ref=QCXBQ3ZH) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _leak (archived)_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
@@ -1199,7 +1260,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors: 10
+## Contributors: 11
 
 <table>
   <tr>
@@ -1254,7 +1315,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Developer of <a href="#paw-cheats">paw!cheats</a> and co-developer of <a href="#shaymi">Shaymi</a> (with <a href="https://github.com/nyoemii">noemi</a>), and provided both, along with screenshots and information, for this archive, including the <a href="#ainu">Ainu</a> rumor note.
+      Developer of <a href="#paw-cheats">paw!cheats</a> and <a href="#pawclient">pawclient</a>, co-developer of <a href="#shaymi">Shaymi</a> (with <a href="https://github.com/nyoemii">noemi</a>), and runs the Pawtoka private server (<a href="https://pawinput.xyz/">pawinput.xyz</a>). Provided them, along with screenshots and information, for this archive, including the <a href="#ainu">Ainu</a> rumor note.
     </td>
   </tr>
   <tr>
@@ -1287,7 +1348,16 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a> and <a href="#megumi">Auto Assist Megumi</a>, plus background history on maple.software not otherwise publicly documented, design lore behind the AQN and Megumi websites, and the megumi.dev ownership situation (owned and maintained by czapek, not kat).
+      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a>, <a href="#megumi">Auto Assist Megumi</a>, <a href="#saturn">Saturn</a>, <a href="#lycoris">Lycoris</a>, and <a href="#osuauth">OsuAuth</a>, plus background history on maple.software not otherwise publicly documented, design lore behind the AQN and Megumi websites, and the megumi.dev ownership situation (owned and maintained by czapek, not kat).
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="public/contributors/kaury.webp" width="80" alt="kaury"><br>
+      <sub><b>kaury</b></sub>
+    </td>
+    <td>
+      Provided rare footage and screenshots of old and otherwise-lost clients: a live capture of the <a href="#clarity">Clarity</a> forum and Discord, a developer build of <a href="#megumi">Auto Assist Megumi</a>, and an in-client shot of <a href="#saturn">Saturn</a>.
     </td>
   </tr>
   <tr>
