@@ -180,7 +180,7 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
   </a>
 </div>
 
-> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
+> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire cheaters may misbehave._
 
 - **Status:** Active · Free · Standalone · Pawtoka client
 - **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle avatar"> miracle</a> (developer of [paw!cheats](#paw-cheats) and the Pawtoka server, working on an upcoming ?????? cheat)
