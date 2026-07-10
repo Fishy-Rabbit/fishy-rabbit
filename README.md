@@ -1121,7 +1121,7 @@ A directory of the osu! private servers known to allow the cheating clients list
       </a>
     </td>
     <td>
-      <a href="https://kawata.pw">Website</a> &nbsp;·&nbsp; <a href="https://kawata.pw/discord">Discord</a>
+      <a href="https://kawata.pw">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/cJB99QnMqW">Discord</a>
     </td>
   </tr>
   <tr>
