@@ -108,6 +108,9 @@
 > [!WARNING]
 > <img src="https://github.com/TheFantasticLoki.png" width="20" align="middle" alt="TheFantasticLoki avatar"> **Noted by [TheFantasticLoki](https://github.com/TheFantasticLoki):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 
+> [!NOTE]
+> <img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> **Noted by [Aochi](https://github.com/7ez):** Arc is not tied to a single server. It ships with a built-in private-server switcher, so the same client works across multiple cheating private servers, not just one.
+
 <a name="kawata-aeris"></a>
 
 ### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/pserver/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
@@ -176,7 +179,7 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 
 <div align="left">
   <a href="https://pawinput.xyz/">
-    <img src="public/pawclient/pawclient.webp" alt="pawclient mascot (Pawtoka)" width="140">
+    <img src="public/pawclient/pawclient-badge.webp" alt="pawclient logo (Pawtoka)" width="140">
   </a>
 </div>
 
@@ -185,6 +188,8 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 - **Status:** Active · Free · Standalone · Pawtoka client
 - **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle avatar"> miracle</a> (developer of [paw!cheats](#paw-cheats) and the Pawtoka server, working on an upcoming ?????? cheat)
 - **Download:** [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient)
+- **Discord:** [discord.gg/2Etdy8nnwY](https://discord.gg/2Etdy8nnwY)
+- **Support:** [Tip miracle on PayPal](https://paypal.me/gxddessAe)
 - **Cheats:**
   - Timewarp
   - Relax
@@ -705,6 +710,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
 - **Maintainer:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> (unmaintained)
 - **Download:** [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu)
+- **Support:** [Tip noemi on Ko-fi](https://ko-fi.com/qwqnoemi)
 - **Cheats:**
   - Aim Correction
   - Timewarp
