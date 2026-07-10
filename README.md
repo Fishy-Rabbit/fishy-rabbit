@@ -1110,7 +1110,7 @@ A directory of the osu! private servers known to allow the cheating clients list
       </a>
     </td>
     <td>
-      <a href="https://pawinput.xyz/">Website</a>
+      <a href="https://pawinput.xyz/">Website</a> &nbsp;·&nbsp; <a href="https://discord.gg/2Etdy8nnwY">Discord</a>
     </td>
   </tr>
   <tr>
