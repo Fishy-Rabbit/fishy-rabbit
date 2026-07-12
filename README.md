@@ -152,6 +152,7 @@
 - **Status:** Active · Paid
 - **Developers:** JoNjes and hello (Kernel Software Team)
 - **Public release:** May 14, 2026
+- **History Preview:** [fishy.moe/osu-rise](https://fishy.moe/client-cheating-archive#osu-rise)
 - **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
 - **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
 - **Showcase videos:** [Kernel Software showcase](https://www.youtube.com/watch?v=_lqZbx6c-bo) · [OSU!RISE startup guide](https://www.youtube.com/watch?v=y1N91Ef3JyI)
