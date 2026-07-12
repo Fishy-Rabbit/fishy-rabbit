@@ -96,6 +96,7 @@
 > _Standalone osu! client by Aochi._
 
 - **Status:** Active · Free
+- **History Preview:** [fishy.moe/arc](https://fishy.moe/client-cheating-archive#arc)
 - **Maintainer:** [Aochi](https://github.com/7ez)
 - **Download:** [fishy.moe/download/arc](https://fishy.moe/download/arc)
 - **Cheats:**
@@ -123,6 +124,7 @@
 > _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
 
 - **Status:** Active · Free · Standalone · Pawtoka client
+- **History Preview:** [fishy.moe/pawclient](https://fishy.moe/client-cheating-archive#pawclient)
 - **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle avatar"> miracle</a> (developer of [paw!cheats](#paw-cheats) and the Pawtoka server, working on an upcoming ?????? cheat)
 - **Download:** [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient)
 - **Discord:** [discord.gg/2Etdy8nnwY](https://discord.gg/2Etdy8nnwY)
@@ -204,6 +206,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active (hosted on fishy.moe) · Official download offline (maintainer relocating) · Public beta · Free
+- **History Preview:** [fishy.moe/kawata-aeris](https://fishy.moe/client-cheating-archive#kawata-aeris)
 - **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
 - **Download:**
   - **fishy.moe:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(hosted on fishy.moe)*
@@ -263,6 +266,7 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 > _Paid hack with no built-in limits, actively maintained._
 
 - **Status:** Under maintenance · Temporarily unavailable · Paid
+- **History Preview:** [fishy.moe/maple](https://fishy.moe/client-cheating-archive#maple)
 - **Maintainer:** Maple Syrup
 - **Download:** <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> maple.software</a> *(temporarily unavailable)*
 - **Discord:** [discord.gg/P9Yn8FfC2v](https://discord.com/invite/P9Yn8FfC2v)
@@ -315,6 +319,7 @@ _Upcoming clients that have been announced or previewed but are not released yet
 > _A revival of AQN, in active development. Release date unknown._
 
 - **Status:** Under development · Release date unknown
+- **History Preview:** [fishy.moe/aqn-revived-v3](https://fishy.moe/client-cheating-archive#aqn-revived-v3)
 - **Developer:** <a href="https://github.com/ptrchain"><img src="https://avatars.githubusercontent.com/u/290498914?v=4" width="28" align="middle" alt="ptrchain avatar"> ptrchain</a>
 - **Website:** [theaquila.network](https://theaquila.network)
 - **Discord:** [discord.gg/jkYzjHyqMg](https://discord.gg/jkYzjHyqMg)
@@ -338,6 +343,7 @@ _Upcoming clients that have been announced or previewed but are not released yet
 > _An unannounced osu! client in early development. Name, feature set, and release date are all unknown._
 
 - **Status:** Under development · Name and release date unknown
+- **History Preview:** [fishy.moe/mystery-client](https://fishy.moe/client-cheating-archive#mystery-client)
 - **Lead Developer/Owner:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a> (of <a href="#paw-cheats">paw!cheats</a>)
 - **Assistant:** <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a> (of <a href="#tuyosu">tuyosu</a>)
 
@@ -377,6 +383,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _AQN began in 2011 under lead developer Kevin. V0 sold its cheats separately; V1 introduced the unified loader and in-game sidebar AQN became known for. Rumoi continued the line as V2, most likely 2016 to 2017. Now free; crashes on the current osu! version._
 
 - **Status:** Archived · Broken on current osu!
+- **History Preview:** [fishy.moe/aqn](https://fishy.moe/client-cheating-archive#aqn)
 - **Maintainer:** <img src="public/aqn/ui/v0-logo.webp" width="28" align="middle" alt="AQN V0 eagle logo, Kevin"> Kevin (original developer, V0/V1, 2011; later V2 server maintainer, website name owner, and update rollout) and <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (V2 lead developer). Both unmaintained.
 - **Download:**
   - [theaquila.net](https://theaquila.net/) *(legacy site, "The Aquila Network" brand)*
@@ -523,6 +530,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Predecessor to [Skooter](#skooter) and [Abypass](#abypass). No longer maintained._
 
 - **Status:** Archived · Unmaintained
+- **History Preview:** [fishy.moe/ainu](https://fishy.moe/client-cheating-archive#ainu)
 - **Maintainer:** Cherry/Aoba Suzukaze (edits by [Chewy/Pythr](https://github.com/Pytxhr); unmaintained)
 - **Download:** An original copy was found. It's currently being tested and verified, with a new design card in the works, before it releases back to the public on fishy.moe.
 - **Download (legacy):**
@@ -583,6 +591,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _DLL-injected relax and aim assist cheat from the [osu!rx](#osu-rx) era. Rivaled [AQN V2](#aqn), a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
 
 - **Status:** Archived · Free · DLL inject · Testing
+- **History Preview:** [fishy.moe/megumi](https://fishy.moe/client-cheating-archive#megumi)
 - **Maintainer:** kat, eee, and Cherry (original developers)
 - **Website:** [megumi.dev](https://megumi.dev/) *(the real, still-active official site, owned and maintained by czapek)*
 - **Download:** No public build is distributed. The original C++ source and forum threads are gone; a recovered build is in private testing (see below).
@@ -671,6 +680,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Successor to [Skoot.er](#skooter), mostly discontinued._
 
 - **Status:** Archived · Unmaintained
+- **History Preview:** [fishy.moe/abypass](https://fishy.moe/client-cheating-archive#abypass)
 - **Maintainer:** [Chewy/Pythr](https://github.com/Pytxhr) (previously <a href="https://github.com/7ez"><img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> Aochi</a>; unmaintained)
 - **Download:** An original copy was found. It's currently being tested and verified before it releases back to the public on fishy.moe.
 - **Download (legacy):**
@@ -692,6 +702,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Predecessor to [Abypass](#abypass). No longer maintained._
 
 - **Status:** Archived · Unmaintained
+- **History Preview:** [fishy.moe/skooter](https://fishy.moe/client-cheating-archive#skooter)
 - **Maintainer:** Aoba Suzukaze, VacCat, [Chewy/Pythr](https://github.com/Pytxhr) (unmaintained)
 - **Download:** An original copy was found. It's currently being tested and verified before it releases back to the public on fishy.moe.
 - **Download (legacy):**
@@ -710,6 +721,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Short-lived standalone osu! cheat by [noemi](https://github.com/nyoemii); never affiliated with [Kawata](https://kawata.pw). Released July 26, 2025, shut down June 5, 2026._
 
 - **Status:** Archived · Discontinued (shut down June 5, 2026) · Free
+- **History Preview:** [fishy.moe/tuyosu](https://fishy.moe/client-cheating-archive#tuyosu)
 - **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
 - **Maintainer:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> (unmaintained)
 - **Download:** [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu)
@@ -737,6 +749,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Short-lived, heavily-modified 2026 osu! client by [miracle](https://github.com/SimplyAe): a standalone, multi-mode cheat with humanized bots. Never publicly released but has pre-view images._
 
 - **Status:** Archived · Discontinued · Standalone · Free
+- **History Preview:** [fishy.moe/paw-cheats](https://fishy.moe/client-cheating-archive#paw-cheats)
 - **Lifespan:** April 15 to May 18, 2026 (~1 month, per the developer's edit timestamps)
 - **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a> (unmaintained)
 - **Base:** A 2026 osu! client, heavily modified, with per-mode menus for osu! / Taiko / Catch / Mania.
@@ -787,6 +800,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A short-lived 2024 collaboration between [noemi](https://github.com/nyoemii) and [miracle](https://github.com/SimplyAe), from back when the two first met. No logo was ever made for it._
 
 - **Status:** Archived · Unreleased · Free
+- **History Preview:** [fishy.moe/shaymi](https://fishy.moe/client-cheating-archive#shaymi)
 - **Maintainers:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> & <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a>
 - **Download:** Unavailable. A compiled build is being preserved by fishy.moe, but we do not have the developers' permission to release it yet.
 
@@ -800,6 +814,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Relax and aim hack for the legacy osu! b20220424 build._
 
 - **Status:** Archived · Free · Requires a patched osu! b20220424 build
+- **History Preview:** [fishy.moe/osu-rx](https://fishy.moe/client-cheating-archive#osu-rx)
 - **Maintainer:** Sasuke (originally mrflashstudio)
 - **Download:** An original copy was found. It's currently being tested and verified before it releases back to the public on fishy.moe.
 - **Download (legacy):** [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) *(no direct link found; try the thread or the osu!rx Discord for a current source)*
@@ -819,6 +834,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A very private, undocumented cheat from 2021 that never had a website or a proper loader. Its only known internal name was `asdf`._
 
 - **Status:** Archived · No website · No public loader · 2021
+- **History Preview:** [fishy.moe/osuauth](https://fishy.moe/client-cheating-archive#osuauth)
 - **Type:** DLL inject
 - **Maintainer:** Cherry (also co-developed [Auto Assist Megumi](#megumi))
 - **Download:** Never had a public download, website, or loader. Preserved here through its two surviving screenshots.
@@ -853,6 +869,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A short-lived 2022 osu! cheating forum and Discord, clarity.moe. Long thought lost, until a screen recording surfaced the live site, its Discord, and a board trading injectors, configs, and repackaged cheats like [Rumoi's AQN aim assist](#aqn)._
 
 - **Status:** Archived · clarity.moe · Lost to time · Footage recovered
+- **History Preview:** [fishy.moe/clarity](https://fishy.moe/client-cheating-archive#clarity)
 - **Download:** Clarity had no client of its own: it was a hub that hosted and repackaged other people's tools. The forum and its Discord are long gone, and the clarity.moe domain now points at an unrelated cheat store (checked July 2026). A recovered screen recording is the only substantial record left.
 
 > [!NOTE]
@@ -898,6 +915,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A standalone osu! cheat by ichigo (saturncheat.xyz) with aim assist, relax, timewarp, and Enlighten._
 
 - **Status:** Archived · saturncheat.xyz · Lost to time
+- **History Preview:** [fishy.moe/saturn](https://fishy.moe/client-cheating-archive#saturn)
 - **Type:** Standalone
 - **Maintainer:** ichigo (owner and maintainer)
 - **Download:** Ran at saturncheat.xyz, now offline. No public download survives.
@@ -933,6 +951,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A private cheat reportedly built for Akatsuki players, kept privately rather than released._
 
 - **Status:** Archived · Private · Not released
+- **History Preview:** [fishy.moe/iceware](https://fishy.moe/client-cheating-archive#iceware)
 - **Download:** Not released, and not planned to be. Kept privately for archival purposes only.
 - **Cheats:**
   - Aim Assist (plus a second, separate aim-assist variant)
@@ -951,6 +970,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A public cheat by cyw, sold at lycoris.gg until he exit scammed the userbase. Its surviving menu screenshots still carry default, unbranded control labels._
 
 - **Status:** Archived · lycoris.gg · Exit scammed · Abandoned
+- **History Preview:** [fishy.moe/lycoris](https://fishy.moe/client-cheating-archive#lycoris)
 - **Cost:** Paid
 - **Maintainer:** cyw (developer)
 - **Download:** Was sold at lycoris.gg. The developer, cyw, later exit scammed the userbase, and no public download survives. All that surfaced is a useless `.exe`, with no source and no working build.
@@ -989,6 +1009,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _A rare, invite-only Chinese osu! performance-enhancer by xi\_nao, marketed for osu!catch and undetectability._
 
 - **Status:** Unknown · Invite-only · Rare · Paid
+- **History Preview:** [fishy.moe/juicybot](https://fishy.moe/client-cheating-archive#juicybot)
 - **Type:** Standalone
 - **Cost:** Paid
 - **Maintainer:** xi\_nao
