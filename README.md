@@ -121,7 +121,7 @@
   </a>
 </div>
 
-> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
+> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire cheaters may misbehave._
 
 - **Status:** Active · Free · Standalone · Pawtoka client
 - **History Preview:** [fishy.moe/pawclient](https://fishy.moe/client-cheating-archive#pawclient)
