@@ -7,7 +7,7 @@
     <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 10, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 12, 2026</em></p>
 </div>
 
 <p align="center">
@@ -16,8 +16,8 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/clients-23-1f6feb?style=flat-square" alt="23 clients">
-  <img src="https://img.shields.io/badge/4_active-2ea44f?style=flat-square" alt="4 active">
-  <img src="https://img.shields.io/badge/1_maintenance-f0a000?style=flat-square" alt="1 maintenance">
+  <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
+  <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
   <img src="https://img.shields.io/badge/15_archived-6e7681?style=flat-square" alt="15 archived">
   <img src="https://img.shields.io/badge/1_unknown-545d68?style=flat-square" alt="1 unknown">
@@ -43,10 +43,10 @@
 
 - [Active Clients](#active-clients)
   - [Arc](#arc)
-  - [Aeris - Kawata](#kawata-aeris)
   - [pawclient - pawinput](#pawclient)
   - [OSU!RISE](#osu-rise)
 - [Under Maintenance](#under-maintenance)
+  - [Aeris - Kawata](#kawata-aeris)
   - [Maple](#maple)
 - [Under Development](#under-development)
   - [AQN Revived V3](#aqn-revived-v3)
@@ -106,10 +106,76 @@
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 > [!WARNING]
-> <img src="https://github.com/TheFantasticLoki.png" width="20" align="middle" alt="TheFantasticLoki avatar"> **Noted by [TheFantasticLoki](https://github.com/TheFantasticLoki):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
+> <img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> **Noted by [Aochi](https://github.com/7ez):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
+>
+> The Arc client is not tied to a single server. It ships with a built-in private-server switcher, so the same client works across multiple cheating private servers, not just one.
+
+<a name="pawclient"></a>
+
+### pawclient - [pawinput](https://pawinput.xyz/)
+
+<div align="left">
+  <a href="https://pawinput.xyz/">
+    <img src="public/pawclient/pawclient-badge.webp" alt="pawclient logo (Pawtoka)" width="140">
+  </a>
+</div>
+
+> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
+
+- **Status:** Active · Free · Standalone · Pawtoka client
+- **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle avatar"> miracle</a> (developer of [paw!cheats](#paw-cheats) and the Pawtoka server, working on an upcoming ?????? cheat)
+- **Download:** [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient)
+- **Discord:** [discord.gg/2Etdy8nnwY](https://discord.gg/2Etdy8nnwY)
+- **Support:** [Tip miracle on PayPal](https://paypal.me/gxddessAe)
+- **Cheats:**
+  - Timewarp
+  - Relax
+  - Enlighten (HD only)
+  - AR Changer
+  - Misc visuals shared with [paw!cheats](#paw-cheats): Lazer notelock, long / tube trail, and circle fade-out
+
+<a name="osu-rise"></a>
+
+### [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) - Kernel Software
+
+<div align="left">
+  <a href="https://osurise.online/?ref=QCXBQ3ZH">
+    <img src="public/osurise/osurise.png" alt="OSU!RISE logo" width="320">
+  </a>
+</div>
+
+> _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
+
+> [!WARNING]
+> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), [Kawata](https://kawata.pw) Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) as **use-at-your-own-risk**: scan the loader yourself before you run it.
+
+- **Status:** Active · Paid
+- **Developers:** JoNjes and hello (Kernel Software Team)
+- **Public release:** May 14, 2026
+- **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
+- **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
+- **Showcase videos:** [Kernel Software showcase](https://www.youtube.com/watch?v=_lqZbx6c-bo) · [OSU!RISE startup guide](https://www.youtube.com/watch?v=y1N91Ef3JyI)
+- **Cheats:**
+  - Aim Assist: cursor guidance with adjustable strength, smoothing, and FOV
+  - Tap Assist: corrects early clicks and mistimed taps
+  - Smart DKS (Dynamic Key Strokes): works with any keyboard, engages automatically when needed
+  - Relax: automated clicking with human-like randomization, configurable hold time and error margin
+  - Enlighten: visual customization, change AR, change skins, toggle HD/FL removal
+  - Replay Bot: replays any replay file 1:1
+  - Auto Bot: full map automation with human-like, configurable playstyles
+- **Notable tech:** Cloud-synced settings, stream-proof, advertised as zero FPS impact, and polymorphic per-user builds with encryption.
 
 > [!NOTE]
-> <img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> **Noted by [Aochi](https://github.com/7ez):** Arc is not tied to a single server. It ships with a built-in private-server switcher, so the same client works across multiple cheating private servers, not just one.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
+
+> [!WARNING]
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
+
+<a name="under-maintenance"></a>
+
+## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
+
+_Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
 
 <a name="kawata-aeris"></a>
 
@@ -173,73 +239,6 @@ Per the [Kawata](https://kawata.pw) Discord `help` channel (fix documented by dr
 
 </details>
 
-<a name="pawclient"></a>
-
-### pawclient - [pawinput](https://pawinput.xyz/)
-
-<div align="left">
-  <a href="https://pawinput.xyz/">
-    <img src="public/pawclient/pawclient-badge.webp" alt="pawclient logo (Pawtoka)" width="140">
-  </a>
-</div>
-
-> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
-
-- **Status:** Active · Free · Standalone · Pawtoka client
-- **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle avatar"> miracle</a> (developer of [paw!cheats](#paw-cheats) and the Pawtoka server, working on an upcoming ?????? cheat)
-- **Download:** [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient)
-- **Discord:** [discord.gg/2Etdy8nnwY](https://discord.gg/2Etdy8nnwY)
-- **Support:** [Tip miracle on PayPal](https://paypal.me/gxddessAe)
-- **Cheats:**
-  - Timewarp
-  - Relax
-  - Enlighten (HD only)
-  - AR Changer
-  - Misc visuals shared with [paw!cheats](#paw-cheats): Lazer notelock, long / tube trail, and circle fade-out
-
-<a name="osu-rise"></a>
-
-### [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) - Kernel Software
-
-<div align="left">
-  <a href="https://osurise.online/?ref=QCXBQ3ZH">
-    <img src="public/osurise/osurise.png" alt="OSU!RISE logo" width="320">
-  </a>
-</div>
-
-> _Paid osu! cheat suite with aim assist, tap assist, Smart DKS, relax, and a replay/auto bot. Kernel Software also sells a separate cheat for Deadlock._
-
-> [!WARNING]
-> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> **Community advisory from [Hugo (Xyrohh)](https://github.com/Xyrohh), [Kawata](https://kawata.pw) Co-Owner:** Careful with this one. The developers aren't really known in the community, so treat [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) as **use-at-your-own-risk**: scan the loader yourself before you run it.
-
-- **Status:** Active · Paid
-- **Developer:** Kernel Software
-- **Public release:** May 14, 2026
-- **Website/Download:** [osurise.online](https://osurise.online/?ref=QCXBQ3ZH)
-- **Discord:** [discord.gg/bkcBf4jCmg](https://discord.gg/bkcBf4jCmg)
-- **Showcase videos:** [Kernel Software showcase](https://www.youtube.com/watch?v=_lqZbx6c-bo) · [OSU!RISE startup guide](https://www.youtube.com/watch?v=y1N91Ef3JyI)
-- **Cheats:**
-  - Aim Assist: cursor guidance with adjustable strength, smoothing, and FOV
-  - Tap Assist: corrects early clicks and mistimed taps
-  - Smart DKS (Dynamic Key Strokes): works with any keyboard, engages automatically when needed
-  - Relax: automated clicking with human-like randomization, configurable hold time and error margin
-  - Enlighten: visual customization, change AR, change skins, toggle HD/FL removal
-  - Replay Bot: replays any replay file 1:1
-  - Auto Bot: full map automation with human-like, configurable playstyles
-- **Notable tech:** Cloud-synced settings, stream-proof (hidden from OBS, Discord, and streaming software), advertised as zero FPS impact, and polymorphic per-user builds with encryption.
-
-> [!NOTE]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** Full transparency from me: everything here was confirmed directly with the Kernel Software team through a Q&A. [OSU!RISE](https://osurise.online/?ref=QCXBQ3ZH) is a **paid, subscription-only loader**. You register on their site, then download the loader, so there's no static build for me to mirror or virus-scan, and no way for me to test it myself. Treat this as a documented summary from the developers, not a hands-on review.
-
-> [!WARNING]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
-
-<a name="under-maintenance"></a>
-
-## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
-
-_Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
-
 <a name="maple"></a>
 <a name="maple-client"></a>
 
@@ -257,7 +256,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 </p>
 
 > [!IMPORTANT]
-> Maple is currently going through updates and is **unavailable to purchase or use** right now. It is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Tracked by [hinamizawa](https://github.com/alejandroatacho):** The Maple client is currently going through updates and is **unavailable to purchase or use** right now. It is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
 > **Under development since December 13, 2024 following a source-code leak (per the official Discord announcement).**
 
 > _Paid hack with no built-in limits, actively maintained._
@@ -272,6 +271,9 @@ _Clients that are temporarily down for updates. Their information and cheats are
   - Tap Assist
   - Timewarp
   - AR Changer · CS Changer · HD Remover · FL Remover
+
+> [!NOTE]
+> <img src="https://github.com/Xyrohh.png" width="20" align="middle" alt="Hugo (Xyrohh) avatar"> <img src="https://github.com/ptrchain.png" width="20" align="middle" alt="Rizky (ptrchain) avatar"> **Confirmed by [Hugo (Xyrohh)](https://github.com/Xyrohh) & [Rizky (ptrchain)](https://github.com/ptrchain):** One of the people behind the 2024 source-code leak mentioned above is a developer going by Cyw, also the developer of [Lycoris](#lycoris). Possibly one of several people involved, not necessarily the only source.
 
 <details>
 <summary><img src="https://img.shields.io/badge/View_6_Preview_Images-8957e5?style=for-the-badge" alt="View 6 Maple preview images"></summary>
@@ -462,7 +464,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 - **Status:** Archived · Unmaintained · GitHub offline
 - **Version:** 0.94.3 (last release May 17, 2024)
-- **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · account/repo offline · unmaintained; contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio)
+- **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · account/repo offline · unmaintained), [hel1ngx](https://github.com/hel1ngx) (current v0.98 fork, the build hosted on fishy.moe); contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio
 - **History Preview:** [fishy.moe/freedom-memorial](https://fishy.moe/client-cheating-archive#freedom)
 - **Source (open source):** Ciremun's repo is offline, but the C source survives in community mirrors:
   - [free-osu/free-osu](https://github.com/free-osu/free-osu) *(v0.94.3, matches the last release)*
@@ -1054,9 +1056,9 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | Client | Status | Cost | Type | Current osu/kawata | Download |
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/arc](https://fishy.moe/download/arc) |
-| [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) |
 | [**pawclient**](#pawclient) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient) |
 | [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [osurise.online](https://osurise.online/?ref=QCXBQ3ZH) |
+| [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _leak (archived)_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
@@ -1165,7 +1167,7 @@ A directory of the osu! private servers known to allow the cheating clients list
   </tr>
 </table>
 
-Every other private server, and Bancho itself, detects and bans these clients on score submission.
+This list is not exhaustive, and server policies vary, so always check a server's own rules before you play. Bancho, the official osu! server, bans these clients on score submission.
 
 <hr>
 
@@ -1282,17 +1284,6 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/TheFantasticLoki">
-        <img src="https://github.com/TheFantasticLoki.png" width="80" alt="TheFantasticLoki"><br>
-        <sub><b>TheFantasticLoki</b></sub>
-      </a>
-    </td>
-    <td>
-      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
       <a href="https://github.com/Xyrohh">
         <img src="https://github.com/Xyrohh.png" width="80" alt="Hugo (Xyrohh)"><br>
         <sub><b>Hugo (Xyrohh)</b></sub>
@@ -1300,6 +1291,28 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Co-Owner and Global Community &amp; Media Manager at <a href="https://kawata.pw/u/13233">Kawata</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/ptrchain">
+        <img src="https://github.com/ptrchain.png" width="80" alt="Rizky (ptrchain)"><br>
+        <sub><b>Rizky (ptrchain)</b></sub>
+      </a>
+    </td>
+    <td>
+      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a>, <a href="#megumi">Auto Assist Megumi</a>, <a href="#saturn">Saturn</a>, <a href="#lycoris">Lycoris</a>, and <a href="#osuauth">OsuAuth</a>, plus background history on maple.software not otherwise publicly documented, design lore behind the AQN and Megumi websites, and the megumi.dev ownership situation (owned and maintained by czapek, not kat).
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/TheFantasticLoki">
+        <img src="https://github.com/TheFantasticLoki.png" width="80" alt="TheFantasticLoki"><br>
+        <sub><b>TheFantasticLoki</b></sub>
+      </a>
+    </td>
+    <td>
+      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
     </td>
   </tr>
   <tr>
@@ -1326,17 +1339,6 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/7ez">
-        <img src="https://github.com/7ez.png" width="80" alt="Aochi"><br>
-        <sub><b>Aochi</b></sub>
-      </a>
-    </td>
-    <td>
-      Original owner of Fuquila and alumni Backend Developer at <a href="https://kawata.pw">Kawata</a>. Now Solo Developer and Maintainer of <a href="#arc">Arc</a>, with many contributions to other osu! projects around the community.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
       <a href="https://github.com/kird3333d">
         <img src="https://github.com/kird3333d.png" width="80" alt="cbKocham (kird3333d)"><br>
         <sub><b>cbKocham (kird3333d)</b></sub>
@@ -1344,17 +1346,6 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Flagged the <a href="#megumi">Auto Assist Megumi</a> revival link as dead and dangerous during a community review, prompting its removal from this archive, and provided a final build from Kat's team for backup, archival, and testing purposes.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://github.com/ptrchain">
-        <img src="https://github.com/ptrchain.png" width="80" alt="Rizky (ptrchain)"><br>
-        <sub><b>Rizky (ptrchain)</b></sub>
-      </a>
-    </td>
-    <td>
-      Owner of <a href="#aqn-revived-v3">AQN Revived V3</a> and Moderator at <a href="https://maple.software/">maple.software</a>. Provided multiple screenshots for old and otherwise-lost clients, including <a href="#maple">Maple</a>, <a href="#megumi">Auto Assist Megumi</a>, <a href="#saturn">Saturn</a>, <a href="#lycoris">Lycoris</a>, and <a href="#osuauth">OsuAuth</a>, plus background history on maple.software not otherwise publicly documented, design lore behind the AQN and Megumi websites, and the megumi.dev ownership situation (owned and maintained by czapek, not kat).
     </td>
   </tr>
   <tr>
@@ -1373,6 +1364,17 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Bug hunter and reporter for <a href="https://kawata.pw">Kawata</a> and the <a href="#kawata-aeris">Aeris</a> client, and a member of the Support team.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/7ez">
+        <img src="https://github.com/7ez.png" width="80" alt="Aochi"><br>
+        <sub><b>Aochi</b></sub>
+      </a>
+    </td>
+    <td>
+      Original owner of Fuquila and alumni Backend Developer at <a href="https://kawata.pw">Kawata</a>. Now Solo Developer and Maintainer of <a href="#arc">Arc</a>, with many contributions to other osu! projects around the community.
     </td>
   </tr>
   <tr>
