@@ -7,7 +7,7 @@
     <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 12, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 14, 2026</em></p>
 </div>
 
 <p align="center">
@@ -89,7 +89,7 @@
 
 <div align="left">
   <a href="https://github.com/7ez">
-    <img src="https://avatars.githubusercontent.com/u/36964527?v=4" alt="Aochi" width="140">
+    <img src="public/arc/arc.webp" alt="Arc" width="140">
   </a>
 </div>
 
@@ -99,6 +99,7 @@
 - **History Preview:** [fishy.moe/arc](https://fishy.moe/client-cheating-archive#arc)
 - **Maintainer:** [Aochi](https://github.com/7ez)
 - **Download:** [fishy.moe/download/arc](https://fishy.moe/download/arc)
+- **Discord:** [discord.gg/fSsxJdFa6h](https://discord.gg/fSsxJdFa6h)
 - **Cheats:**
   - Maple Aim Assist (V1-V3)
   - Aim Correction
@@ -107,7 +108,7 @@
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 > [!WARNING]
-> <img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> **Noted by [Aochi](https://github.com/7ez):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
+> <img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> **Warning by [Aochi](https://github.com/7ez):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 >
 > The Arc client is not tied to a single server. It ships with a built-in private-server switcher, so the same client works across multiple cheating private servers, not just one.
 
@@ -121,7 +122,7 @@
   </a>
 </div>
 
-> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire cheaters may misbehave._
+> _The custom osu! client for the [Pawtoka](https://pawinput.xyz/) private server (pawinput.xyz), a cheat-permissive revival of osu!atoka. A standalone, modified 2016 osu! build by [miracle](https://github.com/SimplyAe) (also the developer of [paw!cheats](#paw-cheats)) that connects only to Pawtoka, so Aspire maps may misbehave._
 
 - **Status:** Active · Free · Standalone · Pawtoka client
 - **History Preview:** [fishy.moe/pawclient](https://fishy.moe/client-cheating-archive#pawclient)
@@ -207,7 +208,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 - **Status:** Active (hosted on fishy.moe) · Official download offline (maintainer relocating) · Public beta · Free
 - **History Preview:** [fishy.moe/kawata-aeris](https://fishy.moe/client-cheating-archive#kawata-aeris)
-- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
+- **Maintainer:** <a href="https://github.com/alejandroatacho"><img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="28" align="middle" alt="Hinamizawa avatar"> Hinamizawa</a> (current maintainer; <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a>, retired developer; originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
 - **Download:**
   - **fishy.moe:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(hosted on fishy.moe)*
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
@@ -229,6 +230,13 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 > [!TIP]
 > <img src="https://github.com/TheFantasticLoki.png" width="20" align="middle" alt="TheFantasticLoki avatar"> **Noted by [TheFantasticLoki](https://github.com/TheFantasticLoki):** Add the install folder as an antivirus exclusion to prevent issues.
+
+> [!NOTE]
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Good news first: Aeris updates itself.** Every time you launch it, the client checks fishy.moe and quietly pulls only the files that changed, so a new build lands on its own. You never re-download or reinstall for a normal update.
+>
+> **Coming from an older Aeris and it will not start, or your maps will not load after you switch?** That is a one-time reset, not something you repeat. An old install can hold files that no longer match the current build, so clear them once and let the updater rebuild a clean set: close osu!Aeris, open your install folder (`%LocalAppData%\osu!Aeris\`), and delete the CLIENT files only: `osu!.exe` plus every `.dll` (and the other loose program files). **Do not touch your Songs (your maps), your scores, or your skins**, and you can leave the error and log text files alone. Relaunch with the osu!Aeris shortcut and the updater re-downloads the client fresh. After this one time, updates go back to being automatic.
+>
+> One heads-up so you do not panic: right after the relaunch your maps can briefly show as missing. They are not gone. Restart osu! once and they come back, and anything you deleted also lands in the Recycle Bin, so nothing is lost.
 
 <details>
 <summary><img src="https://img.shields.io/badge/Fix%3A_Still_Failing_After_Antivirus_Exclusion-8957e5?style=for-the-badge" alt="Fix for Aeris still failing after antivirus exclusion"></summary>
@@ -588,6 +596,12 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 ### Auto Assist Megumi
 
+<div align="left">
+  <a href="https://megumi.dev/">
+    <img src="public/megumi/logo.webp" alt="Auto Assist Megumi" width="140">
+  </a>
+</div>
+
 > _DLL-injected relax and aim assist cheat from the [osu!rx](#osu-rx) era. Rivaled [AQN V2](#aqn), a premium paid cheat, and some considered it even better. Originally built in C++ by kat, eee, and Cherry._
 
 - **Status:** Archived · Free · DLL inject · Testing
@@ -825,6 +839,20 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 > [!NOTE]
 > <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_2_Console_Screenshots-8957e5?style=for-the-badge" alt="View 2 osu!rx console screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/osurx/main-menu.webp" alt="osu!rx console main menu" width="480">
+  <p><em>osu!rx's console main menu: Start, Settings, and the special-thanks credits.</em></p>
+  <img src="public/osurx/settings.webp" alt="osu!rx console settings menu" width="480">
+  <p><em>The settings menu: Relax, Timewarp, and other tuning options.</em></p>
+</div>
+
+</details>
 
 <a name="osuauth"></a>
 <a name="asdf"></a>
