@@ -108,9 +108,25 @@
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 > [!WARNING]
-> <img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> **Warning by [Aochi](https://github.com/7ez):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
+> <img src="public/arc/aochi-advisory.webp" width="20" align="middle" alt="Aochi avatar"> **Warning by [Aochi](https://github.com/7ez):** Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 >
 > The Arc client is not tied to a single server. It ships with a built-in private-server switcher, so the same client works across multiple cheating private servers, not just one.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_3_Preview_Images-8957e5?style=for-the-badge" alt="View 3 Arc preview images"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/arc/cheat-1.webp" alt="Arc's in-game options sidebar showing PP counter, relax and aim settings over the osu! main menu" width="480">
+  <p><em>PP counter, Relax and Aim settings.</em></p>
+  <img src="public/arc/cheat-2.webp" alt="Arc's Timewarp settings with the unmod HD/FL removers and the CS changer" width="480">
+  <p><em>Timewarp, HD / FL remover and changers.</em></p>
+  <img src="public/arc/cheat-3.webp" alt="Arc's CS and AR changers with the fun settings and QOL toggles beside the osu! main menu" width="480">
+  <p><em>Changers, fun settings and QOL.</em></p>
+</div>
+
+</details>
 
 <a name="pawclient"></a>
 
@@ -175,6 +191,24 @@
 > [!WARNING]
 > <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Confirmed by [hinamizawa](https://github.com/alejandroatacho):** Timewarp is not included, despite similar cheats often bundling it, so do not expect it. **Only osu!standard is supported** right now; Taiko, Catch, and Mania are not.
 
+<details>
+<summary><img src="https://img.shields.io/badge/View_4_UI_Screenshots-8957e5?style=for-the-badge" alt="View 4 OSU!RISE UI screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/osurise/osurise-menu-aim.webp" alt="OSU!RISE Aim Assist settings panel" width="480">
+  <p><em>Aim Assist: strength, legit mode, hitbox window, max angle, and cursor smoothing.</em></p>
+  <img src="public/osurise/osurise-menu-tap.webp" alt="OSU!RISE Tap Assist settings panel" width="480">
+  <p><em>Tap Assist: relax toggle, hit timings, single-tap BPM limit, and the assist window.</em></p>
+  <img src="public/osurise/osurise-menu-smoothing.webp" alt="OSU!RISE cursor smoothing and deadzone settings" width="480">
+  <p><em>Fine-grained smoothing: smooth start and end, freeze and angle smoothness, deadzone.</em></p>
+  <img src="public/osurise/osurise-menu-config.webp" alt="OSU!RISE Create New Config dialog for cloud config sharing" width="480">
+  <p><em>Cloud config sharing: save your whole menu as a named cloud config and share it with others.</em></p>
+</div>
+
+</details>
+
 <a name="under-maintenance"></a>
 
 ## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
@@ -193,25 +227,25 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 <p align="left">
   <img src="https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge" alt="Active">
-  <img src="https://img.shields.io/badge/official%20download-offline-critical?style=for-the-badge" alt="Official download offline">
-  <img src="https://img.shields.io/badge/maintainer-relocating-blueviolet?style=for-the-badge" alt="Maintainer relocating">
+  <img src="https://img.shields.io/badge/updates-self--updating-2ea44f?style=for-the-badge" alt="Self-updating">
+  <img src="https://img.shields.io/badge/client-fishy.moe--owned-8957e5?style=for-the-badge" alt="fishy.moe's own client">
 </p>
 
 > [!IMPORTANT]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Aeris is hosted on fishy.moe.** The owner and maintainer, [TheFantasticLoki](https://github.com/TheFantasticLoki), is relocating to another area ✈️ , so the official download URL (`storage.kawata.pw`) is currently **offline**.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **This client is fishy.moe's own.** Aeris is maintained by Hinamizawa and distributed from fishy.moe, with its own live update server, so every install keeps itself current. Its former developer, [TheFantasticLoki](https://github.com/TheFantasticLoki), has retired from the project. The old Kawata download URL (`storage.kawata.pw`) remains **offline**.
 > **`storage.kawata.pw` has been down since June 2, 2026.**
-> **fishy.moe has hosted Aeris since June 27, 2026,** while the official download stays offline, so it is fully available at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
+> **Since June 27, 2026, fishy.moe has hosted Aeris,** now its official home, and it is fully available at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
 <!-- -->
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
-- **Status:** Active (hosted on fishy.moe) · Official download offline (maintainer relocating) · Public beta · Free
+- **Status:** Active (hosted on fishy.moe) · fishy.moe's own client, maintained by Hinamizawa · Public beta · Free
 - **History Preview:** [fishy.moe/kawata-aeris](https://fishy.moe/client-cheating-archive#kawata-aeris)
 - **Maintainer:** <a href="https://github.com/alejandroatacho"><img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="28" align="middle" alt="Hinamizawa avatar"> Hinamizawa</a> (current maintainer; <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a>, retired developer; originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
 - **Download:**
   - **fishy.moe:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(hosted on fishy.moe)*
-  - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
+  - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(former Kawata host, offline since June 2026)*
 - **Discord:** [discord.gg/pu5zCBfMhZ](https://discord.gg/pu5zCBfMhZ)
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
@@ -234,9 +268,9 @@ _Clients that are temporarily down for updates. Their information and cheats are
 > [!NOTE]
 > <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Good news first: Aeris updates itself.** Every time you launch it, the client checks fishy.moe and quietly pulls only the files that changed, so a new build lands on its own. You never re-download or reinstall for a normal update.
 >
-> **Coming from an older Aeris and it will not start, or your maps will not load after you switch?** That is a one-time reset, not something you repeat. An old install can hold files that no longer match the current build, so clear them once and let the updater rebuild a clean set: close osu!Aeris, open your install folder (`%LocalAppData%\osu!Aeris\`), and delete the CLIENT files only: `osu!.exe` plus every `.dll` (and the other loose program files). **Do not touch your Songs (your maps), your scores, or your skins**, and you can leave the error and log text files alone. Relaunch with the osu!Aeris shortcut and the updater re-downloads the client fresh. After this one time, updates go back to being automatic.
+> **Coming from an older Aeris and it will not start, or your maps will not load after you switch?** That is a one-time reset, not something you repeat. An old install can hold files that no longer match the current build, so clear them once and rebuild a clean set: close osu!Aeris, open your install folder (`%LocalAppData%\osu!Aeris\`), and delete the CLIENT files only: `osu!.exe` plus every `.dll` (and the other loose program files). **Do not touch your Songs (your maps), your scores, or your skins**, and you can leave the error and log text files alone. Then run the osu!AerisSetup installer again, or redownload it from [fishy.moe/download/aeris](https://fishy.moe/download/aeris) if you no longer have it, and it rebuilds a clean client. After this one time, updates go back to being automatic.
 >
-> One heads-up so you do not panic: right after the relaunch your maps can briefly show as missing. They are not gone. Restart osu! once and they come back, and anything you deleted also lands in the Recycle Bin, so nothing is lost.
+> One heads-up so you do not panic: right after the reinstall your maps can briefly show as missing. They are not gone. Restart osu! once and they come back, and anything you deleted also lands in the Recycle Bin, so nothing is lost.
 
 <details>
 <summary><img src="https://img.shields.io/badge/Fix%3A_Still_Failing_After_Antivirus_Exclusion-8957e5?style=for-the-badge" alt="Fix for Aeris still failing after antivirus exclusion"></summary>
@@ -646,17 +680,16 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > <img src="public/contributors/kaury.webp" width="20" align="middle" alt="kaury avatar"> **Provided by kaury:** A third menu capture has since surfaced, from a developer build of the client. Its title bar reads `megumi.dev`, its active user is "developer", and it is dated October 2022. It carries two tabs the earlier captures don't, "rewrite" and "misc", plus a "debug overlay" toggle in the aim assist panel, so it looks like an internal, developer-facing build distinct from the released menus above. See the "Developer build" gallery below.
 
 <details>
-<summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 Auto Assist Megumi UI screenshots"></summary>
+<summary><img src="https://img.shields.io/badge/View_4_UI_Screenshots-8957e5?style=for-the-badge" alt="View 4 Auto Assist Megumi UI screenshots"></summary>
 
 <br>
 
 <div align="center">
-  <img src="public/megumi/logo.webp" alt="Megumi Kato character art, used as megumi.dev's own site image" width="480">
   <img src="public/megumi/site-hero.webp" alt="megumi.dev hero banner with the Megumi Kato art and MEGUMI wordmark" width="480">
   <img src="public/megumi/site-landing.webp" alt="megumi.dev landing: megumi is a private cheat for osu! with a registered user count and login/register" width="480">
   <img src="public/megumi/site-features.webp" alt="megumi.dev features and pricing: undetected, aim assist, relax, timewarp, visual settings, streamproof, monthly/quarterly/lifetime" width="480">
   <img src="public/megumi/menu.webp" alt="Auto Assist Megumi client menu: aim assist panel with slider assist, lock to center, and an assist power slider" width="480">
-  <br><sub>megumi.dev's site image, hero, landing, features and pricing, and the client menu, shared by <a href="https://github.com/ptrchain">Rizky</a>.</sub>
+  <br><sub>megumi.dev's hero, landing, features and pricing, and the client menu, shared by <a href="https://github.com/ptrchain">Rizky</a>.</sub>
 </div>
 
 </details>
