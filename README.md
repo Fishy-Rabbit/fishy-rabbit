@@ -213,7 +213,7 @@
 
 ## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
 
-_Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
+_Clients that are temporarily down for updates or moving between hosts. Their information and cheats are preserved below; availability varies per client, so check each entry's status: some are unavailable until their next build ships, while others stay available from a new home._
 
 <a name="kawata-aeris"></a>
 
@@ -268,9 +268,9 @@ _Clients that are temporarily down for updates. Their information and cheats are
 > [!NOTE]
 > <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **Good news first: Aeris updates itself.** Every time you launch it, the client checks fishy.moe and quietly pulls only the files that changed, so a new build lands on its own. You never re-download or reinstall for a normal update.
 >
-> **Coming from an older Aeris and it will not start, or your maps will not load after you switch?** That is a one-time reset, not something you repeat. An old install can hold files that no longer match the current build, so clear them once and rebuild a clean set: close osu!Aeris, open your install folder (`%LocalAppData%\osu!Aeris\`), and delete the CLIENT files only: `osu!.exe` plus every `.dll` (and the other loose program files). **Do not touch your Songs (your maps), your scores, or your skins**, and you can leave the error and log text files alone. Then run the osu!AerisSetup installer again, or redownload it from [fishy.moe/download/aeris](https://fishy.moe/download/aeris) if you no longer have it, and it rebuilds a clean client. After this one time, updates go back to being automatic.
+> **Coming from an older Aeris and it will not start, or your maps will not load after you switch?** That is a one-time reset, not something you repeat. An old install can hold files that no longer match the current build, so clear them once and rebuild a clean set. **Back up your `%LocalAppData%\osu!Aeris\` folder first** (copy it somewhere safe), then close osu!Aeris and, from that folder, delete only these client program files: `osu!.exe`, `osu!.dll`, `osu!.Game.dll`, `osu!.Resources.dll`, `osu!common.dll`, `libGLESv2.dll`, `Microsoft.Ink.dll`, and their matching `.json` / `.config` files (the same set listed in the fix below). Leave everything else, and **do not touch your Songs (your maps), your scores, or your skins**, or your error and log text files. Then run the osu!AerisSetup installer again, or redownload it from [fishy.moe/download/aeris](https://fishy.moe/download/aeris) if you no longer have it, and it rebuilds a clean client. After this one time, updates go back to being automatic.
 >
-> One heads-up so you do not panic: right after the reinstall your maps can briefly show as missing. They are not gone. Restart osu! once and they come back, and anything you deleted also lands in the Recycle Bin, so nothing is lost.
+> One heads-up so you do not panic: right after the reinstall your maps can briefly show as missing. They are not gone. Restart osu! once and they come back.
 
 <details>
 <summary><img src="https://img.shields.io/badge/Fix%3A_Still_Failing_After_Antivirus_Exclusion-8957e5?style=for-the-badge" alt="Fix for Aeris still failing after antivirus exclusion"></summary>
