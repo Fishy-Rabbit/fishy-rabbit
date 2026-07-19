@@ -7,7 +7,7 @@
     <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 14, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated July 19, 2026</em></p>
 </div>
 
 <p align="center">
@@ -15,10 +15,10 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-23-1f6feb?style=flat-square" alt="23 clients">
+  <img src="https://img.shields.io/badge/clients-24-1f6feb?style=flat-square" alt="24 clients">
   <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
   <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
-  <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
+  <img src="https://img.shields.io/badge/3_in_development-8957e5?style=flat-square" alt="3 in development">
   <img src="https://img.shields.io/badge/15_archived-6e7681?style=flat-square" alt="15 archived">
   <img src="https://img.shields.io/badge/1_unknown-545d68?style=flat-square" alt="1 unknown">
 </p>
@@ -50,6 +50,7 @@
   - [Maple](#maple)
 - [Under Development](#under-development)
   - [AQN Revived V3](#aqn-revived-v3)
+  - [Malice](#malice)
   - [??????](#mystery-client)
 - [Legacy / Archive](#legacy-archive)
   - [AQN V0 + V1 + V2](#aqn)
@@ -232,7 +233,7 @@ _Clients that are temporarily down for updates or moving between hosts. Their in
 </p>
 
 > [!IMPORTANT]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **This client is fishy.moe's own.** Aeris is maintained by Hinamizawa and distributed from fishy.moe, with its own live update server, so every install keeps itself current. Its former maintainer, [TheFantasticLoki](https://github.com/TheFantasticLoki), has retired from the project. The old Kawata download URL (`storage.kawata.pw`) remains **offline**.
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **Noted by [hinamizawa](https://github.com/alejandroatacho):** **This client is fishy.moe's own.** Aeris is maintained by Hinamizawa and distributed from fishy.moe, with its own live update server, so every install keeps itself current. [TheFantasticLoki](https://github.com/TheFantasticLoki) contributed to the project. The old Kawata download URL (`storage.kawata.pw`) remains **offline**.
 > **`storage.kawata.pw` has been down since June 2, 2026.**
 > **Since June 27, 2026, fishy.moe has hosted Aeris,** now its official home, and it is fully available at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
@@ -242,7 +243,7 @@ _Clients that are temporarily down for updates or moving between hosts. Their in
 
 - **Status:** Active (hosted on fishy.moe) · fishy.moe's own client, maintained by Hinamizawa · Public beta · Free
 - **History Preview:** [fishy.moe/kawata-aeris](https://fishy.moe/client-cheating-archive#kawata-aeris)
-- **Maintainer:** <a href="https://github.com/alejandroatacho"><img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="28" align="middle" alt="Hinamizawa avatar"> Hinamizawa</a> (current maintainer; <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a>, retired maintainer; originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
+- **Maintainer:** <a href="https://github.com/alejandroatacho"><img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="28" align="middle" alt="Hinamizawa avatar"> Hinamizawa</a> (current maintainer; originally developer <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a>, <a href="https://maple.software/"><img src="public/maple/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a> contributed to the project)
 - **Download:**
   - **fishy.moe:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(hosted on fishy.moe)*
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(former Kawata host, offline since June 2026)*
@@ -374,6 +375,44 @@ _Upcoming clients that have been announced or previewed but are not released yet
 <div align="left">
   <img src="public/aqn/revived-v3/5smtm61.webp" alt="AQN Revived V3 preview screenshot 1" width="480">
   <img src="public/aqn/revived-v3/rv804m3.webp" alt="AQN Revived V3 preview screenshot 2" width="480">
+</div>
+
+</details>
+
+<a name="malice"></a>
+
+### Malice
+
+<div align="left">
+  <img src="public/malice/malice-logo.webp" alt="Malice logo" width="140">
+</div>
+
+> _A DLL-inject osu! cheat by kaaroolxx, in active development since April 2026. Ships an aim assist and a replay player, with Enlighten and a replay editor planned next._
+
+- **Status:** Under development · Active · Started April 4, 2026
+- **History Preview:** [fishy.moe/malice](https://fishy.moe/client-cheating-archive#malice)
+- **Developer:** <a href="https://github.com/kaaroolxx"><img src="https://github.com/kaaroolxx.png" width="28" align="middle" alt="kaaroolxx avatar"> kaaroolxx</a>
+- **Discord:** `nigawu` (DM for contact)
+- **Cheats:**
+  - Aim Assist
+  - Replay Player: Replay Aim, Replay Keys, Hardrock support, Load Replay
+  - Planned: Enlighten, Replay Editor
+
+> [!NOTE]
+> The developer isn't sharing a build for now. This entry documents the client's progress for the archive; check back for a release.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_3_UI_Screenshots-8957e5?style=for-the-badge" alt="View 3 Malice UI screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/malice/malice-aim-assist.webp" alt="Malice's Aim Assist panel with an Enable toggle and a strength slider, overlaid on the osu! song select screen" width="480">
+  <p><em>Aim Assist: enable toggle and strength slider.</em></p>
+  <img src="public/malice/malice-replay.webp" alt="Malice's Replay Controls panel with Enable, Replay Aim, Replay Keys, Hardrock, and a Load Replay button" width="480">
+  <p><em>Replay Controls: aim and key playback, Hardrock, and Load Replay.</em></p>
+  <img src="public/malice/malice-misc.webp" alt="Malice's Misc panel with an Unload DLL button, overlaid on the osu! song select screen" width="480">
+  <p><em>Misc: Unload DLL.</em></p>
 </div>
 
 </details>
@@ -1144,6 +1183,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _leak (archived)_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
+| [**Malice**](#malice) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | DLL inject | TBD | _not public_ |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
 | [**AQN V0 + V1 + V2**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) |
 | [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) |
@@ -1351,7 +1391,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors: 11
+## Contributors: 12
 
 <table>
   <tr>
@@ -1362,7 +1402,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN (V0 + V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>. Currently also hosting <a href="https://kawata.pw">kawata.pw</a> and the <a href="#kawata-aeris">Aeris</a> auto updater while Loki is away.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V0 + V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>, <a href="https://fishy.moe">fishy.moe</a> & <a href="https://mirror.hinamizawa.ai/">mirror.hinamizawa.ai</a>. Currently hosting <a href="https://kawata.pw">kawata.pw</a> while Loki is away, and hosting a custom <a href="#kawata-aeris">Aeris</a> build and its auto updater on fishy.moe.
     </td>
   </tr>
   <tr>
@@ -1469,6 +1509,17 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
     2023 MPGH File testers and unsafe urls; <a href="https://kawata.pw">Kawata</a> Support/Gestion alumni.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/kaaroolxx">
+        <img src="https://github.com/kaaroolxx.png" width="80" alt="kaaroolxx"><br>
+        <sub><b>kaaroolxx</b></sub>
+      </a>
+    </td>
+    <td>
+      Developer of <a href="#malice">Malice</a>, in active development since April 2026. Provided the logo and UI screenshots for this archive entry.
     </td>
   </tr>
 </table>
