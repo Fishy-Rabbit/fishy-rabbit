@@ -7,16 +7,17 @@
     <img src="public/aqn/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated July 19, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated August 7, 2026</em></p>
 </div>
 
 <p align="center">
-  <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/stargazers"><img src="https://img.shields.io/github/stars/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
-  <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
+  <a href="https://github.com/Fishy-Rabbit/fishy-rabbit/stargazers"><img src="https://img.shields.io/github/stars/Fishy-Rabbit/fishy-rabbit?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/Fishy-Rabbit/fishy-rabbit/commits"><img src="https://img.shields.io/github/last-commit/Fishy-Rabbit/fishy-rabbit?style=flat-square" alt="Last commit"></a>
+  <a href="https://github.com/Fishy-Rabbit/fishy-rabbit/graphs/contributors"><img src="https://img.shields.io/github/contributors/Fishy-Rabbit/fishy-rabbit?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-24-1f6feb?style=flat-square" alt="24 clients">
+  <img src="https://img.shields.io/badge/clients-26-1f6feb?style=flat-square" alt="26 clients">
   <img src="https://img.shields.io/badge/3_active-2ea44f?style=flat-square" alt="3 active">
+  <img src="https://img.shields.io/badge/2_revived-2ee6d6?style=flat-square" alt="2 revived">
   <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
   <img src="https://img.shields.io/badge/3_in_development-8957e5?style=flat-square" alt="3 in development">
   <img src="https://img.shields.io/badge/15_archived-6e7681?style=flat-square" alt="15 archived">
@@ -45,6 +46,9 @@
   - [Arc](#arc)
   - [pawclient - pawinput](#pawclient)
   - [OSU!RISE](#osu-rise)
+- [Revived](#revived)
+  - [hqOsu](#hqosu)
+  - [freedom](#freedom)
 - [Under Maintenance](#under-maintenance)
   - [Aeris - Kawata](#kawata-aeris)
   - [Maple](#maple)
@@ -54,7 +58,6 @@
   - [??????](#mystery-client)
 - [Legacy / Archive](#legacy-archive)
   - [AQN V0 + V1 + V2](#aqn)
-  - [freedom](#freedom)
   - [Ainu](#ainu)
   - [Auto Assist Megumi](#megumi)
   - [Abypass](#abypass)
@@ -65,6 +68,7 @@
   - [osu!rx](#osu-rx)
   - [OsuAuth](#osuauth)
   - [Clarity](#clarity)
+  - [Chloe](#chloe)
   - [Saturn](#saturn)
   - [Iceware](#iceware)
   - [Lycoris](#lycoris)
@@ -209,6 +213,147 @@
 </div>
 
 </details>
+
+<a name="revived"></a>
+
+## <img src="https://img.shields.io/badge/♻️_REVIVED-2ee6d6?style=for-the-badge" height="34" alt="Revived">
+
+_Clients that died and came back. A repo restored, an original copy recovered, or a fork that kept the lights on. They are not current builds, but they are not gone either, and the archive would be lying to file them next to the dead._
+
+<a name="hqosu"></a>
+
+### hqOsu
+
+<img src="public/hqosu/banner.webp" alt="hqOsu-neko banner art, the only surviving hqOsu artwork" width="700">
+<div align="left">
+  <a href="https://discord.com/invite/GWvJQM2">
+    <img src="public/hqosu/hqosu-badge.webp" alt="hq.Community server mark, the closest thing hqOsu has to a logo" width="140">
+  </a>
+</div>
+
+> _Free relax bot and timewarp loader for osu!stable by hq.af, released in 2018 and one of the most downloaded osu! cheats of its era. hq.af lost the source and stopped updating it; the community fork hqOsu-neko carried it for another year._
+
+- **Status:** Revived · Source lost · Kept alive by a fork
+- **Version:** v2.0.0.0-rc (September 4, 2018); hqOsu-neko v2.2.0.0.0 (July 21, 2021)
+- **History Preview:** [fishy.moe/hqosu](https://fishy.moe/client-cheating-archive#hqosu)
+- **Maintainer:** <a href="https://github.com/hq-af"><img src="https://github.com/hq-af.png" width="28" align="middle" alt="hq.af avatar"> hq.af</a> (creator of the original cheat · stopped updating after losing the source), Cherry/Aoba Suzukaze (hqOsu-legacy and the "DLL" file · also behind [Ainu](#ainu)), Hazuki-san (hoaqDLL and some addons), and <a href="https://github.com/Kinue72"><img src="https://github.com/Kinue72.png" width="28" align="middle" alt="Kinue72 avatar"> Kinue72</a> (hqOsu-neko, the unofficial fork that kept it compatible into 2021)
+- **Download:** [fishy.moe/download/hqosu](https://fishy.moe/download/hqosu) *(v2.0.0.0-rc, mirrored here)*
+- **Download (legacy):**
+  - [GitHub releases (hq-af/hqOsu)](https://github.com/hq-af/hqOsu/releases) *(all 14 builds, original source)*
+  - [hqOsu-neko v2.2.0.0.0 (Kinue72)](https://github.com/Kinue72/hqOsu-neko/releases/tag/v2.2.0.0.0) *(the fork's last build, linked not mirrored, see the note below)*
+- **Discord:** [hq.Community](https://discord.com/invite/GWvJQM2) *(unofficial community server, established August 2018, still up)*
+- **Source (open source):**
+  - [github.com/hq-af/hqOsu](https://github.com/hq-af/hqOsu) *(original repo, last commit June 2020)*
+  - [github.com/Kinue72/hqOsu-neko](https://github.com/Kinue72/hqOsu-neko) *(the fork, last commit July 2021)*
+- **Format:** Loader executable that attaches a console to osu!stable.
+- **Cheats:**
+  - Relax bot
+  - Timewarp (the TimeWrapper plugin)
+  - Approach Rate changer
+  - unMod plugin (removes HD and FL)
+  - Passport module (HWID spoofer and unban tool)
+  - In-client console with `reload`, `hide`, `detach` and a `fix-sync` command that symlinks around Sync PPCounter issues
+- **Other features:**
+  - hqOsu-neko only: Incognito Mode, which hides your identity from Discord RPC and live streams
+  - hqOsu-neko only: free osu!direct
+  - hqOsu-neko only: Discord RPC customization and a private-server switcher, on by default
+  - hqOsu-neko only: not blocked on Ainu, where the original would crash
+
+> [!WARNING]
+> hq.af's own README is one line long about this: "Don't use on bancho." It only ever worked on the osu!stable of its day, it has had no security work since 2020, and it ships an HWID spoofer. Treat it as a museum piece, run it on a private server that allows it, and scan the binary yourself first.
+
+> [!NOTE]
+> <img src="public/hqosu/727.webp" width="20" align="middle" alt="727 avatar"> **Contributed by 727:** The two console captures below were taken by 727, a former moderator of hq.af's Discord, who ran the client again to document it roughly eight years on. In the first shot the Windows username has been painted out of the title-bar path; everything else, including the build folder that identifies it as Cherry's hqosu-legacy line, is untouched. 727 also recalls that hq.af is French, that he stopped updating hqOsu after accidentally deleting the source, and that Cherry maintained it afterwards until complaints wore the project down. That last part is community recollection, not a documented account.
+
+> [!IMPORTANT]
+> We mirror hq.af's v2.0.0.0-rc build here because his account has been banned once before and the repo is the only copy. We deliberately do not mirror the hqOsu-neko build: its executable carries its author's Windows username inside the compiled debug path, and stripping that would mean altering a binary people verify by hash. The link above points at Kinue72's own GitHub release instead.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_2_Console_Screenshots-8957e5?style=for-the-badge" alt="View 2 hqOsu console screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/hqosu/console.webp" alt="The hqOsu console attached to osu!, showing its ASCII banner and version line" width="480">
+  <p><em>hqOsu v2.0.0.9-rc booting its console beside osu!, signed by hq.af#2983 and pointing at the community Discord. The title bar shows it running from an hqosu-legacy-master build, Cherry's line of the client.</em></p>
+  <img src="public/hqosu/help.webp" alt="The hqOsu console help command listing its available commands" width="480">
+  <p><em>The help command: reload, exit, clear, hide, detach, and fix-sync, which symlinks around issues with the Sync PPCounter.</em></p>
+</div>
+
+</details>
+
+<a name="freedom"></a>
+
+### freedom
+
+<div align="left">
+  <img src="public/freedom/freedom-badge.webp" alt="osu!freedom badge" width="160">
+</div>
+
+> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. Its GitHub repo spent years offline and is live again as of July 2026, with fresh commits upstream. Both builds stay mirrored on fishy.moe._
+
+> [!NOTE]
+> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** One of the most widely shared free osu! cheats. It still circulates on cheat forums years after its repo went offline, and across the private servers I have moderated over the years it is the cheat I have seen come up the most in player reports and ban appeals. So I gave this abandoned, forgotten cheat its own logo and dedication here. Grab it only from a scanned source such as the fishy.moe mirrors below.
+
+- **Status:** Revived · Repo back online · Active upstream again
+- **Version:** v0.94.4 upstream (March 15, 2026); v0.98 fork mirrored here
+- **History Preview:** [fishy.moe/freedom-memorial](https://fishy.moe/client-cheating-archive#freedom)
+- **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · repo and account back online · committing again in 2026), [hel1ngx](https://github.com/hel1ngx) (current v0.98 fork, the build hosted on fishy.moe); contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio
+- **Support the developer:** [Support Ciremun on Boosty](https://boosty.to/ciremun)
+- **Download (fishy.moe mirror):**
+  - [fishy.moe/download/freedom-0-94-4](https://fishy.moe/download/freedom-0-94-4) *(v0.94.4, official, newest upstream release)*
+  - [fishy.moe/download/freedom-0-94-3](https://fishy.moe/download/freedom-0-94-3) *(v0.94.3, official, previous release)*
+  - [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) *(v0.98, NOT official, hel1ngx fork, self-injecting exe)*
+- **Download (legacy):**
+  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(legacy forum mirror)*
+  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(original repo, back online: Releases and Actions builds)*
+- **Source (open source):**
+  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(the original source, back online and committing again)*
+  - [UnKnoWnCheaTs: osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
+  - [cheater.fun: osu freedom hack](https://cheater.fun/other-hacks-games/7886-osu-freedom-hack.html) *(legacy build listing)*
+  - [github.com/free-osu/free-osu](https://github.com/free-osu/free-osu) *(v0.94.3, matches the last release)*
+  - [github.com/hel1ngx/OSU-FREEDOM](https://github.com/hel1ngx/OSU-FREEDOM/) *(v0.98 fork, the newest source we mirror)*
+- **Format:** DLL. Ships with its own injector (v0.98 self-injects; v0.94.3 bundles `freedom_injector.exe`). Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) also works.
+- **Cheats:**
+  - Aimbot
+  - Relax Hack
+  - Timewarp
+  - Replay
+  - Mods (Unmod Flashlight, Score Multiplier)
+  - Misc
+- **How to use:**
+  - Run the cheat with its **Launcher** (bundled in the archive download above). Any other working injector, like [Extreme Injector](https://fishy.moe/download/extreme-injector), works too.
+  - Once it is running, freedom's mod menu opens in-game.
+  - **Right Click** to open the settings (mod menu)
+  - **F11** to hide the mod menu
+
+> [!NOTE]
+> This cheat comes with its own injector, so you do not need a separate one. The newest v0.98 build is a single self-injecting `freedom.exe` (just run it); the older v0.94.3 ships `freedom_injector.exe` next to the DLL. Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) works too, as a fallback or for other DLL cheats.
+
+> [!WARNING]
+> <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** The original GitHub repo is online again, so the safest source is now Ciremun's own [freedom](https://github.com/Ciremun/freedom) repo: build it yourself, or take a build from its Releases. The [free-osu](https://github.com/free-osu/free-osu) mirror still matches v0.94.3 if you want to compare. The fishy.moe downloads above are our scanned mirrors of the builds we host; any other forum reupload can carry a tampered build, so scan it yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+
+> [!NOTE]
+> <img src="public/contributors/kaury.webp" width="20" align="middle" alt="kaury avatar"> <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Confirmed by kaury and the fishy.moe research user agent:** **The repo is back, and so is the cheat.** This entry was written when [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) and its author's account were both gone. The community flagged the restoration in July 2026 and we verified it: the repo is live, and freedom is being worked on again, with commits through July 29, 2026 covering lazer diff updates alongside legacy fixes for timewarp and replay handling. The newest tagged release upstream is v0.94.4 from March 15, 2026. The two builds mirrored on fishy.moe are the scanned ones this archive hosts, so they are not the newest code; for that, go to the repo.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_4_freedom_Images-8957e5?style=for-the-badge" alt="View 4 freedom screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/freedom/freedom-showcase.webp" alt="freedom in-game overlay, Relax config tab" width="480">
+  <p><em>The in-game overlay: Relax config (SingleTap / Alternate, UR forced to 0).</em></p>
+  <img src="public/freedom/freedomMirrorImage.png" alt="freedom overlay, Difficulty tab with AR / CS / OD sliders" width="480">
+  <p><em>The Difficulty tab: live AR / CS / OD override sliders.</em></p>
+  <img src="public/freedom/freedom-about.webp" alt="freedom overlay, About tab crediting Ciremun, Maple Syrup and MrFlashStudio" width="480">
+  <p><em>The About tab: Ciremun's Freedom v0.8, thanks to Maple Syrup and MrFlashStudio.</em></p>
+  <img src="public/freedom/freedom-badge.webp" alt="osu!freedom circular badge logo" width="480">
+  <p><em>The osu!freedom badge, the first logo this abandoned cheat ever had.</em></p>
+</div>
+
+</details>
+
 
 <a name="under-maintenance"></a>
 
@@ -490,18 +635,27 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > [!NOTE]
 > <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **The Taiko/CTB bug:** During the transition from V1 to V2, an Enlighten update by Rumoi broke Taiko rendering. For reasons unknown, nearly every cheat client that followed inherited the same Taiko bug, and a similarly odd CTB bug, except [Ainu](#ainu). A later alternative fix attempt helped, but never fully resolved it.
 
+> [!NOTE]
+> <img src="https://github.com/kaaroolxx.png" width="20" align="middle" alt="karoolxx avatar"> **Provided by [karoolxx](https://github.com/kaaroolxx):** **What AQN V1 actually looked like:** the loader was a small window wearing the Aquila eagle's wings, asking for a username and password. Signing in swapped the panel for the module list, osu!Relax, osu!Taiko, osu!Maniac and osu!TimeWarp, with one empty slot left over and a Load button underneath. That single window is the change V1 is remembered for: V0 had sold and run each cheat on its own, and here they finally sat behind one login. A second, darker eagle mark from the same set is in the gallery below, alongside both loader captures.
+
 <details>
-<summary><img src="https://img.shields.io/badge/View_19_Preview_Images-8957e5?style=for-the-badge" alt="View 19 AQN preview images"></summary>
+<summary><img src="https://img.shields.io/badge/View_22_Preview_Images-8957e5?style=for-the-badge" alt="View 22 AQN preview images"></summary>
 
 <br>
 
 <div align="left">
   <img src="public/aqn/ui/v0-logo.webp" alt="AQN's original 2012 eagle logo" width="480">
   <p><em>AQN's original 2012 eagle logo, matching the "Aquila" (Latin for eagle) name.</em></p>
+  <img src="public/aqn/ui/v1-eagle.webp" alt="A second, darker AQN eagle mark from the V1 era" width="480">
+  <p><em>A second AQN eagle mark, darker and more detailed than the 2012 logo. Shared by karoolxx.</em></p>
   <img src="public/aqn/ui/v0-enlighten-cracked.webp" alt="AQN V0's standalone Enlighten tool, cracked by YouLikeMyAim" width="480">
   <p><em>AQN V0's standalone Enlighten tool (Flashlight/Hidden patcher), cracked by YouLikeMyAim.</em></p>
   <img src="public/aqn/ui/v1-sidebar.webp" alt="AQN V1's in-game sidebar showing the Replay panel" width="480">
   <p><em>AQN V1's in-game sidebar: the Replay panel (Load Replay, Hardrock, Edit Replay, Beta Replay Selector, Filter Score Submission), with beatmap covers along the left edge.</em></p>
+  <img src="public/aqn/ui/v1-loader-login.webp" alt="AQN V1's loader login window, framed by the Aquila eagle's wings" width="480">
+  <p><em>AQN V1's loader login window, framed by the Aquila eagle's wings: username, password, and a Login button. Shared by karoolxx.</em></p>
+  <img src="public/aqn/ui/v1-loader-modules.webp" alt="AQN V1's module list after login, offering osu!Relax, osu!Taiko, osu!Maniac and osu!TimeWarp" width="480">
+  <p><em>The same loader after signing in: osu!Relax, osu!Taiko, osu!Maniac, and osu!TimeWarp, picked from one window and started with Load. This is the unified loader V1 introduced. Shared by karoolxx.</em></p>
   <img src="public/aqn/ui/transition-loader.webp" alt="The Aquila Network loader, mid-transition between V1 and V2" width="480">
   <p><em>The Aquila Network loader, mid-transition between V1 and V2: module checkboxes for Relax, Replay Editor, Timewarp, Taiko, Mania, and Enlighten.</em></p>
   <img src="public/aqn/ui/v2-replay-editor-design.webp" alt="An early V2 Replay Editor design from October 2019" width="480">
@@ -525,7 +679,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   <img src="public/aqn/ui/v2-timewarp.webp" alt="AQN V2's Timewarp panel" width="480">
   <p><em>AQN V2's Timewarp panel: Enabled, Play Speed, No Spectator Buffer, Show Approx Countdown, and Indicator Scale.</em></p>
   <img src="public/aqn/ui/v2-taiko-bug.webp" alt="The Taiko rendering bug that followed Rumoi's Enlighten update" width="480">
-  <p><em>The Taiko rendering bug that followed Rumoi's Enlighten update, later inherited by nearly every future cheat client except [Ainu](#ainu).</em></p>
+  <p><em>The Taiko rendering bug that followed Rumoi's Enlighten update, later inherited by nearly every future cheat client except Ainu.</em></p>
   <img src="public/aqn/ui/taiko-alt-fix.webp" alt="A later alternative fix attempt for the Taiko bug" width="480">
   <p><em>A later alternative fix attempt for Enlighten's Taiko rendering. Not the fix everyone wanted, but it helped.</em></p>
   <img src="public/aqn/ui/vip-misc.webp" alt="The Rumoi-developed VIP tier's Misc panel" width="480">
@@ -538,79 +692,13 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 </details>
 
-<a name="freedom"></a>
-
-### freedom
-
-<div align="left">
-  <img src="public/freedom/freedom-badge.webp" alt="osu!freedom badge" width="160">
-</div>
-
-> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. The GitHub repo is offline; both builds are mirrored on fishy.moe._
-
-> [!NOTE]
-> <img src="public/contributors/hina-og-aqn-v1-pfp.jpg" width="20" align="middle" alt="hinamizawa avatar"> **From [hinamizawa](https://github.com/alejandroatacho):** One of the most widely shared free osu! cheats. It still circulates on cheat forums years after its repo went offline, and across the private servers I have moderated over the years it is the cheat I have seen come up the most in player reports and ban appeals. So I gave this abandoned, forgotten cheat its own logo and dedication here. Grab it only from a scanned source such as the fishy.moe mirrors below.
-
-- **Status:** Archived · Unmaintained · GitHub offline
-- **Version:** 0.94.3 (last release May 17, 2024)
-- **Maintainer:** [Ciremun](https://github.com/Ciremun) (creator · account/repo offline · unmaintained), [hel1ngx](https://github.com/hel1ngx) (current v0.98 fork, the build hosted on fishy.moe); contributions from [Maple Syrup](https://maple.software/) and MrFlashStudio
-- **History Preview:** [fishy.moe/freedom-memorial](https://fishy.moe/client-cheating-archive#freedom)
-- **Source (open source):** Ciremun's repo is offline, but the C source survives in community mirrors:
-  - [free-osu/free-osu](https://github.com/free-osu/free-osu) *(v0.94.3, matches the last release)*
-  - [hel1ngx/OSU-FREEDOM](https://github.com/hel1ngx/OSU-FREEDOM) *(later v0.98 fork)*
-- **Download (fishy.moe mirror, current):**
-  - [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) *(v0.98, newest, self-injecting exe)*
-  - [fishy.moe/download/freedom-0-94-3](https://fishy.moe/download/freedom-0-94-3) *(v0.94.3, legacy, DLL + injector)*
-- **Download (legacy):**
-  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(legacy forum mirror)*
-  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(original repo, offline)*
-- **Source thread:**
-  - [UnKnoWnCheaTs: osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
-  - [cheater.fun: osu freedom hack](https://cheater.fun/other-hacks-games/7886-osu-freedom-hack.html) *(legacy build listing)*
-- **Format:** DLL. Ships with its own injector (v0.98 self-injects; v0.94.3 bundles `freedom_injector.exe`). Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) also works.
-- **Cheats:**
-  - Aimbot
-  - Relax Hack
-  - Timewarp
-  - Replay
-  - Mods (Unmod Flashlight, Score Multiplier)
-  - Misc
-- **How to use:**
-  - Run the bundled Launcher, or inject the DLL with any working injector
-  - **Right Click** the map title in-game to open Settings
-  - **F11** to hide or show the mod menu
-
-> [!NOTE]
-> freedom comes with its own injector, so you don't need a separate one. The newest v0.98 build is a single self-injecting `freedom.exe` (just run it); the older v0.94.3 ships `freedom_injector.exe` next to the DLL. Any injector like [Extreme Injector](https://fishy.moe/download/extreme-injector) works too, as a fallback or for other DLL cheats.
-
-> [!WARNING]
-> <img src="public/pserver/fishy.png" width="20" align="middle" alt="fishy.moe research user agent"> **Extracted by fishy.moe research user agent:** Ciremun's original GitHub repo is offline. Because freedom is open source, prefer building from the [free-osu](https://github.com/free-osu/free-osu) mirror, or verify any forum DLL against a known-good build. DLLs reposted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
-
-<details>
-<summary><img src="https://img.shields.io/badge/View_4_freedom_Images-8957e5?style=for-the-badge" alt="View 4 freedom screenshots"></summary>
-
-<br>
-
-<div align="left">
-  <img src="public/freedom/freedom-showcase.webp" alt="freedom in-game overlay, Relax config tab" width="480">
-  <p><em>The in-game overlay: Relax config (SingleTap / Alternate, UR forced to 0).</em></p>
-  <img src="public/freedom/freedomMirrorImage.png" alt="freedom overlay, Difficulty tab with AR / CS / OD sliders" width="480">
-  <p><em>The Difficulty tab: live AR / CS / OD override sliders.</em></p>
-  <img src="public/freedom/freedom-about.webp" alt="freedom overlay, About tab crediting Ciremun, Maple Syrup and MrFlashStudio" width="480">
-  <p><em>The About tab: Ciremun's Freedom v0.8, thanks to Maple Syrup and MrFlashStudio.</em></p>
-  <img src="public/freedom/freedom-badge.webp" alt="osu!freedom circular badge logo" width="480">
-  <p><em>The osu!freedom badge, the first logo this abandoned cheat ever had.</em></p>
-</div>
-
-</details>
-
 <a name="ainu"></a>
 
 ### Ainu
 
-> _Predecessor to [Skooter](#skooter) and [Abypass](#abypass). No longer maintained._
+> _Predecessor to [Skooter](#skooter) and [Abypass](#abypass). Unmaintained for years, but an original copy has been recovered and is being prepared for re-release on fishy.moe._
 
-- **Status:** Archived · Unmaintained
+- **Status:** Archived · Unmaintained · Original copy recovered
 - **History Preview:** [fishy.moe/ainu](https://fishy.moe/client-cheating-archive#ainu)
 - **Maintainer:** Cherry/Aoba Suzukaze (edits by [Chewy/Pythr](https://github.com/Pytxhr); unmaintained)
 - **Download:** An original copy was found. It's currently being tested and verified, with a new design card in the works, before it releases back to the public on fishy.moe.
@@ -1008,6 +1096,50 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 </details>
 
+<a name="chloe"></a>
+
+### Chloe
+
+> _A 2020 cheat by czapek and jacksonisiah that drew its entire interface INSIDE osu!'s own options menu, using osu!'s own widgets, so a running install looked like nothing more than extra settings sections. Development appears to have stopped in 2020. It never had a logo._
+
+- **Status:** Archived · Broken on current osu! · Never had a logo
+- **History Preview:** [fishy.moe/chloe](https://fishy.moe/client-cheating-archive#chloe)
+- **Maintainer:** czapek and jacksonisiah (co-creators, credited in the client's own Miscellaneous panel)
+- **Download:** Not hosted here. karoolxx has a working copy of the later build and may share files later.
+- **Cheats:**
+  - **Time warp** *(both builds)*: an on/off toggle, an "Adjust to difficulty" mode, and a rate slider
+  - **Modification** *(both builds)*: an Approach rate slider, again with "Adjust to difficulty", plus Remove flashlight and Remove hidden
+  - **Spoofer** *(both builds)*: uninstall ID, hard disk serial and MAC addresses, with a "Randomize in place" button
+  - **Presets** *(later build)*: create, save and pick named configurations, which the earlier build had no equivalent of
+  - **Discord RPC spoofer** *(later build)*: a toggle and a username field, so the Discord presence osu! broadcasts could be rewritten
+  - **Replay Bot** *(later build)*: pick a replay file and play it back as input, with an "Interpolate frames" option
+  - **Miscellaneous**: Disable score submission in both builds, joined in the later one by Block spectators and Prevent RTX
+
+> [!NOTE]
+> <img src="https://github.com/kaaroolxx.png" width="20" align="middle" alt="karoolxx avatar"> **Provided by [karoolxx](https://github.com/kaaroolxx):** **What Chloe was:** a cheat by czapek and jacksonisiah, credited in the client itself, that karoolxx used on Bancho in 2020. Its defining trait is the one the captures show immediately: it had no window and no launcher, because it drew itself into osu!'s own options sidebar in osu!'s own style, under a cyan _HACK OPTIONS_ heading sitting directly under the game's version string. Start dates are unknown and development seems to have stopped in 2020. karoolxx also recalls that different versions circulated and believes one of them carried relax, which is not visible in any capture here and stays unconfirmed. Per karoolxx, czapek used it in 2020 to reach around rank 50 with no liveplays.
+
+> [!NOTE]
+> **Two builds, and how to tell them apart:** the earlier pair of captures spells the first section _TIMEWARP_ and stops after Spoofer and Miscellaneous. The later build, the one karoolxx was still running, spells it _TIME WARP_ and adds Presets, a Discord RPC spoofer, a Replay Bot, Block spectators and Prevent RTX. Its panel reports the host build as **b20200811.2**, which dates that version to no earlier than August 11, 2020. karoolxx reports it no longer runs on the current osu! and that the repair looked like roughly two lines.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_4_Preview_Images-8957e5?style=for-the-badge" alt="View 4 Chloe preview images"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/chloe/newer-hack-options.webp" alt="Chloe's HACK OPTIONS heading inside osu!'s options menu, above Presets and Time warp" width="480">
+  <p><em>The later build, announcing itself as HACK OPTIONS directly under osu!'s own version string (b20200811.2) and its Run osu! updater button. Presets, then Time warp and Modification. Shared by karoolxx.</em></p>
+  <img src="public/chloe/newer-replay-bot.webp" alt="Chloe's Discord RPC spoofer, Replay Bot and Miscellaneous panels" width="480">
+  <p><em>Further down the same panel: a Discord RPC spoofer with a username field, a Replay Bot that loads a replay file and plays it back with optional frame interpolation, and a Miscellaneous block carrying Disable score submission, Block spectators and Prevent RTX. Shared by karoolxx.</em></p>
+  <img src="public/chloe/panels-timewarp.webp" alt="Chloe's earlier build showing Timewarp, Modification and the start of the Spoofer" width="480">
+  <p><em>The earlier build karoolxx ran on Bancho in 2020: TIMEWARP as one word, Modification with an approach-rate slider plus Remove flashlight and Remove hidden, and the Spoofer beginning below. Shared by karoolxx.</em></p>
+  <img src="public/chloe/panels-spoofer.webp" alt="Chloe's Spoofer and Miscellaneous panels, ending with the line created by czapek and jacksonisiah" width="480">
+  <p><em>The earlier build's Spoofer (uninstall ID, hard disk serial, MAC addresses, Randomize in place) over a Miscellaneous block, signed off in the client itself: "created by czapek &amp; jacksonisiah". Shared by karoolxx.</em></p>
+</div>
+
+</details>
+
+
 <a name="saturn"></a>
 
 ### Saturn
@@ -1180,13 +1312,14 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/arc](https://fishy.moe/download/arc) |
 | [**pawclient**](#pawclient) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/pawclient](https://fishy.moe/download/pawclient) |
 | [**OSU!RISE**](#osu-rise) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | 💰 Paid | Loader | ✅ | [osurise.online](https://osurise.online/?ref=QCXBQ3ZH) |
+| [**hqOsu**](#hqosu) | ![status: revived](https://img.shields.io/badge/revived-2ee6d6?style=flat-square) | Free | Loader | ❌ | [fishy.moe/download/hqosu](https://fishy.moe/download/hqosu) |
+| [**freedom**](#freedom) | ![status: revived](https://img.shields.io/badge/revived-2ee6d6?style=flat-square) | Free | DLL inject | ❌ | [fishy.moe/download/freedom-0-94-4](https://fishy.moe/download/freedom-0-94-4) |
 | [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _leak (archived)_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**Malice**](#malice) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | DLL inject | TBD | _not public_ |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
 | [**AQN V0 + V1 + V2**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) |
-| [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [fishy.moe/download/freedom-0-98](https://fishy.moe/download/freedom-0-98) |
 | [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
 | [**Auto Assist Megumi**](#megumi) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | _in testing_ |
 | [**Abypass**](#abypass) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _in testing_ |
@@ -1197,6 +1330,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**osu!rx**](#osu-rx) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | b20220424 | ❌ | _in testing_ |
 | [**OsuAuth**](#osuauth) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | TBD | DLL inject | ❌ | _never public_ |
 | [**Clarity**](#clarity) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | TBD | TBD | TBD | _lost to time_ |
+| [**Chloe**](#chloe) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | TBD | TBD | ❌ | _not hosted_ |
 | [**Saturn**](#saturn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | TBD | Standalone | TBD | _undocumented_ |
 | [**Iceware**](#iceware) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | TBD | TBD | TBD | _kept private_ |
 | [**Lycoris**](#lycoris) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | 💰 Paid | TBD | TBD | _no usable build_ |
@@ -1391,7 +1525,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 <a name="contributors"></a>
 
-## Contributors: 12
+## Contributors: 13
 
 <table>
   <tr>
@@ -1482,6 +1616,17 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/kaaroolxx">
+        <img src="https://github.com/kaaroolxx.png" width="80" alt="karoolxx"><br>
+        <sub><b>karoolxx</b></sub>
+      </a>
+    </td>
+    <td>
+      Developer of <a href="#malice">Malice</a>, a DLL-inject client in active development, and the source of the oldest <a href="#aqn">AQN V1</a> material in this archive: the winged loader login window, the module list behind it, and an early eagle mark. Also provided the <a href="#chloe">Chloe</a> captures and its history.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
       <img src="public/contributors/drown.webp" width="80" alt="drown"><br>
       <sub><b>drown</b></sub>
     </td>
@@ -1513,13 +1658,11 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/kaaroolxx">
-        <img src="https://github.com/kaaroolxx.png" width="80" alt="kaaroolxx"><br>
-        <sub><b>kaaroolxx</b></sub>
-      </a>
+      <img src="public/hqosu/727.webp" width="80" alt="727"><br>
+      <sub><b>727</b></sub>
     </td>
     <td>
-      Developer of <a href="#malice">Malice</a>, in active development since April 2026. Provided the logo and UI screenshots for this archive entry.
+      Former moderator of hq.af's Discord, and the reason <a href="#hqosu">hqOsu</a> is in this archive at all. They surfaced the client, the surviving <a href="https://github.com/Kinue72/hqOsu-neko">hqOsu-neko</a> fork and the still-running community server, then ran the eight-year-old build themselves to capture the only console screenshots we have of it.
     </td>
   </tr>
 </table>
